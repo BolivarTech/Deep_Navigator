@@ -28,7 +28,7 @@ logLevel_ = logging.INFO
 OS_ = 'unknown'
 
 # Number of plays
-num_episodes = 13
+num_episodes = 100
 
 
 def build_argparser():
@@ -54,7 +54,7 @@ def save_scores(scores):
     :return:
     """
 
-    with open(f'scores-{datetime.now().strftime("%Y%m%d%H:%M:%S")}.csv', 'w') as f:
+    with open(f'scores-{datetime.now().strftime("%Y%m%d%H%M%S")}.csv', 'w') as f:
         write = csv.writer(f)
         write.writerow(scores)
 
@@ -134,7 +134,7 @@ def play(model_file):
         scores_window.append(score)  # save most recent score
     mean_score = np.mean(scores_window)
     print(f"The mean score was {mean_score:.2f} over {num_episodes} episodes ")
-
+    save_scores(scores_window)
 
 def main():
     """
