@@ -1,0 +1,2271 @@
+2021/12/06 06:56:53 - Agent - INFO: Episode 1	Score: 0.00
+2021/12/06 06:56:54 - ReplayBuffer - INFO: Buffer reached batch size 512 (003)
+2021/12/06 06:56:54 - Agent - INFO: Episode 2	Score: 2.00
+2021/12/06 06:56:54 - Agent - INFO: Environment checkpoint saved at 2 episodes	Average Score: 1.00
+2021/12/06 06:56:55 - Agent - INFO: Episode 3	Score: -1.00
+2021/12/06 06:56:55 - Agent - INFO: Episode 4	Score: 0.00
+2021/12/06 06:56:56 - Agent - INFO: Episode 5	Score: 0.00
+2021/12/06 06:56:57 - Agent - INFO: Episode 6	Score: -2.00
+2021/12/06 06:56:57 - Agent - INFO: Episode 7	Score: -1.00
+2021/12/06 06:56:59 - Agent - INFO: Episode 8	Score: 0.00
+2021/12/06 06:57:00 - Agent - INFO: Episode 9	Score: -1.00
+2021/12/06 06:57:00 - Agent - INFO: Episode 10	Score: -3.00
+2021/12/06 06:57:01 - Agent - INFO: Episode 11	Score: 1.00
+2021/12/06 06:57:02 - Agent - INFO: Episode 12	Score: -1.00
+2021/12/06 06:57:02 - Agent - INFO: Episode 13	Score: 0.00
+2021/12/06 06:57:03 - Agent - INFO: Episode 14	Score: -1.00
+2021/12/06 06:57:04 - Agent - INFO: Episode 15	Score: -1.00
+2021/12/06 06:57:04 - Agent - INFO: Episode 16	Score: 1.00
+2021/12/06 06:57:06 - Agent - INFO: Episode 17	Score: -2.00
+2021/12/06 06:57:06 - Agent - INFO: Episode 18	Score: -1.00
+2021/12/06 06:57:07 - Agent - INFO: Episode 19	Score: 1.00
+2021/12/06 06:57:08 - Agent - INFO: Episode 20	Score: -1.00
+2021/12/06 06:57:08 - Agent - INFO: Episode 21	Score: 0.00
+2021/12/06 06:57:09 - Agent - INFO: Episode 22	Score: 0.00
+2021/12/06 06:57:10 - Agent - INFO: Episode 23	Score: -1.00
+2021/12/06 06:57:10 - Agent - INFO: Episode 24	Score: 1.00
+2021/12/06 06:57:11 - Agent - INFO: Episode 25	Score: 1.00
+2021/12/06 06:57:12 - Agent - INFO: Episode 26	Score: 0.00
+2021/12/06 06:57:12 - Agent - INFO: Episode 27	Score: 0.00
+2021/12/06 06:57:13 - Agent - INFO: Episode 28	Score: 0.00
+2021/12/06 06:57:14 - Agent - INFO: Episode 29	Score: -1.00
+2021/12/06 06:57:15 - Agent - INFO: Episode 30	Score: 2.00
+2021/12/06 06:57:15 - Agent - INFO: Episode 31	Score: 1.00
+2021/12/06 06:57:16 - Agent - INFO: Episode 32	Score: 3.00
+2021/12/06 06:57:17 - Agent - INFO: Episode 33	Score: 0.00
+2021/12/06 06:57:17 - Agent - INFO: Episode 34	Score: 1.00
+2021/12/06 06:57:18 - Agent - INFO: Episode 35	Score: 1.00
+2021/12/06 06:57:19 - Agent - INFO: Episode 36	Score: 0.00
+2021/12/06 06:57:19 - Agent - INFO: Episode 37	Score: 0.00
+2021/12/06 06:57:20 - Agent - INFO: Episode 38	Score: 0.00
+2021/12/06 06:57:21 - Agent - INFO: Episode 39	Score: -1.00
+2021/12/06 06:57:22 - Agent - INFO: Episode 40	Score: 1.00
+2021/12/06 06:57:22 - Agent - INFO: Episode 41	Score: 0.00
+2021/12/06 06:57:23 - Agent - INFO: Episode 42	Score: -1.00
+2021/12/06 06:57:24 - Agent - INFO: Episode 43	Score: 1.00
+2021/12/06 06:57:24 - Agent - INFO: Episode 44	Score: -1.00
+2021/12/06 06:57:25 - Agent - INFO: Episode 45	Score: 1.00
+2021/12/06 06:57:26 - Agent - INFO: Episode 46	Score: 1.00
+2021/12/06 06:57:27 - Agent - INFO: Episode 47	Score: 0.00
+2021/12/06 06:57:27 - Agent - INFO: Episode 48	Score: 2.00
+2021/12/06 06:57:28 - Agent - INFO: Episode 49	Score: 0.00
+2021/12/06 06:57:29 - Agent - INFO: Episode 50	Score: 0.00
+2021/12/06 06:57:30 - Agent - INFO: Episode 51	Score: 1.00
+2021/12/06 06:57:30 - Agent - INFO: Episode 52	Score: -1.00
+2021/12/06 06:57:31 - Agent - INFO: Episode 53	Score: 1.00
+2021/12/06 06:57:32 - Agent - INFO: Episode 54	Score: 3.00
+2021/12/06 06:57:32 - Agent - INFO: Episode 55	Score: 1.00
+2021/12/06 06:57:33 - Agent - INFO: Episode 56	Score: -1.00
+2021/12/06 06:57:34 - Agent - INFO: Episode 57	Score: -1.00
+2021/12/06 06:57:35 - Agent - INFO: Episode 58	Score: 2.00
+2021/12/06 06:57:35 - Agent - INFO: Episode 59	Score: 2.00
+2021/12/06 06:57:36 - Agent - INFO: Episode 60	Score: -2.00
+2021/12/06 06:57:37 - Agent - INFO: Episode 61	Score: 1.00
+2021/12/06 06:57:38 - Agent - INFO: Episode 62	Score: 1.00
+2021/12/06 06:57:38 - Agent - INFO: Episode 63	Score: 4.00
+2021/12/06 06:57:39 - Agent - INFO: Episode 64	Score: -2.00
+2021/12/06 06:57:40 - Agent - INFO: Episode 65	Score: 2.00
+2021/12/06 06:57:41 - Agent - INFO: Episode 66	Score: 0.00
+2021/12/06 06:57:41 - Agent - INFO: Episode 67	Score: 1.00
+2021/12/06 06:57:42 - Agent - INFO: Episode 68	Score: 3.00
+2021/12/06 06:57:43 - Agent - INFO: Episode 69	Score: 1.00
+2021/12/06 06:57:44 - Agent - INFO: Episode 70	Score: 2.00
+2021/12/06 06:57:44 - Agent - INFO: Episode 71	Score: -2.00
+2021/12/06 06:57:45 - Agent - INFO: Episode 72	Score: 2.00
+2021/12/06 06:57:46 - Agent - INFO: Episode 73	Score: 1.00
+2021/12/06 06:57:47 - Agent - INFO: Episode 74	Score: 0.00
+2021/12/06 06:57:47 - Agent - INFO: Episode 75	Score: -1.00
+2021/12/06 06:57:48 - Agent - INFO: Episode 76	Score: 3.00
+2021/12/06 06:57:49 - Agent - INFO: Episode 77	Score: 3.00
+2021/12/06 06:57:50 - Agent - INFO: Episode 78	Score: 2.00
+2021/12/06 06:57:50 - Agent - INFO: Episode 79	Score: 1.00
+2021/12/06 06:57:51 - Agent - INFO: Episode 80	Score: 1.00
+2021/12/06 06:57:52 - Agent - INFO: Episode 81	Score: 2.00
+2021/12/06 06:57:52 - Agent - INFO: Episode 82	Score: 1.00
+2021/12/06 06:57:53 - Agent - INFO: Episode 83	Score: 2.00
+2021/12/06 06:57:54 - Agent - INFO: Episode 84	Score: 1.00
+2021/12/06 06:57:55 - Agent - INFO: Episode 85	Score: 2.00
+2021/12/06 06:57:55 - Agent - INFO: Episode 86	Score: 0.00
+2021/12/06 06:57:56 - Agent - INFO: Episode 87	Score: 1.00
+2021/12/06 06:57:57 - Agent - INFO: Episode 88	Score: 3.00
+2021/12/06 06:57:58 - Agent - INFO: Episode 89	Score: 1.00
+2021/12/06 06:57:58 - Agent - INFO: Episode 90	Score: -1.00
+2021/12/06 06:57:59 - Agent - INFO: Episode 91	Score: 3.00
+2021/12/06 06:58:00 - Agent - INFO: Episode 92	Score: 2.00
+2021/12/06 06:58:01 - Agent - INFO: Episode 93	Score: 0.00
+2021/12/06 06:58:01 - Agent - INFO: Episode 94	Score: 1.00
+2021/12/06 06:58:02 - Agent - INFO: Episode 95	Score: -1.00
+2021/12/06 06:58:03 - Agent - INFO: Episode 96	Score: 1.00
+2021/12/06 06:58:04 - Agent - INFO: Episode 97	Score: 5.00
+2021/12/06 06:58:04 - Agent - INFO: Episode 98	Score: 5.00
+2021/12/06 06:58:05 - Agent - INFO: Episode 99	Score: 4.00
+2021/12/06 06:58:06 - Agent - INFO: Episode 100	Score: 2.00
+2021/12/06 06:58:06 - Agent - INFO: Episode 100	Average Score: 0.63
+2021/12/06 06:58:07 - Agent - INFO: Episode 101	Score: 1.00
+2021/12/06 06:58:08 - Agent - INFO: Episode 102	Score: 3.00
+2021/12/06 06:58:09 - Agent - INFO: Episode 103	Score: 2.00
+2021/12/06 06:58:09 - Agent - INFO: Episode 104	Score: 2.00
+2021/12/06 06:58:10 - Agent - INFO: Episode 105	Score: 1.00
+2021/12/06 06:58:11 - Agent - INFO: Episode 106	Score: -1.00
+2021/12/06 06:58:12 - Agent - INFO: Episode 107	Score: 0.00
+2021/12/06 06:58:12 - Agent - INFO: Episode 108	Score: 1.00
+2021/12/06 06:58:13 - Agent - INFO: Episode 109	Score: 2.00
+2021/12/06 06:58:14 - Agent - INFO: Episode 110	Score: 3.00
+2021/12/06 06:58:15 - Agent - INFO: Episode 111	Score: 3.00
+2021/12/06 06:58:15 - Agent - INFO: Episode 112	Score: 3.00
+2021/12/06 06:58:16 - Agent - INFO: Episode 113	Score: 2.00
+2021/12/06 06:58:17 - Agent - INFO: Episode 114	Score: 0.00
+2021/12/06 06:58:18 - Agent - INFO: Episode 115	Score: 6.00
+2021/12/06 06:58:18 - Agent - INFO: Episode 116	Score: 3.00
+2021/12/06 06:58:18 - Agent - INFO: Environment checkpoint saved at 116 episodes	Average Score: 1.01
+2021/12/06 06:58:19 - Agent - INFO: Episode 117	Score: 3.00
+2021/12/06 06:58:19 - Agent - INFO: Environment checkpoint saved at 117 episodes	Average Score: 1.06
+2021/12/06 06:58:20 - Agent - INFO: Episode 118	Score: 2.00
+2021/12/06 06:58:20 - Agent - INFO: Environment checkpoint saved at 118 episodes	Average Score: 1.09
+2021/12/06 06:58:21 - Agent - INFO: Episode 119	Score: 3.00
+2021/12/06 06:58:21 - Agent - INFO: Environment checkpoint saved at 119 episodes	Average Score: 1.11
+2021/12/06 06:58:21 - Agent - INFO: Episode 120	Score: 1.00
+2021/12/06 06:58:21 - Agent - INFO: Environment checkpoint saved at 120 episodes	Average Score: 1.13
+2021/12/06 06:58:22 - Agent - INFO: Episode 121	Score: 5.00
+2021/12/06 06:58:22 - Agent - INFO: Environment checkpoint saved at 121 episodes	Average Score: 1.18
+2021/12/06 06:58:23 - Agent - INFO: Episode 122	Score: 5.00
+2021/12/06 06:58:23 - Agent - INFO: Environment checkpoint saved at 122 episodes	Average Score: 1.23
+2021/12/06 06:58:24 - Agent - INFO: Episode 123	Score: 3.00
+2021/12/06 06:58:24 - Agent - INFO: Environment checkpoint saved at 123 episodes	Average Score: 1.27
+2021/12/06 06:58:25 - Agent - INFO: Episode 124	Score: 4.00
+2021/12/06 06:58:25 - Agent - INFO: Environment checkpoint saved at 124 episodes	Average Score: 1.30
+2021/12/06 06:58:26 - Agent - INFO: Episode 125	Score: 5.00
+2021/12/06 06:58:26 - Agent - INFO: Environment checkpoint saved at 125 episodes	Average Score: 1.34
+2021/12/06 06:58:27 - Agent - INFO: Episode 126	Score: 0.00
+2021/12/06 06:58:28 - Agent - INFO: Episode 127	Score: 5.00
+2021/12/06 06:58:28 - Agent - INFO: Environment checkpoint saved at 127 episodes	Average Score: 1.39
+2021/12/06 06:58:28 - Agent - INFO: Episode 128	Score: 2.00
+2021/12/06 06:58:28 - Agent - INFO: Environment checkpoint saved at 128 episodes	Average Score: 1.41
+2021/12/06 06:58:29 - Agent - INFO: Episode 129	Score: 1.00
+2021/12/06 06:58:29 - Agent - INFO: Environment checkpoint saved at 129 episodes	Average Score: 1.43
+2021/12/06 06:58:30 - Agent - INFO: Episode 130	Score: 2.00
+2021/12/06 06:58:31 - Agent - INFO: Episode 131	Score: 5.00
+2021/12/06 06:58:31 - Agent - INFO: Environment checkpoint saved at 131 episodes	Average Score: 1.47
+2021/12/06 06:58:32 - Agent - INFO: Episode 132	Score: 0.00
+2021/12/06 06:58:33 - Agent - INFO: Episode 133	Score: 3.00
+2021/12/06 06:58:33 - Agent - INFO: Episode 134	Score: 1.00
+2021/12/06 06:58:34 - Agent - INFO: Episode 135	Score: 0.00
+2021/12/06 06:58:35 - Agent - INFO: Episode 136	Score: 0.00
+2021/12/06 06:58:36 - Agent - INFO: Episode 137	Score: 7.00
+2021/12/06 06:58:36 - Agent - INFO: Environment checkpoint saved at 137 episodes	Average Score: 1.53
+2021/12/06 06:58:37 - Agent - INFO: Episode 138	Score: 7.00
+2021/12/06 06:58:37 - Agent - INFO: Environment checkpoint saved at 138 episodes	Average Score: 1.60
+2021/12/06 06:58:37 - Agent - INFO: Episode 139	Score: 2.00
+2021/12/06 06:58:37 - Agent - INFO: Environment checkpoint saved at 139 episodes	Average Score: 1.63
+2021/12/06 06:58:38 - Agent - INFO: Episode 140	Score: 10.00
+2021/12/06 06:58:38 - Agent - INFO: Environment checkpoint saved at 140 episodes	Average Score: 1.72
+2021/12/06 06:58:39 - Agent - INFO: Episode 141	Score: 2.00
+2021/12/06 06:58:39 - Agent - INFO: Environment checkpoint saved at 141 episodes	Average Score: 1.74
+2021/12/06 06:58:40 - Agent - INFO: Episode 142	Score: 4.00
+2021/12/06 06:58:40 - Agent - INFO: Environment checkpoint saved at 142 episodes	Average Score: 1.79
+2021/12/06 06:58:40 - Agent - INFO: Episode 143	Score: 1.00
+2021/12/06 06:58:41 - Agent - INFO: Episode 144	Score: 7.00
+2021/12/06 06:58:41 - Agent - INFO: Environment checkpoint saved at 144 episodes	Average Score: 1.87
+2021/12/06 06:58:42 - Agent - INFO: Episode 145	Score: 7.00
+2021/12/06 06:58:42 - Agent - INFO: Environment checkpoint saved at 145 episodes	Average Score: 1.93
+2021/12/06 06:58:43 - Agent - INFO: Episode 146	Score: 2.00
+2021/12/06 06:58:43 - Agent - INFO: Environment checkpoint saved at 146 episodes	Average Score: 1.94
+2021/12/06 06:58:43 - Agent - INFO: Episode 147	Score: 7.00
+2021/12/06 06:58:43 - Agent - INFO: Environment checkpoint saved at 147 episodes	Average Score: 2.01
+2021/12/06 06:58:44 - Agent - INFO: Episode 148	Score: 3.00
+2021/12/06 06:58:44 - Agent - INFO: Environment checkpoint saved at 148 episodes	Average Score: 2.02
+2021/12/06 06:58:45 - Agent - INFO: Episode 149	Score: 2.00
+2021/12/06 06:58:45 - Agent - INFO: Environment checkpoint saved at 149 episodes	Average Score: 2.04
+2021/12/06 06:58:46 - Agent - INFO: Episode 150	Score: 9.00
+2021/12/06 06:58:46 - Agent - INFO: Environment checkpoint saved at 150 episodes	Average Score: 2.13
+2021/12/06 06:58:46 - Agent - INFO: Episode 151	Score: 6.00
+2021/12/06 06:58:46 - Agent - INFO: Environment checkpoint saved at 151 episodes	Average Score: 2.18
+2021/12/06 06:58:47 - Agent - INFO: Episode 152	Score: 5.00
+2021/12/06 06:58:47 - Agent - INFO: Environment checkpoint saved at 152 episodes	Average Score: 2.24
+2021/12/06 06:58:48 - Agent - INFO: Episode 153	Score: 5.00
+2021/12/06 06:58:48 - Agent - INFO: Environment checkpoint saved at 153 episodes	Average Score: 2.28
+2021/12/06 06:58:49 - Agent - INFO: Episode 154	Score: 0.00
+2021/12/06 06:58:49 - Agent - INFO: Episode 155	Score: 5.00
+2021/12/06 06:58:49 - Agent - INFO: Environment checkpoint saved at 155 episodes	Average Score: 2.29
+2021/12/06 06:58:50 - Agent - INFO: Episode 156	Score: 5.00
+2021/12/06 06:58:50 - Agent - INFO: Environment checkpoint saved at 156 episodes	Average Score: 2.35
+2021/12/06 06:58:51 - Agent - INFO: Episode 157	Score: 6.00
+2021/12/06 06:58:51 - Agent - INFO: Environment checkpoint saved at 157 episodes	Average Score: 2.42
+2021/12/06 06:58:52 - Agent - INFO: Episode 158	Score: 4.00
+2021/12/06 06:58:52 - Agent - INFO: Environment checkpoint saved at 158 episodes	Average Score: 2.44
+2021/12/06 06:58:52 - Agent - INFO: Episode 159	Score: 10.00
+2021/12/06 06:58:52 - Agent - INFO: Environment checkpoint saved at 159 episodes	Average Score: 2.52
+2021/12/06 06:58:53 - Agent - INFO: Episode 160	Score: 1.00
+2021/12/06 06:58:53 - Agent - INFO: Environment checkpoint saved at 160 episodes	Average Score: 2.55
+2021/12/06 06:58:54 - Agent - INFO: Episode 161	Score: 2.00
+2021/12/06 06:58:54 - Agent - INFO: Environment checkpoint saved at 161 episodes	Average Score: 2.56
+2021/12/06 06:58:55 - Agent - INFO: Episode 162	Score: 7.00
+2021/12/06 06:58:55 - Agent - INFO: Environment checkpoint saved at 162 episodes	Average Score: 2.62
+2021/12/06 06:58:55 - Agent - INFO: Episode 163	Score: 5.00
+2021/12/06 06:58:55 - Agent - INFO: Environment checkpoint saved at 163 episodes	Average Score: 2.63
+2021/12/06 06:58:56 - Agent - INFO: Episode 164	Score: 6.00
+2021/12/06 06:58:56 - Agent - INFO: Environment checkpoint saved at 164 episodes	Average Score: 2.71
+2021/12/06 06:58:57 - Agent - INFO: Episode 165	Score: 2.00
+2021/12/06 06:58:58 - Agent - INFO: Episode 166	Score: 3.00
+2021/12/06 06:58:58 - Agent - INFO: Environment checkpoint saved at 166 episodes	Average Score: 2.74
+2021/12/06 06:58:59 - Agent - INFO: Episode 167	Score: 8.00
+2021/12/06 06:58:59 - Agent - INFO: Environment checkpoint saved at 167 episodes	Average Score: 2.81
+2021/12/06 06:58:59 - Agent - INFO: Episode 168	Score: 7.00
+2021/12/06 06:58:59 - Agent - INFO: Environment checkpoint saved at 168 episodes	Average Score: 2.85
+2021/12/06 06:59:00 - Agent - INFO: Episode 169	Score: 9.00
+2021/12/06 06:59:00 - Agent - INFO: Environment checkpoint saved at 169 episodes	Average Score: 2.93
+2021/12/06 06:59:01 - Agent - INFO: Episode 170	Score: 3.00
+2021/12/06 06:59:01 - Agent - INFO: Environment checkpoint saved at 170 episodes	Average Score: 2.94
+2021/12/06 06:59:02 - Agent - INFO: Episode 171	Score: 1.00
+2021/12/06 06:59:02 - Agent - INFO: Environment checkpoint saved at 171 episodes	Average Score: 2.97
+2021/12/06 06:59:02 - Agent - INFO: Episode 172	Score: 4.00
+2021/12/06 06:59:02 - Agent - INFO: Environment checkpoint saved at 172 episodes	Average Score: 2.99
+2021/12/06 06:59:03 - Agent - INFO: Episode 173	Score: 4.00
+2021/12/06 06:59:03 - Agent - INFO: Environment checkpoint saved at 173 episodes	Average Score: 3.02
+2021/12/06 06:59:04 - Agent - INFO: Episode 174	Score: 6.00
+2021/12/06 06:59:04 - Agent - INFO: Environment checkpoint saved at 174 episodes	Average Score: 3.08
+2021/12/06 06:59:05 - Agent - INFO: Episode 175	Score: 10.00
+2021/12/06 06:59:05 - Agent - INFO: Environment checkpoint saved at 175 episodes	Average Score: 3.19
+2021/12/06 06:59:05 - Agent - INFO: Episode 176	Score: 7.00
+2021/12/06 06:59:05 - Agent - INFO: Environment checkpoint saved at 176 episodes	Average Score: 3.23
+2021/12/06 06:59:06 - Agent - INFO: Episode 177	Score: 7.00
+2021/12/06 06:59:06 - Agent - INFO: Environment checkpoint saved at 177 episodes	Average Score: 3.27
+2021/12/06 06:59:07 - Agent - INFO: Episode 178	Score: 2.00
+2021/12/06 06:59:08 - Agent - INFO: Episode 179	Score: 2.00
+2021/12/06 06:59:08 - Agent - INFO: Environment checkpoint saved at 179 episodes	Average Score: 3.28
+2021/12/06 06:59:08 - Agent - INFO: Episode 180	Score: 3.00
+2021/12/06 06:59:08 - Agent - INFO: Environment checkpoint saved at 180 episodes	Average Score: 3.30
+2021/12/06 06:59:09 - Agent - INFO: Episode 181	Score: 7.00
+2021/12/06 06:59:09 - Agent - INFO: Environment checkpoint saved at 181 episodes	Average Score: 3.35
+2021/12/06 06:59:10 - Agent - INFO: Episode 182	Score: 4.00
+2021/12/06 06:59:10 - Agent - INFO: Environment checkpoint saved at 182 episodes	Average Score: 3.38
+2021/12/06 06:59:11 - Agent - INFO: Episode 183	Score: 7.00
+2021/12/06 06:59:11 - Agent - INFO: Environment checkpoint saved at 183 episodes	Average Score: 3.43
+2021/12/06 06:59:11 - Agent - INFO: Episode 184	Score: 5.00
+2021/12/06 06:59:11 - Agent - INFO: Environment checkpoint saved at 184 episodes	Average Score: 3.47
+2021/12/06 06:59:12 - Agent - INFO: Episode 185	Score: 8.00
+2021/12/06 06:59:12 - Agent - INFO: Environment checkpoint saved at 185 episodes	Average Score: 3.53
+2021/12/06 06:59:13 - Agent - INFO: Episode 186	Score: 4.00
+2021/12/06 06:59:13 - Agent - INFO: Environment checkpoint saved at 186 episodes	Average Score: 3.57
+2021/12/06 06:59:14 - Agent - INFO: Episode 187	Score: 7.00
+2021/12/06 06:59:14 - Agent - INFO: Environment checkpoint saved at 187 episodes	Average Score: 3.63
+2021/12/06 06:59:15 - Agent - INFO: Episode 188	Score: 4.00
+2021/12/06 06:59:15 - Agent - INFO: Environment checkpoint saved at 188 episodes	Average Score: 3.64
+2021/12/06 06:59:15 - Agent - INFO: Episode 189	Score: 7.00
+2021/12/06 06:59:15 - Agent - INFO: Environment checkpoint saved at 189 episodes	Average Score: 3.70
+2021/12/06 06:59:16 - Agent - INFO: Episode 190	Score: 1.00
+2021/12/06 06:59:16 - Agent - INFO: Environment checkpoint saved at 190 episodes	Average Score: 3.72
+2021/12/06 06:59:17 - Agent - INFO: Episode 191	Score: 8.00
+2021/12/06 06:59:17 - Agent - INFO: Environment checkpoint saved at 191 episodes	Average Score: 3.77
+2021/12/06 06:59:18 - Agent - INFO: Episode 192	Score: 11.00
+2021/12/06 06:59:18 - Agent - INFO: Environment checkpoint saved at 192 episodes	Average Score: 3.86
+2021/12/06 06:59:18 - Agent - INFO: Episode 193	Score: 0.00
+2021/12/06 06:59:19 - Agent - INFO: Episode 194	Score: 7.00
+2021/12/06 06:59:19 - Agent - INFO: Environment checkpoint saved at 194 episodes	Average Score: 3.92
+2021/12/06 06:59:20 - Agent - INFO: Episode 195	Score: 3.00
+2021/12/06 06:59:20 - Agent - INFO: Environment checkpoint saved at 195 episodes	Average Score: 3.96
+2021/12/06 06:59:21 - Agent - INFO: Episode 196	Score: 5.00
+2021/12/06 06:59:21 - Agent - INFO: Environment checkpoint saved at 196 episodes	Average Score: 4.00
+2021/12/06 06:59:21 - Agent - INFO: Episode 197	Score: 5.00
+2021/12/06 06:59:22 - Agent - INFO: Episode 198	Score: 9.00
+2021/12/06 06:59:22 - Agent - INFO: Environment checkpoint saved at 198 episodes	Average Score: 4.04
+2021/12/06 06:59:23 - Agent - INFO: Episode 199	Score: 9.00
+2021/12/06 06:59:23 - Agent - INFO: Environment checkpoint saved at 199 episodes	Average Score: 4.09
+2021/12/06 06:59:24 - Agent - INFO: Episode 200	Score: 6.00
+2021/12/06 06:59:24 - Agent - INFO: Episode 200	Average Score: 4.13
+2021/12/06 06:59:24 - Agent - INFO: Environment checkpoint saved at 200 episodes	Average Score: 4.13
+2021/12/06 06:59:24 - Agent - INFO: Episode 201	Score: 8.00
+2021/12/06 06:59:25 - Agent - INFO: Environment checkpoint saved at 201 episodes	Average Score: 4.20
+2021/12/06 06:59:25 - Agent - INFO: Episode 202	Score: 9.00
+2021/12/06 06:59:25 - Agent - INFO: Environment checkpoint saved at 202 episodes	Average Score: 4.26
+2021/12/06 06:59:26 - Agent - INFO: Episode 203	Score: 7.00
+2021/12/06 06:59:26 - Agent - INFO: Environment checkpoint saved at 203 episodes	Average Score: 4.31
+2021/12/06 06:59:27 - Agent - INFO: Episode 204	Score: 6.00
+2021/12/06 06:59:27 - Agent - INFO: Environment checkpoint saved at 204 episodes	Average Score: 4.35
+2021/12/06 06:59:28 - Agent - INFO: Episode 205	Score: 3.00
+2021/12/06 06:59:28 - Agent - INFO: Environment checkpoint saved at 205 episodes	Average Score: 4.37
+2021/12/06 06:59:28 - Agent - INFO: Episode 206	Score: 4.00
+2021/12/06 06:59:28 - Agent - INFO: Environment checkpoint saved at 206 episodes	Average Score: 4.42
+2021/12/06 06:59:29 - Agent - INFO: Episode 207	Score: 6.00
+2021/12/06 06:59:29 - Agent - INFO: Environment checkpoint saved at 207 episodes	Average Score: 4.48
+2021/12/06 06:59:30 - Agent - INFO: Episode 208	Score: 6.00
+2021/12/06 06:59:30 - Agent - INFO: Environment checkpoint saved at 208 episodes	Average Score: 4.53
+2021/12/06 06:59:31 - Agent - INFO: Episode 209	Score: 10.00
+2021/12/06 06:59:31 - Agent - INFO: Environment checkpoint saved at 209 episodes	Average Score: 4.61
+2021/12/06 06:59:31 - Agent - INFO: Episode 210	Score: 7.00
+2021/12/06 06:59:31 - Agent - INFO: Environment checkpoint saved at 210 episodes	Average Score: 4.65
+2021/12/06 06:59:32 - Agent - INFO: Episode 211	Score: 2.00
+2021/12/06 06:59:33 - Agent - INFO: Episode 212	Score: 6.00
+2021/12/06 06:59:33 - Agent - INFO: Environment checkpoint saved at 212 episodes	Average Score: 4.67
+2021/12/06 06:59:34 - Agent - INFO: Episode 213	Score: 6.00
+2021/12/06 06:59:34 - Agent - INFO: Environment checkpoint saved at 213 episodes	Average Score: 4.71
+2021/12/06 06:59:35 - Agent - INFO: Episode 214	Score: 5.00
+2021/12/06 06:59:35 - Agent - INFO: Environment checkpoint saved at 214 episodes	Average Score: 4.76
+2021/12/06 06:59:36 - Agent - INFO: Episode 215	Score: 13.00
+2021/12/06 06:59:36 - Agent - INFO: Environment checkpoint saved at 215 episodes	Average Score: 4.83
+2021/12/06 06:59:36 - Agent - INFO: Episode 216	Score: 10.00
+2021/12/06 06:59:36 - Agent - INFO: Environment checkpoint saved at 216 episodes	Average Score: 4.90
+2021/12/06 06:59:37 - Agent - INFO: Episode 217	Score: 1.00
+2021/12/06 06:59:38 - Agent - INFO: Episode 218	Score: 4.00
+2021/12/06 06:59:39 - Agent - INFO: Episode 219	Score: 11.00
+2021/12/06 06:59:39 - Agent - INFO: Environment checkpoint saved at 219 episodes	Average Score: 4.98
+2021/12/06 06:59:40 - Agent - INFO: Episode 220	Score: 4.00
+2021/12/06 06:59:40 - Agent - INFO: Environment checkpoint saved at 220 episodes	Average Score: 5.01
+2021/12/06 06:59:40 - Agent - INFO: Episode 221	Score: 6.00
+2021/12/06 06:59:40 - Agent - INFO: Environment checkpoint saved at 221 episodes	Average Score: 5.02
+2021/12/06 06:59:41 - Agent - INFO: Episode 222	Score: 5.00
+2021/12/06 06:59:42 - Agent - INFO: Episode 223	Score: 8.00
+2021/12/06 06:59:42 - Agent - INFO: Environment checkpoint saved at 223 episodes	Average Score: 5.07
+2021/12/06 06:59:43 - Agent - INFO: Episode 224	Score: 5.00
+2021/12/06 06:59:43 - Agent - INFO: Environment checkpoint saved at 224 episodes	Average Score: 5.08
+2021/12/06 06:59:44 - Agent - INFO: Episode 225	Score: 6.00
+2021/12/06 06:59:44 - Agent - INFO: Environment checkpoint saved at 225 episodes	Average Score: 5.09
+2021/12/06 06:59:44 - Agent - INFO: Episode 226	Score: 4.00
+2021/12/06 06:59:44 - Agent - INFO: Environment checkpoint saved at 226 episodes	Average Score: 5.13
+2021/12/06 06:59:45 - Agent - INFO: Episode 227	Score: 6.00
+2021/12/06 06:59:45 - Agent - INFO: Environment checkpoint saved at 227 episodes	Average Score: 5.14
+2021/12/06 06:59:46 - Agent - INFO: Episode 228	Score: 10.00
+2021/12/06 06:59:46 - Agent - INFO: Environment checkpoint saved at 228 episodes	Average Score: 5.22
+2021/12/06 06:59:47 - Agent - INFO: Episode 229	Score: 9.00
+2021/12/06 06:59:47 - Agent - INFO: Environment checkpoint saved at 229 episodes	Average Score: 5.30
+2021/12/06 06:59:47 - Agent - INFO: Episode 230	Score: 0.00
+2021/12/06 06:59:48 - Agent - INFO: Episode 231	Score: 6.00
+2021/12/06 06:59:49 - Agent - INFO: Episode 232	Score: 9.00
+2021/12/06 06:59:49 - Agent - INFO: Environment checkpoint saved at 232 episodes	Average Score: 5.38
+2021/12/06 06:59:50 - Agent - INFO: Episode 233	Score: 9.00
+2021/12/06 06:59:50 - Agent - INFO: Environment checkpoint saved at 233 episodes	Average Score: 5.44
+2021/12/06 06:59:51 - Agent - INFO: Episode 234	Score: 8.00
+2021/12/06 06:59:51 - Agent - INFO: Environment checkpoint saved at 234 episodes	Average Score: 5.51
+2021/12/06 06:59:51 - Agent - INFO: Episode 235	Score: 4.00
+2021/12/06 06:59:51 - Agent - INFO: Environment checkpoint saved at 235 episodes	Average Score: 5.55
+2021/12/06 06:59:52 - Agent - INFO: Episode 236	Score: 13.00
+2021/12/06 06:59:52 - Agent - INFO: Environment checkpoint saved at 236 episodes	Average Score: 5.68
+2021/12/06 06:59:53 - Agent - INFO: Episode 237	Score: 3.00
+2021/12/06 06:59:54 - Agent - INFO: Episode 238	Score: 9.00
+2021/12/06 06:59:55 - Agent - INFO: Episode 239	Score: 11.00
+2021/12/06 06:59:55 - Agent - INFO: Environment checkpoint saved at 239 episodes	Average Score: 5.75
+2021/12/06 06:59:55 - Agent - INFO: Episode 240	Score: 9.00
+2021/12/06 06:59:56 - Agent - INFO: Episode 241	Score: 6.00
+2021/12/06 06:59:56 - Agent - INFO: Environment checkpoint saved at 241 episodes	Average Score: 5.78
+2021/12/06 06:59:57 - Agent - INFO: Episode 242	Score: 3.00
+2021/12/06 06:59:58 - Agent - INFO: Episode 243	Score: 12.00
+2021/12/06 06:59:58 - Agent - INFO: Environment checkpoint saved at 243 episodes	Average Score: 5.88
+2021/12/06 06:59:59 - Agent - INFO: Episode 244	Score: 9.00
+2021/12/06 06:59:59 - Agent - INFO: Environment checkpoint saved at 244 episodes	Average Score: 5.90
+2021/12/06 07:00:00 - Agent - INFO: Episode 245	Score: 11.00
+2021/12/06 07:00:00 - Agent - INFO: Environment checkpoint saved at 245 episodes	Average Score: 5.94
+2021/12/06 07:00:01 - Agent - INFO: Episode 246	Score: 6.00
+2021/12/06 07:00:01 - Agent - INFO: Environment checkpoint saved at 246 episodes	Average Score: 5.98
+2021/12/06 07:00:02 - Agent - INFO: Episode 247	Score: 7.00
+2021/12/06 07:00:03 - Agent - INFO: Episode 248	Score: 10.00
+2021/12/06 07:00:03 - Agent - INFO: Environment checkpoint saved at 248 episodes	Average Score: 6.05
+2021/12/06 07:00:03 - Agent - INFO: Episode 249	Score: 8.00
+2021/12/06 07:00:03 - Agent - INFO: Environment checkpoint saved at 249 episodes	Average Score: 6.11
+2021/12/06 07:00:04 - Agent - INFO: Episode 250	Score: 9.00
+2021/12/06 07:00:05 - Agent - INFO: Episode 251	Score: 4.00
+2021/12/06 07:00:06 - Agent - INFO: Episode 252	Score: 6.00
+2021/12/06 07:00:07 - Agent - INFO: Episode 253	Score: 11.00
+2021/12/06 07:00:07 - Agent - INFO: Environment checkpoint saved at 253 episodes	Average Score: 6.16
+2021/12/06 07:00:08 - Agent - INFO: Episode 254	Score: 8.00
+2021/12/06 07:00:08 - Agent - INFO: Environment checkpoint saved at 254 episodes	Average Score: 6.24
+2021/12/06 07:00:08 - Agent - INFO: Episode 255	Score: 2.00
+2021/12/06 07:00:09 - Agent - INFO: Episode 256	Score: 4.00
+2021/12/06 07:00:10 - Agent - INFO: Episode 257	Score: 4.00
+2021/12/06 07:00:11 - Agent - INFO: Episode 258	Score: 16.00
+2021/12/06 07:00:11 - Agent - INFO: Environment checkpoint saved at 258 episodes	Average Score: 6.30
+2021/12/06 07:00:12 - Agent - INFO: Episode 259	Score: 6.00
+2021/12/06 07:00:12 - Agent - INFO: Episode 260	Score: 1.00
+2021/12/06 07:00:13 - Agent - INFO: Episode 261	Score: 16.00
+2021/12/06 07:00:13 - Agent - INFO: Environment checkpoint saved at 261 episodes	Average Score: 6.40
+2021/12/06 07:00:14 - Agent - INFO: Episode 262	Score: 12.00
+2021/12/06 07:00:14 - Agent - INFO: Environment checkpoint saved at 262 episodes	Average Score: 6.45
+2021/12/06 07:00:15 - Agent - INFO: Episode 263	Score: 8.00
+2021/12/06 07:00:15 - Agent - INFO: Environment checkpoint saved at 263 episodes	Average Score: 6.48
+2021/12/06 07:00:16 - Agent - INFO: Episode 264	Score: 13.00
+2021/12/06 07:00:16 - Agent - INFO: Environment checkpoint saved at 264 episodes	Average Score: 6.55
+2021/12/06 07:00:16 - Agent - INFO: Episode 265	Score: 8.00
+2021/12/06 07:00:16 - Agent - INFO: Environment checkpoint saved at 265 episodes	Average Score: 6.61
+2021/12/06 07:00:17 - Agent - INFO: Episode 266	Score: 8.00
+2021/12/06 07:00:17 - Agent - INFO: Environment checkpoint saved at 266 episodes	Average Score: 6.66
+2021/12/06 07:00:18 - Agent - INFO: Episode 267	Score: 8.00
+2021/12/06 07:00:19 - Agent - INFO: Episode 268	Score: 7.00
+2021/12/06 07:00:20 - Agent - INFO: Episode 269	Score: 0.00
+2021/12/06 07:00:21 - Agent - INFO: Episode 270	Score: 12.00
+2021/12/06 07:00:21 - Agent - INFO: Episode 271	Score: 14.00
+2021/12/06 07:00:21 - Agent - INFO: Environment checkpoint saved at 271 episodes	Average Score: 6.79
+2021/12/06 07:00:22 - Agent - INFO: Episode 272	Score: 3.00
+2021/12/06 07:00:23 - Agent - INFO: Episode 273	Score: 11.00
+2021/12/06 07:00:23 - Agent - INFO: Environment checkpoint saved at 273 episodes	Average Score: 6.85
+2021/12/06 07:00:24 - Agent - INFO: Episode 274	Score: 11.00
+2021/12/06 07:00:24 - Agent - INFO: Environment checkpoint saved at 274 episodes	Average Score: 6.90
+2021/12/06 07:00:24 - Agent - INFO: Episode 275	Score: 7.00
+2021/12/06 07:00:25 - Agent - INFO: Episode 276	Score: 8.00
+2021/12/06 07:00:26 - Agent - INFO: Episode 277	Score: 2.00
+2021/12/06 07:00:27 - Agent - INFO: Episode 278	Score: 10.00
+2021/12/06 07:00:27 - Agent - INFO: Environment checkpoint saved at 278 episodes	Average Score: 6.91
+2021/12/06 07:00:28 - Agent - INFO: Episode 279	Score: 6.00
+2021/12/06 07:00:28 - Agent - INFO: Environment checkpoint saved at 279 episodes	Average Score: 6.95
+2021/12/06 07:00:28 - Agent - INFO: Episode 280	Score: 8.00
+2021/12/06 07:00:28 - Agent - INFO: Environment checkpoint saved at 280 episodes	Average Score: 7.00
+2021/12/06 07:00:29 - Agent - INFO: Episode 281	Score: 7.00
+2021/12/06 07:00:30 - Agent - INFO: Episode 282	Score: 6.00
+2021/12/06 07:00:30 - Agent - INFO: Environment checkpoint saved at 282 episodes	Average Score: 7.02
+2021/12/06 07:00:31 - Agent - INFO: Episode 283	Score: 6.00
+2021/12/06 07:00:31 - Agent - INFO: Episode 284	Score: 5.00
+2021/12/06 07:00:32 - Agent - INFO: Episode 285	Score: 9.00
+2021/12/06 07:00:33 - Agent - INFO: Episode 286	Score: 4.00
+2021/12/06 07:00:34 - Agent - INFO: Episode 287	Score: 12.00
+2021/12/06 07:00:34 - Agent - INFO: Environment checkpoint saved at 287 episodes	Average Score: 7.07
+2021/12/06 07:00:35 - Agent - INFO: Episode 288	Score: 7.00
+2021/12/06 07:00:35 - Agent - INFO: Environment checkpoint saved at 288 episodes	Average Score: 7.10
+2021/12/06 07:00:35 - Agent - INFO: Episode 289	Score: 5.00
+2021/12/06 07:00:36 - Agent - INFO: Episode 290	Score: 8.00
+2021/12/06 07:00:36 - Agent - INFO: Environment checkpoint saved at 290 episodes	Average Score: 7.15
+2021/12/06 07:00:37 - Agent - INFO: Episode 291	Score: 3.00
+2021/12/06 07:00:38 - Agent - INFO: Episode 292	Score: 11.00
+2021/12/06 07:00:39 - Agent - INFO: Episode 293	Score: 9.00
+2021/12/06 07:00:39 - Agent - INFO: Environment checkpoint saved at 293 episodes	Average Score: 7.19
+2021/12/06 07:00:39 - Agent - INFO: Episode 294	Score: 10.00
+2021/12/06 07:00:39 - Agent - INFO: Environment checkpoint saved at 294 episodes	Average Score: 7.22
+2021/12/06 07:00:40 - Agent - INFO: Episode 295	Score: 8.00
+2021/12/06 07:00:40 - Agent - INFO: Environment checkpoint saved at 295 episodes	Average Score: 7.27
+2021/12/06 07:00:41 - Agent - INFO: Episode 296	Score: 9.00
+2021/12/06 07:00:41 - Agent - INFO: Environment checkpoint saved at 296 episodes	Average Score: 7.31
+2021/12/06 07:00:42 - Agent - INFO: Episode 297	Score: 12.00
+2021/12/06 07:00:42 - Agent - INFO: Environment checkpoint saved at 297 episodes	Average Score: 7.38
+2021/12/06 07:00:43 - Agent - INFO: Episode 298	Score: 11.00
+2021/12/06 07:00:43 - Agent - INFO: Environment checkpoint saved at 298 episodes	Average Score: 7.40
+2021/12/06 07:00:44 - Agent - INFO: Episode 299	Score: 13.00
+2021/12/06 07:00:44 - Agent - INFO: Environment checkpoint saved at 299 episodes	Average Score: 7.44
+2021/12/06 07:00:45 - Agent - INFO: Episode 300	Score: 9.00
+2021/12/06 07:00:45 - Agent - INFO: Episode 300	Average Score: 7.47
+2021/12/06 07:00:45 - Agent - INFO: Environment checkpoint saved at 300 episodes	Average Score: 7.47
+2021/12/06 07:00:46 - Agent - INFO: Episode 301	Score: 7.00
+2021/12/06 07:00:46 - Agent - INFO: Episode 302	Score: 6.00
+2021/12/06 07:00:47 - Agent - INFO: Episode 303	Score: 8.00
+2021/12/06 07:00:48 - Agent - INFO: Episode 304	Score: 10.00
+2021/12/06 07:00:48 - Agent - INFO: Environment checkpoint saved at 304 episodes	Average Score: 7.48
+2021/12/06 07:00:49 - Agent - INFO: Episode 305	Score: 11.00
+2021/12/06 07:00:49 - Agent - INFO: Environment checkpoint saved at 305 episodes	Average Score: 7.56
+2021/12/06 07:00:50 - Agent - INFO: Episode 306	Score: 8.00
+2021/12/06 07:00:50 - Agent - INFO: Environment checkpoint saved at 306 episodes	Average Score: 7.60
+2021/12/06 07:00:50 - Agent - INFO: Episode 307	Score: 5.00
+2021/12/06 07:00:51 - Agent - INFO: Episode 308	Score: 7.00
+2021/12/06 07:00:52 - Agent - INFO: Episode 309	Score: 18.00
+2021/12/06 07:00:52 - Agent - INFO: Environment checkpoint saved at 309 episodes	Average Score: 7.68
+2021/12/06 07:00:53 - Agent - INFO: Episode 310	Score: 11.00
+2021/12/06 07:00:53 - Agent - INFO: Environment checkpoint saved at 310 episodes	Average Score: 7.72
+2021/12/06 07:00:54 - Agent - INFO: Episode 311	Score: 9.00
+2021/12/06 07:00:54 - Agent - INFO: Environment checkpoint saved at 311 episodes	Average Score: 7.79
+2021/12/06 07:00:54 - Agent - INFO: Episode 312	Score: 6.00
+2021/12/06 07:00:55 - Agent - INFO: Episode 313	Score: 7.00
+2021/12/06 07:00:55 - Agent - INFO: Environment checkpoint saved at 313 episodes	Average Score: 7.80
+2021/12/06 07:00:56 - Agent - INFO: Episode 314	Score: 13.00
+2021/12/06 07:00:56 - Agent - INFO: Environment checkpoint saved at 314 episodes	Average Score: 7.88
+2021/12/06 07:00:57 - Agent - INFO: Episode 315	Score: 7.00
+2021/12/06 07:00:57 - Agent - INFO: Episode 316	Score: 3.00
+2021/12/06 07:00:58 - Agent - INFO: Episode 317	Score: 3.00
+2021/12/06 07:00:59 - Agent - INFO: Episode 318	Score: 11.00
+2021/12/06 07:01:00 - Agent - INFO: Episode 319	Score: 14.00
+2021/12/06 07:01:01 - Agent - INFO: Episode 320	Score: 12.00
+2021/12/06 07:01:01 - Agent - INFO: Environment checkpoint saved at 320 episodes	Average Score: 7.95
+2021/12/06 07:01:02 - Agent - INFO: Episode 321	Score: 3.00
+2021/12/06 07:01:03 - Agent - INFO: Episode 322	Score: 7.00
+2021/12/06 07:01:03 - Agent - INFO: Episode 323	Score: 12.00
+2021/12/06 07:01:03 - Agent - INFO: Environment checkpoint saved at 323 episodes	Average Score: 7.98
+2021/12/06 07:01:04 - Agent - INFO: Episode 324	Score: 12.00
+2021/12/06 07:01:04 - Agent - INFO: Environment checkpoint saved at 324 episodes	Average Score: 8.05
+2021/12/06 07:01:05 - Agent - INFO: Episode 325	Score: 11.00
+2021/12/06 07:01:05 - Agent - INFO: Environment checkpoint saved at 325 episodes	Average Score: 8.10
+2021/12/06 07:01:06 - Agent - INFO: Episode 326	Score: 8.00
+2021/12/06 07:01:06 - Agent - INFO: Environment checkpoint saved at 326 episodes	Average Score: 8.14
+2021/12/06 07:01:07 - Agent - INFO: Episode 327	Score: 8.00
+2021/12/06 07:01:07 - Agent - INFO: Environment checkpoint saved at 327 episodes	Average Score: 8.16
+2021/12/06 07:01:07 - Agent - INFO: Episode 328	Score: 9.00
+2021/12/06 07:01:08 - Agent - INFO: Episode 329	Score: 11.00
+2021/12/06 07:01:08 - Agent - INFO: Environment checkpoint saved at 329 episodes	Average Score: 8.17
+2021/12/06 07:01:09 - Agent - INFO: Episode 330	Score: 11.00
+2021/12/06 07:01:09 - Agent - INFO: Environment checkpoint saved at 330 episodes	Average Score: 8.28
+2021/12/06 07:01:10 - Agent - INFO: Episode 331	Score: 14.00
+2021/12/06 07:01:10 - Agent - INFO: Environment checkpoint saved at 331 episodes	Average Score: 8.36
+2021/12/06 07:01:10 - Agent - INFO: Episode 332	Score: 10.00
+2021/12/06 07:01:10 - Agent - INFO: Environment checkpoint saved at 332 episodes	Average Score: 8.37
+2021/12/06 07:01:11 - Agent - INFO: Episode 333	Score: 8.00
+2021/12/06 07:01:12 - Agent - INFO: Episode 334	Score: 15.00
+2021/12/06 07:01:12 - Agent - INFO: Environment checkpoint saved at 334 episodes	Average Score: 8.43
+2021/12/06 07:01:13 - Agent - INFO: Episode 335	Score: 7.00
+2021/12/06 07:01:13 - Agent - INFO: Environment checkpoint saved at 335 episodes	Average Score: 8.46
+2021/12/06 07:01:14 - Agent - INFO: Episode 336	Score: 5.00
+2021/12/06 07:01:14 - Agent - INFO: Episode 337	Score: 8.00
+2021/12/06 07:01:15 - Agent - INFO: Episode 338	Score: 9.00
+2021/12/06 07:01:16 - Agent - INFO: Episode 339	Score: 4.00
+2021/12/06 07:01:17 - Agent - INFO: Episode 340	Score: 10.00
+2021/12/06 07:01:18 - Agent - INFO: Episode 341	Score: 2.00
+2021/12/06 07:01:18 - Agent - INFO: Episode 342	Score: 10.00
+2021/12/06 07:01:19 - Agent - INFO: Episode 343	Score: 10.00
+2021/12/06 07:01:20 - Agent - INFO: Episode 344	Score: 11.00
+2021/12/06 07:01:21 - Agent - INFO: Episode 345	Score: 10.00
+2021/12/06 07:01:22 - Agent - INFO: Episode 346	Score: 9.00
+2021/12/06 07:01:22 - Agent - INFO: Episode 347	Score: 9.00
+2021/12/06 07:01:23 - Agent - INFO: Episode 348	Score: 6.00
+2021/12/06 07:01:24 - Agent - INFO: Episode 349	Score: 9.00
+2021/12/06 07:01:25 - Agent - INFO: Episode 350	Score: 11.00
+2021/12/06 07:01:26 - Agent - INFO: Episode 351	Score: 4.00
+2021/12/06 07:01:26 - Agent - INFO: Episode 352	Score: 8.00
+2021/12/06 07:01:27 - Agent - INFO: Episode 353	Score: 10.00
+2021/12/06 07:01:28 - Agent - INFO: Episode 354	Score: 11.00
+2021/12/06 07:01:28 - Agent - INFO: Environment checkpoint saved at 354 episodes	Average Score: 8.47
+2021/12/06 07:01:29 - Agent - INFO: Episode 355	Score: 12.00
+2021/12/06 07:01:29 - Agent - INFO: Environment checkpoint saved at 355 episodes	Average Score: 8.57
+2021/12/06 07:01:30 - Agent - INFO: Episode 356	Score: 11.00
+2021/12/06 07:01:30 - Agent - INFO: Environment checkpoint saved at 356 episodes	Average Score: 8.64
+2021/12/06 07:01:30 - Agent - INFO: Episode 357	Score: 12.00
+2021/12/06 07:01:30 - Agent - INFO: Environment checkpoint saved at 357 episodes	Average Score: 8.72
+2021/12/06 07:01:31 - Agent - INFO: Episode 358	Score: 4.00
+2021/12/06 07:01:32 - Agent - INFO: Episode 359	Score: 14.00
+2021/12/06 07:01:33 - Agent - INFO: Episode 360	Score: 4.00
+2021/12/06 07:01:33 - Agent - INFO: Episode 361	Score: 11.00
+2021/12/06 07:01:34 - Agent - INFO: Episode 362	Score: 10.00
+2021/12/06 07:01:35 - Agent - INFO: Episode 363	Score: 14.00
+2021/12/06 07:01:36 - Agent - INFO: Episode 364	Score: 11.00
+2021/12/06 07:01:37 - Agent - INFO: Episode 365	Score: 13.00
+2021/12/06 07:01:37 - Agent - INFO: Environment checkpoint saved at 365 episodes	Average Score: 8.73
+2021/12/06 07:01:37 - Agent - INFO: Episode 366	Score: 9.00
+2021/12/06 07:01:37 - Agent - INFO: Environment checkpoint saved at 366 episodes	Average Score: 8.74
+2021/12/06 07:01:38 - Agent - INFO: Episode 367	Score: 6.00
+2021/12/06 07:01:39 - Agent - INFO: Episode 368	Score: 6.00
+2021/12/06 07:01:40 - Agent - INFO: Episode 369	Score: 7.00
+2021/12/06 07:01:40 - Agent - INFO: Environment checkpoint saved at 369 episodes	Average Score: 8.78
+2021/12/06 07:01:41 - Agent - INFO: Episode 370	Score: 10.00
+2021/12/06 07:01:41 - Agent - INFO: Episode 371	Score: 10.00
+2021/12/06 07:01:42 - Agent - INFO: Episode 372	Score: 16.00
+2021/12/06 07:01:42 - Agent - INFO: Environment checkpoint saved at 372 episodes	Average Score: 8.85
+2021/12/06 07:01:43 - Agent - INFO: Episode 373	Score: 9.00
+2021/12/06 07:01:44 - Agent - INFO: Episode 374	Score: 11.00
+2021/12/06 07:01:44 - Agent - INFO: Episode 375	Score: 11.00
+2021/12/06 07:01:44 - Agent - INFO: Environment checkpoint saved at 375 episodes	Average Score: 8.87
+2021/12/06 07:01:45 - Agent - INFO: Episode 376	Score: 15.00
+2021/12/06 07:01:45 - Agent - INFO: Environment checkpoint saved at 376 episodes	Average Score: 8.94
+2021/12/06 07:01:46 - Agent - INFO: Episode 377	Score: 4.00
+2021/12/06 07:01:46 - Agent - INFO: Environment checkpoint saved at 377 episodes	Average Score: 8.96
+2021/12/06 07:01:47 - Agent - INFO: Episode 378	Score: 9.00
+2021/12/06 07:01:48 - Agent - INFO: Episode 379	Score: 10.00
+2021/12/06 07:01:48 - Agent - INFO: Environment checkpoint saved at 379 episodes	Average Score: 8.99
+2021/12/06 07:01:48 - Agent - INFO: Episode 380	Score: 8.00
+2021/12/06 07:01:49 - Agent - INFO: Episode 381	Score: 8.00
+2021/12/06 07:01:49 - Agent - INFO: Environment checkpoint saved at 381 episodes	Average Score: 9.00
+2021/12/06 07:01:50 - Agent - INFO: Episode 382	Score: 13.00
+2021/12/06 07:01:50 - Agent - INFO: Environment checkpoint saved at 382 episodes	Average Score: 9.07
+2021/12/06 07:01:51 - Agent - INFO: Episode 383	Score: 12.00
+2021/12/06 07:01:51 - Agent - INFO: Environment checkpoint saved at 383 episodes	Average Score: 9.13
+2021/12/06 07:01:52 - Agent - INFO: Episode 384	Score: 14.00
+2021/12/06 07:01:52 - Agent - INFO: Environment checkpoint saved at 384 episodes	Average Score: 9.22
+2021/12/06 07:01:52 - Agent - INFO: Episode 385	Score: 6.00
+2021/12/06 07:01:53 - Agent - INFO: Episode 386	Score: 5.00
+2021/12/06 07:01:54 - Agent - INFO: Episode 387	Score: 10.00
+2021/12/06 07:01:55 - Agent - INFO: Episode 388	Score: 13.00
+2021/12/06 07:01:55 - Agent - INFO: Environment checkpoint saved at 388 episodes	Average Score: 9.24
+2021/12/06 07:01:56 - Agent - INFO: Episode 389	Score: 14.00
+2021/12/06 07:01:56 - Agent - INFO: Environment checkpoint saved at 389 episodes	Average Score: 9.33
+2021/12/06 07:01:56 - Agent - INFO: Episode 390	Score: 1.00
+2021/12/06 07:01:57 - Agent - INFO: Episode 391	Score: 11.00
+2021/12/06 07:01:57 - Agent - INFO: Environment checkpoint saved at 391 episodes	Average Score: 9.34
+2021/12/06 07:01:58 - Agent - INFO: Episode 392	Score: 12.00
+2021/12/06 07:01:58 - Agent - INFO: Environment checkpoint saved at 392 episodes	Average Score: 9.35
+2021/12/06 07:01:59 - Agent - INFO: Episode 393	Score: 12.00
+2021/12/06 07:01:59 - Agent - INFO: Environment checkpoint saved at 393 episodes	Average Score: 9.38
+2021/12/06 07:01:59 - Agent - INFO: Episode 394	Score: 8.00
+2021/12/06 07:02:00 - Agent - INFO: Episode 395	Score: 3.00
+2021/12/06 07:02:01 - Agent - INFO: Episode 396	Score: 11.00
+2021/12/06 07:02:02 - Agent - INFO: Episode 397	Score: 4.00
+2021/12/06 07:02:03 - Agent - INFO: Episode 398	Score: 11.00
+2021/12/06 07:02:03 - Agent - INFO: Episode 399	Score: 10.00
+2021/12/06 07:02:04 - Agent - INFO: Episode 400	Score: 13.00
+2021/12/06 07:02:04 - Agent - INFO: Episode 400	Average Score: 9.26
+2021/12/06 07:02:05 - Agent - INFO: Episode 401	Score: 13.00
+2021/12/06 07:02:06 - Agent - INFO: Episode 402	Score: 7.00
+2021/12/06 07:02:07 - Agent - INFO: Episode 403	Score: 15.00
+2021/12/06 07:02:07 - Agent - INFO: Environment checkpoint saved at 403 episodes	Average Score: 9.40
+2021/12/06 07:02:08 - Agent - INFO: Episode 404	Score: 9.00
+2021/12/06 07:02:08 - Agent - INFO: Episode 405	Score: 5.00
+2021/12/06 07:02:09 - Agent - INFO: Episode 406	Score: 14.00
+2021/12/06 07:02:10 - Agent - INFO: Episode 407	Score: 9.00
+2021/12/06 07:02:10 - Agent - INFO: Environment checkpoint saved at 407 episodes	Average Score: 9.43
+2021/12/06 07:02:11 - Agent - INFO: Episode 408	Score: 13.00
+2021/12/06 07:02:11 - Agent - INFO: Environment checkpoint saved at 408 episodes	Average Score: 9.49
+2021/12/06 07:02:12 - Agent - INFO: Episode 409	Score: 9.00
+2021/12/06 07:02:12 - Agent - INFO: Episode 410	Score: 2.00
+2021/12/06 07:02:13 - Agent - INFO: Episode 411	Score: 16.00
+2021/12/06 07:02:14 - Agent - INFO: Episode 412	Score: 8.00
+2021/12/06 07:02:15 - Agent - INFO: Episode 413	Score: 12.00
+2021/12/06 07:02:15 - Agent - INFO: Episode 414	Score: 13.00
+2021/12/06 07:02:16 - Agent - INFO: Episode 415	Score: 15.00
+2021/12/06 07:02:16 - Agent - INFO: Environment checkpoint saved at 415 episodes	Average Score: 9.53
+2021/12/06 07:02:17 - Agent - INFO: Episode 416	Score: 3.00
+2021/12/06 07:02:18 - Agent - INFO: Episode 417	Score: 14.00
+2021/12/06 07:02:18 - Agent - INFO: Environment checkpoint saved at 417 episodes	Average Score: 9.64
+2021/12/06 07:02:19 - Agent - INFO: Episode 418	Score: 9.00
+2021/12/06 07:02:19 - Agent - INFO: Episode 419	Score: 15.00
+2021/12/06 07:02:20 - Agent - INFO: Episode 420	Score: 9.00
+2021/12/06 07:02:21 - Agent - INFO: Episode 421	Score: 14.00
+2021/12/06 07:02:21 - Agent - INFO: Environment checkpoint saved at 421 episodes	Average Score: 9.71
+2021/12/06 07:02:22 - Agent - INFO: Episode 422	Score: 7.00
+2021/12/06 07:02:23 - Agent - INFO: Episode 423	Score: 9.00
+2021/12/06 07:02:23 - Agent - INFO: Episode 424	Score: 3.00
+2021/12/06 07:02:24 - Agent - INFO: Episode 425	Score: 14.00
+2021/12/06 07:02:25 - Agent - INFO: Episode 426	Score: 14.00
+2021/12/06 07:02:26 - Agent - INFO: Episode 427	Score: 14.00
+2021/12/06 07:02:26 - Agent - INFO: Environment checkpoint saved at 427 episodes	Average Score: 9.74
+2021/12/06 07:02:27 - Agent - INFO: Episode 428	Score: 16.00
+2021/12/06 07:02:27 - Agent - INFO: Environment checkpoint saved at 428 episodes	Average Score: 9.81
+2021/12/06 07:02:27 - Agent - INFO: Episode 429	Score: 7.00
+2021/12/06 07:02:28 - Agent - INFO: Episode 430	Score: 5.00
+2021/12/06 07:02:29 - Agent - INFO: Episode 431	Score: 13.00
+2021/12/06 07:02:30 - Agent - INFO: Episode 432	Score: 12.00
+2021/12/06 07:02:31 - Agent - INFO: Episode 433	Score: 6.00
+2021/12/06 07:02:31 - Agent - INFO: Episode 434	Score: 9.00
+2021/12/06 07:02:32 - Agent - INFO: Episode 435	Score: 17.00
+2021/12/06 07:02:33 - Agent - INFO: Episode 436	Score: 15.00
+2021/12/06 07:02:33 - Agent - INFO: Environment checkpoint saved at 436 episodes	Average Score: 9.84
+2021/12/06 07:02:34 - Agent - INFO: Episode 437	Score: 11.00
+2021/12/06 07:02:34 - Agent - INFO: Environment checkpoint saved at 437 episodes	Average Score: 9.87
+2021/12/06 07:02:35 - Agent - INFO: Episode 438	Score: 15.00
+2021/12/06 07:02:35 - Agent - INFO: Environment checkpoint saved at 438 episodes	Average Score: 9.93
+2021/12/06 07:02:35 - Agent - INFO: Episode 439	Score: 13.00
+2021/12/06 07:02:35 - Agent - INFO: Environment checkpoint saved at 439 episodes	Average Score: 10.02
+2021/12/06 07:02:36 - Agent - INFO: Episode 440	Score: 17.00
+2021/12/06 07:02:36 - Agent - INFO: Environment checkpoint saved at 440 episodes	Average Score: 10.09
+2021/12/06 07:02:37 - Agent - INFO: Episode 441	Score: 9.00
+2021/12/06 07:02:37 - Agent - INFO: Environment checkpoint saved at 441 episodes	Average Score: 10.16
+2021/12/06 07:02:38 - Agent - INFO: Episode 442	Score: 16.00
+2021/12/06 07:02:38 - Agent - INFO: Environment checkpoint saved at 442 episodes	Average Score: 10.22
+2021/12/06 07:02:39 - Agent - INFO: Episode 443	Score: 6.00
+2021/12/06 07:02:39 - Agent - INFO: Episode 444	Score: 16.00
+2021/12/06 07:02:39 - Agent - INFO: Environment checkpoint saved at 444 episodes	Average Score: 10.23
+2021/12/06 07:02:40 - Agent - INFO: Episode 445	Score: 5.00
+2021/12/06 07:02:41 - Agent - INFO: Episode 446	Score: 19.00
+2021/12/06 07:02:41 - Agent - INFO: Environment checkpoint saved at 446 episodes	Average Score: 10.28
+2021/12/06 07:02:42 - Agent - INFO: Episode 447	Score: 4.00
+2021/12/06 07:02:43 - Agent - INFO: Episode 448	Score: 11.00
+2021/12/06 07:02:43 - Agent - INFO: Episode 449	Score: 9.00
+2021/12/06 07:02:44 - Agent - INFO: Episode 450	Score: 6.00
+2021/12/06 07:02:45 - Agent - INFO: Episode 451	Score: 16.00
+2021/12/06 07:02:45 - Agent - INFO: Environment checkpoint saved at 451 episodes	Average Score: 10.35
+2021/12/06 07:02:46 - Agent - INFO: Episode 452	Score: 9.00
+2021/12/06 07:02:46 - Agent - INFO: Environment checkpoint saved at 452 episodes	Average Score: 10.36
+2021/12/06 07:02:47 - Agent - INFO: Episode 453	Score: 14.00
+2021/12/06 07:02:47 - Agent - INFO: Environment checkpoint saved at 453 episodes	Average Score: 10.40
+2021/12/06 07:02:47 - Agent - INFO: Episode 454	Score: 8.00
+2021/12/06 07:02:48 - Agent - INFO: Episode 455	Score: 8.00
+2021/12/06 07:02:49 - Agent - INFO: Episode 456	Score: 5.00
+2021/12/06 07:02:50 - Agent - INFO: Episode 457	Score: 11.00
+2021/12/06 07:02:51 - Agent - INFO: Episode 458	Score: 10.00
+2021/12/06 07:02:51 - Agent - INFO: Episode 459	Score: 18.00
+2021/12/06 07:02:52 - Agent - INFO: Episode 460	Score: 12.00
+2021/12/06 07:02:52 - Agent - INFO: Environment checkpoint saved at 460 episodes	Average Score: 10.44
+2021/12/06 07:02:53 - Agent - INFO: Episode 461	Score: 11.00
+2021/12/06 07:02:54 - Agent - INFO: Episode 462	Score: 11.00
+2021/12/06 07:02:54 - Agent - INFO: Environment checkpoint saved at 462 episodes	Average Score: 10.45
+2021/12/06 07:02:55 - Agent - INFO: Episode 463	Score: 15.00
+2021/12/06 07:02:55 - Agent - INFO: Environment checkpoint saved at 463 episodes	Average Score: 10.46
+2021/12/06 07:02:55 - Agent - INFO: Episode 464	Score: 5.00
+2021/12/06 07:02:56 - Agent - INFO: Episode 465	Score: 8.00
+2021/12/06 07:02:57 - Agent - INFO: Episode 466	Score: 12.00
+2021/12/06 07:02:58 - Agent - INFO: Episode 467	Score: 8.00
+2021/12/06 07:02:59 - Agent - INFO: Episode 468	Score: 7.00
+2021/12/06 07:02:59 - Agent - INFO: Episode 469	Score: 10.00
+2021/12/06 07:03:00 - Agent - INFO: Episode 470	Score: 8.00
+2021/12/06 07:03:01 - Agent - INFO: Episode 471	Score: 7.00
+2021/12/06 07:03:02 - Agent - INFO: Episode 472	Score: 12.00
+2021/12/06 07:03:03 - Agent - INFO: Episode 473	Score: 11.00
+2021/12/06 07:03:03 - Agent - INFO: Episode 474	Score: 8.00
+2021/12/06 07:03:04 - Agent - INFO: Episode 475	Score: 14.00
+2021/12/06 07:03:05 - Agent - INFO: Episode 476	Score: 9.00
+2021/12/06 07:03:06 - Agent - INFO: Episode 477	Score: 12.00
+2021/12/06 07:03:07 - Agent - INFO: Episode 478	Score: 10.00
+2021/12/06 07:03:08 - Agent - INFO: Episode 479	Score: 9.00
+2021/12/06 07:03:08 - Agent - INFO: Episode 480	Score: 16.00
+2021/12/06 07:03:08 - Agent - INFO: Environment checkpoint saved at 480 episodes	Average Score: 10.47
+2021/12/06 07:03:09 - Agent - INFO: Episode 481	Score: 14.00
+2021/12/06 07:03:09 - Agent - INFO: Environment checkpoint saved at 481 episodes	Average Score: 10.53
+2021/12/06 07:03:10 - Agent - INFO: Episode 482	Score: 7.00
+2021/12/06 07:03:11 - Agent - INFO: Episode 483	Score: 12.00
+2021/12/06 07:03:12 - Agent - INFO: Episode 484	Score: 8.00
+2021/12/06 07:03:12 - Agent - INFO: Episode 485	Score: 5.00
+2021/12/06 07:03:13 - Agent - INFO: Episode 486	Score: 11.00
+2021/12/06 07:03:14 - Agent - INFO: Episode 487	Score: 14.00
+2021/12/06 07:03:15 - Agent - INFO: Episode 488	Score: 16.00
+2021/12/06 07:03:16 - Agent - INFO: Episode 489	Score: 10.00
+2021/12/06 07:03:16 - Agent - INFO: Episode 490	Score: 13.00
+2021/12/06 07:03:16 - Agent - INFO: Environment checkpoint saved at 490 episodes	Average Score: 10.61
+2021/12/06 07:03:17 - Agent - INFO: Episode 491	Score: 7.00
+2021/12/06 07:03:18 - Agent - INFO: Episode 492	Score: 16.00
+2021/12/06 07:03:19 - Agent - INFO: Episode 493	Score: 4.00
+2021/12/06 07:03:20 - Agent - INFO: Episode 494	Score: 5.00
+2021/12/06 07:03:20 - Agent - INFO: Episode 495	Score: 10.00
+2021/12/06 07:03:21 - Agent - INFO: Episode 496	Score: 13.00
+2021/12/06 07:03:22 - Agent - INFO: Episode 497	Score: 16.00
+2021/12/06 07:03:22 - Agent - INFO: Environment checkpoint saved at 497 episodes	Average Score: 10.71
+2021/12/06 07:03:23 - Agent - INFO: Episode 498	Score: 13.00
+2021/12/06 07:03:23 - Agent - INFO: Environment checkpoint saved at 498 episodes	Average Score: 10.73
+2021/12/06 07:03:24 - Agent - INFO: Episode 499	Score: 12.00
+2021/12/06 07:03:24 - Agent - INFO: Environment checkpoint saved at 499 episodes	Average Score: 10.75
+2021/12/06 07:03:24 - Agent - INFO: Episode 500	Score: 13.00
+2021/12/06 07:03:24 - Agent - INFO: Episode 500	Average Score: 10.75
+2021/12/06 07:03:25 - Agent - INFO: Episode 501	Score: 12.00
+2021/12/06 07:03:26 - Agent - INFO: Episode 502	Score: 12.00
+2021/12/06 07:03:26 - Agent - INFO: Environment checkpoint saved at 502 episodes	Average Score: 10.79
+2021/12/06 07:03:27 - Agent - INFO: Episode 503	Score: 12.00
+2021/12/06 07:03:28 - Agent - INFO: Episode 504	Score: 14.00
+2021/12/06 07:03:28 - Agent - INFO: Environment checkpoint saved at 504 episodes	Average Score: 10.81
+2021/12/06 07:03:29 - Agent - INFO: Episode 505	Score: 15.00
+2021/12/06 07:03:29 - Agent - INFO: Environment checkpoint saved at 505 episodes	Average Score: 10.91
+2021/12/06 07:03:29 - Agent - INFO: Episode 506	Score: 5.00
+2021/12/06 07:03:30 - Agent - INFO: Episode 507	Score: 16.00
+2021/12/06 07:03:31 - Agent - INFO: Episode 508	Score: 14.00
+2021/12/06 07:03:32 - Agent - INFO: Episode 509	Score: 10.00
+2021/12/06 07:03:33 - Agent - INFO: Episode 510	Score: 15.00
+2021/12/06 07:03:33 - Agent - INFO: Environment checkpoint saved at 510 episodes	Average Score: 11.04
+2021/12/06 07:03:33 - Agent - INFO: Episode 511	Score: 9.00
+2021/12/06 07:03:34 - Agent - INFO: Episode 512	Score: 14.00
+2021/12/06 07:03:35 - Agent - INFO: Episode 513	Score: 10.00
+2021/12/06 07:03:36 - Agent - INFO: Episode 514	Score: 14.00
+2021/12/06 07:03:37 - Agent - INFO: Episode 515	Score: 15.00
+2021/12/06 07:03:38 - Agent - INFO: Episode 516	Score: 9.00
+2021/12/06 07:03:38 - Agent - INFO: Environment checkpoint saved at 516 episodes	Average Score: 11.08
+2021/12/06 07:03:38 - Agent - INFO: Episode 517	Score: 8.00
+2021/12/06 07:03:39 - Agent - INFO: Episode 518	Score: 16.00
+2021/12/06 07:03:39 - Agent - INFO: Environment checkpoint saved at 518 episodes	Average Score: 11.09
+2021/12/06 07:03:40 - Agent - INFO: Episode 519	Score: 12.00
+2021/12/06 07:03:41 - Agent - INFO: Episode 520	Score: 18.00
+2021/12/06 07:03:41 - Agent - INFO: Environment checkpoint saved at 520 episodes	Average Score: 11.15
+2021/12/06 07:03:42 - Agent - INFO: Episode 521	Score: 8.00
+2021/12/06 07:03:42 - Agent - INFO: Episode 522	Score: 11.00
+2021/12/06 07:03:43 - Agent - INFO: Episode 523	Score: 9.00
+2021/12/06 07:03:44 - Agent - INFO: Episode 524	Score: 16.00
+2021/12/06 07:03:44 - Agent - INFO: Environment checkpoint saved at 524 episodes	Average Score: 11.26
+2021/12/06 07:03:45 - Agent - INFO: Episode 525	Score: 11.00
+2021/12/06 07:03:46 - Agent - INFO: Episode 526	Score: 12.00
+2021/12/06 07:03:47 - Agent - INFO: Episode 527	Score: 15.00
+2021/12/06 07:03:47 - Agent - INFO: Episode 528	Score: 13.00
+2021/12/06 07:03:48 - Agent - INFO: Episode 529	Score: 13.00
+2021/12/06 07:03:49 - Agent - INFO: Episode 530	Score: 14.00
+2021/12/06 07:03:49 - Agent - INFO: Environment checkpoint saved at 530 episodes	Average Score: 11.34
+2021/12/06 07:03:50 - Agent - INFO: Episode 531	Score: 8.00
+2021/12/06 07:03:51 - Agent - INFO: Episode 532	Score: 12.00
+2021/12/06 07:03:51 - Agent - INFO: Episode 533	Score: 13.00
+2021/12/06 07:03:51 - Agent - INFO: Environment checkpoint saved at 533 episodes	Average Score: 11.36
+2021/12/06 07:03:52 - Agent - INFO: Episode 534	Score: 15.00
+2021/12/06 07:03:52 - Agent - INFO: Environment checkpoint saved at 534 episodes	Average Score: 11.42
+2021/12/06 07:03:53 - Agent - INFO: Episode 535	Score: 17.00
+2021/12/06 07:03:54 - Agent - INFO: Episode 536	Score: 10.00
+2021/12/06 07:03:55 - Agent - INFO: Episode 537	Score: 6.00
+2021/12/06 07:03:55 - Agent - INFO: Episode 538	Score: 10.00
+2021/12/06 07:03:56 - Agent - INFO: Episode 539	Score: 5.00
+2021/12/06 07:03:57 - Agent - INFO: Episode 540	Score: 13.00
+2021/12/06 07:03:58 - Agent - INFO: Episode 541	Score: 16.00
+2021/12/06 07:03:59 - Agent - INFO: Episode 542	Score: 12.00
+2021/12/06 07:03:59 - Agent - INFO: Episode 543	Score: 10.00
+2021/12/06 07:04:00 - Agent - INFO: Episode 544	Score: 19.00
+2021/12/06 07:04:01 - Agent - INFO: Episode 545	Score: 15.00
+2021/12/06 07:04:02 - Agent - INFO: Episode 546	Score: 16.00
+2021/12/06 07:04:03 - Agent - INFO: Episode 547	Score: 14.00
+2021/12/06 07:04:03 - Agent - INFO: Episode 548	Score: 13.00
+2021/12/06 07:04:03 - Agent - INFO: Environment checkpoint saved at 548 episodes	Average Score: 11.44
+2021/12/06 07:04:04 - Agent - INFO: Episode 549	Score: 11.00
+2021/12/06 07:04:04 - Agent - INFO: Environment checkpoint saved at 549 episodes	Average Score: 11.46
+2021/12/06 07:04:05 - Agent - INFO: Episode 550	Score: 21.00
+2021/12/06 07:04:05 - Agent - INFO: Environment checkpoint saved at 550 episodes	Average Score: 11.61
+2021/12/06 07:04:06 - Agent - INFO: Episode 551	Score: 9.00
+2021/12/06 07:04:07 - Agent - INFO: Episode 552	Score: 12.00
+2021/12/06 07:04:08 - Agent - INFO: Episode 553	Score: 15.00
+2021/12/06 07:04:08 - Agent - INFO: Episode 554	Score: 10.00
+2021/12/06 07:04:09 - Agent - INFO: Episode 555	Score: 16.00
+2021/12/06 07:04:09 - Agent - INFO: Environment checkpoint saved at 555 episodes	Average Score: 11.68
+2021/12/06 07:04:10 - Agent - INFO: Episode 556	Score: 15.00
+2021/12/06 07:04:10 - Agent - INFO: Environment checkpoint saved at 556 episodes	Average Score: 11.78
+2021/12/06 07:04:11 - Agent - INFO: Episode 557	Score: 15.00
+2021/12/06 07:04:11 - Agent - INFO: Environment checkpoint saved at 557 episodes	Average Score: 11.82
+2021/12/06 07:04:12 - Agent - INFO: Episode 558	Score: 15.00
+2021/12/06 07:04:12 - Agent - INFO: Environment checkpoint saved at 558 episodes	Average Score: 11.87
+2021/12/06 07:04:12 - Agent - INFO: Episode 559	Score: 18.00
+2021/12/06 07:04:13 - Agent - INFO: Episode 560	Score: 18.00
+2021/12/06 07:04:13 - Agent - INFO: Environment checkpoint saved at 560 episodes	Average Score: 11.93
+2021/12/06 07:04:14 - Agent - INFO: Episode 561	Score: 13.00
+2021/12/06 07:04:14 - Agent - INFO: Environment checkpoint saved at 561 episodes	Average Score: 11.95
+2021/12/06 07:04:15 - Agent - INFO: Episode 562	Score: 16.00
+2021/12/06 07:04:15 - Agent - INFO: Environment checkpoint saved at 562 episodes	Average Score: 12.00
+2021/12/06 07:04:16 - Agent - INFO: Episode 563	Score: 13.00
+2021/12/06 07:04:17 - Agent - INFO: Episode 564	Score: 15.00
+2021/12/06 07:04:17 - Agent - INFO: Environment checkpoint saved at 564 episodes	Average Score: 12.08
+2021/12/06 07:04:17 - Agent - INFO: Episode 565	Score: 12.00
+2021/12/06 07:04:17 - Agent - INFO: Environment checkpoint saved at 565 episodes	Average Score: 12.12
+2021/12/06 07:04:18 - Agent - INFO: Episode 566	Score: 4.00
+2021/12/06 07:04:19 - Agent - INFO: Episode 567	Score: 12.00
+2021/12/06 07:04:20 - Agent - INFO: Episode 568	Score: 14.00
+2021/12/06 07:04:20 - Agent - INFO: Environment checkpoint saved at 568 episodes	Average Score: 12.15
+2021/12/06 07:04:21 - Agent - INFO: Episode 569	Score: 9.00
+2021/12/06 07:04:21 - Agent - INFO: Episode 570	Score: 13.00
+2021/12/06 07:04:21 - Agent - INFO: Environment checkpoint saved at 570 episodes	Average Score: 12.19
+2021/12/06 07:04:22 - Agent - INFO: Episode 571	Score: 12.00
+2021/12/06 07:04:22 - Agent - INFO: Environment checkpoint saved at 571 episodes	Average Score: 12.24
+2021/12/06 07:04:23 - Agent - INFO: Episode 572	Score: 12.00
+2021/12/06 07:04:24 - Agent - INFO: Episode 573	Score: 11.00
+2021/12/06 07:04:25 - Agent - INFO: Episode 574	Score: 15.00
+2021/12/06 07:04:25 - Agent - INFO: Environment checkpoint saved at 574 episodes	Average Score: 12.31
+2021/12/06 07:04:25 - Agent - INFO: Episode 575	Score: 18.00
+2021/12/06 07:04:25 - Agent - INFO: Environment checkpoint saved at 575 episodes	Average Score: 12.35
+2021/12/06 07:04:26 - Agent - INFO: Episode 576	Score: 15.00
+2021/12/06 07:04:26 - Agent - INFO: Environment checkpoint saved at 576 episodes	Average Score: 12.41
+2021/12/06 07:04:27 - Agent - INFO: Episode 577	Score: 10.00
+2021/12/06 07:04:28 - Agent - INFO: Episode 578	Score: 14.00
+2021/12/06 07:04:28 - Agent - INFO: Environment checkpoint saved at 578 episodes	Average Score: 12.43
+2021/12/06 07:04:29 - Agent - INFO: Episode 579	Score: 14.00
+2021/12/06 07:04:29 - Agent - INFO: Environment checkpoint saved at 579 episodes	Average Score: 12.48
+2021/12/06 07:04:30 - Agent - INFO: Episode 580	Score: 14.00
+2021/12/06 07:04:30 - Agent - INFO: Episode 581	Score: 12.00
+2021/12/06 07:04:31 - Agent - INFO: Episode 582	Score: 14.00
+2021/12/06 07:04:31 - Agent - INFO: Environment checkpoint saved at 582 episodes	Average Score: 12.51
+2021/12/06 07:04:32 - Agent - INFO: Episode 583	Score: 18.00
+2021/12/06 07:04:32 - Agent - INFO: Environment checkpoint saved at 583 episodes	Average Score: 12.57
+2021/12/06 07:04:33 - Agent - INFO: Episode 584	Score: 9.00
+2021/12/06 07:04:33 - Agent - INFO: Environment checkpoint saved at 584 episodes	Average Score: 12.58
+2021/12/06 07:04:34 - Agent - INFO: Episode 585	Score: 16.00
+2021/12/06 07:04:34 - Agent - INFO: Environment checkpoint saved at 585 episodes	Average Score: 12.69
+2021/12/06 07:04:34 - Agent - INFO: Episode 586	Score: 13.00
+2021/12/06 07:04:34 - Agent - INFO: Environment checkpoint saved at 586 episodes	Average Score: 12.71
+2021/12/06 07:04:35 - Agent - INFO: Episode 587	Score: 23.00
+2021/12/06 07:04:35 - Agent - INFO: Environment checkpoint saved at 587 episodes	Average Score: 12.80
+2021/12/06 07:04:36 - Agent - INFO: Episode 588	Score: 18.00
+2021/12/06 07:04:36 - Agent - INFO: Environment checkpoint saved at 588 episodes	Average Score: 12.82
+2021/12/06 07:04:37 - Agent - INFO: Episode 589	Score: 16.00
+2021/12/06 07:04:37 - Agent - INFO: Environment checkpoint saved at 589 episodes	Average Score: 12.88
+2021/12/06 07:04:38 - Agent - INFO: Episode 590	Score: 17.00
+2021/12/06 07:04:38 - Agent - INFO: Environment checkpoint saved at 590 episodes	Average Score: 12.92
+2021/12/06 07:04:39 - Agent - INFO: Episode 591	Score: 10.00
+2021/12/06 07:04:39 - Agent - INFO: Environment checkpoint saved at 591 episodes	Average Score: 12.95
+2021/12/06 07:04:40 - Agent - INFO: Episode 592	Score: 12.00
+2021/12/06 07:04:40 - Agent - INFO: Episode 593	Score: 12.00
+2021/12/06 07:04:40 - Agent - INFO: Environment checkpoint saved at 593 episodes	Average Score: 12.99
+2021/12/06 07:04:41 - Agent - INFO: Episode 594	Score: 11.00
+2021/12/06 07:04:41 - Agent - INFO: Environment checkpoint saved at 594 episodes	Average Score: 13.05
+2021/12/06 07:04:42 - Agent - INFO: Episode 595	Score: 16.00
+2021/12/06 07:04:42 - Agent - INFO: Environment checkpoint saved at 595 episodes	Average Score: 13.11
+2021/12/06 07:04:43 - Agent - INFO: Episode 596	Score: 15.00
+2021/12/06 07:04:43 - Agent - INFO: Environment checkpoint saved at 596 episodes	Average Score: 13.13
+2021/12/06 07:04:44 - Agent - INFO: Episode 597	Score: 16.00
+2021/12/06 07:04:44 - Agent - INFO: Episode 598	Score: 12.00
+2021/12/06 07:04:45 - Agent - INFO: Episode 599	Score: 20.00
+2021/12/06 07:04:45 - Agent - INFO: Environment checkpoint saved at 599 episodes	Average Score: 13.20
+2021/12/06 07:04:46 - Agent - INFO: Episode 600	Score: 15.00
+2021/12/06 07:04:46 - Agent - INFO: Episode 600	Average Score: 13.22
+2021/12/06 07:04:46 - Agent - INFO: Environment checkpoint saved at 600 episodes	Average Score: 13.22
+2021/12/06 07:04:47 - Agent - INFO: Episode 601	Score: 10.00
+2021/12/06 07:04:48 - Agent - INFO: Episode 602	Score: 14.00
+2021/12/06 07:04:49 - Agent - INFO: Episode 603	Score: 11.00
+2021/12/06 07:04:49 - Agent - INFO: Episode 604	Score: 4.00
+2021/12/06 07:04:50 - Agent - INFO: Episode 605	Score: 4.00
+2021/12/06 07:04:51 - Agent - INFO: Episode 606	Score: 14.00
+2021/12/06 07:04:52 - Agent - INFO: Episode 607	Score: 19.00
+2021/12/06 07:04:53 - Agent - INFO: Episode 608	Score: 7.00
+2021/12/06 07:04:53 - Agent - INFO: Episode 609	Score: 8.00
+2021/12/06 07:04:54 - Agent - INFO: Episode 610	Score: 3.00
+2021/12/06 07:04:55 - Agent - INFO: Episode 611	Score: 7.00
+2021/12/06 07:04:56 - Agent - INFO: Episode 612	Score: 8.00
+2021/12/06 07:04:57 - Agent - INFO: Episode 613	Score: 18.00
+2021/12/06 07:04:58 - Agent - INFO: Episode 614	Score: 14.00
+2021/12/06 07:04:58 - Agent - INFO: Episode 615	Score: 18.00
+2021/12/06 07:04:59 - Agent - INFO: Episode 616	Score: 14.00
+2021/12/06 07:05:00 - Agent - INFO: Episode 617	Score: 13.00
+2021/12/06 07:05:01 - Agent - INFO: Episode 618	Score: 15.00
+2021/12/06 07:05:02 - Agent - INFO: Episode 619	Score: 15.00
+2021/12/06 07:05:03 - Agent - INFO: Episode 620	Score: 11.00
+2021/12/06 07:05:03 - Agent - INFO: Episode 621	Score: 10.00
+2021/12/06 07:05:04 - Agent - INFO: Episode 622	Score: 16.00
+2021/12/06 07:05:05 - Agent - INFO: Episode 623	Score: 15.00
+2021/12/06 07:05:06 - Agent - INFO: Episode 624	Score: 10.00
+2021/12/06 07:05:07 - Agent - INFO: Episode 625	Score: 12.00
+2021/12/06 07:05:07 - Agent - INFO: Episode 626	Score: 13.00
+2021/12/06 07:05:08 - Agent - INFO: Episode 627	Score: 13.00
+2021/12/06 07:05:09 - Agent - INFO: Episode 628	Score: 12.00
+2021/12/06 07:05:10 - Agent - INFO: Episode 629	Score: 11.00
+2021/12/06 07:05:11 - Agent - INFO: Episode 630	Score: 18.00
+2021/12/06 07:05:12 - Agent - INFO: Episode 631	Score: 23.00
+2021/12/06 07:05:12 - Agent - INFO: Episode 632	Score: 20.00
+2021/12/06 07:05:12 - Agent - INFO: Environment checkpoint saved at 632 episodes	Average Score: 13.30
+2021/12/06 07:05:13 - Agent - INFO: Episode 633	Score: 13.00
+2021/12/06 07:05:14 - Agent - INFO: Episode 634	Score: 8.00
+2021/12/06 07:05:15 - Agent - INFO: Episode 635	Score: 13.00
+2021/12/06 07:05:16 - Agent - INFO: Episode 636	Score: 8.00
+2021/12/06 07:05:17 - Agent - INFO: Episode 637	Score: 13.00
+2021/12/06 07:05:17 - Agent - INFO: Episode 638	Score: 23.00
+2021/12/06 07:05:17 - Agent - INFO: Environment checkpoint saved at 638 episodes	Average Score: 13.37
+2021/12/06 07:05:18 - Agent - INFO: Episode 639	Score: 12.00
+2021/12/06 07:05:18 - Agent - INFO: Environment checkpoint saved at 639 episodes	Average Score: 13.44
+2021/12/06 07:05:19 - Agent - INFO: Episode 640	Score: 22.00
+2021/12/06 07:05:19 - Agent - INFO: Environment checkpoint saved at 640 episodes	Average Score: 13.53
+2021/12/06 07:05:20 - Agent - INFO: Episode 641	Score: 13.00
+2021/12/06 07:05:21 - Agent - INFO: Episode 642	Score: 15.00
+2021/12/06 07:05:21 - Agent - INFO: Episode 643	Score: 13.00
+2021/12/06 07:05:21 - Agent - INFO: Environment checkpoint saved at 643 episodes	Average Score: 13.56
+2021/12/06 07:05:22 - Agent - INFO: Episode 644	Score: 17.00
+2021/12/06 07:05:23 - Agent - INFO: Episode 645	Score: 14.00
+2021/12/06 07:05:24 - Agent - INFO: Episode 646	Score: 20.00
+2021/12/06 07:05:24 - Agent - INFO: Environment checkpoint saved at 646 episodes	Average Score: 13.57
+2021/12/06 07:05:25 - Agent - INFO: Episode 647	Score: 12.00
+2021/12/06 07:05:26 - Agent - INFO: Episode 648	Score: 11.00
+2021/12/06 07:05:26 - Agent - INFO: Episode 649	Score: 16.00
+2021/12/06 07:05:26 - Agent - INFO: Environment checkpoint saved at 649 episodes	Average Score: 13.58
+2021/12/06 07:05:27 - Agent - INFO: Episode 650	Score: 19.00
+2021/12/06 07:05:28 - Agent - INFO: Episode 651	Score: 3.00
+2021/12/06 07:05:29 - Agent - INFO: Episode 652	Score: 8.00
+2021/12/06 07:05:30 - Agent - INFO: Episode 653	Score: 13.00
+2021/12/06 07:05:30 - Agent - INFO: Episode 654	Score: 19.00
+2021/12/06 07:05:31 - Agent - INFO: Episode 655	Score: 10.00
+2021/12/06 07:05:32 - Agent - INFO: Episode 656	Score: 12.00
+2021/12/06 07:05:33 - Agent - INFO: Episode 657	Score: 16.00
+2021/12/06 07:05:34 - Agent - INFO: Episode 658	Score: 13.00
+2021/12/06 07:05:35 - Agent - INFO: Episode 659	Score: 13.00
+2021/12/06 07:05:35 - Agent - INFO: Episode 660	Score: 8.00
+2021/12/06 07:05:36 - Agent - INFO: Episode 661	Score: 13.00
+2021/12/06 07:05:37 - Agent - INFO: Episode 662	Score: 11.00
+2021/12/06 07:05:38 - Agent - INFO: Episode 663	Score: 10.00
+2021/12/06 07:05:39 - Agent - INFO: Episode 664	Score: 8.00
+2021/12/06 07:05:40 - Agent - INFO: Episode 665	Score: 14.00
+2021/12/06 07:05:40 - Agent - INFO: Episode 666	Score: 13.00
+2021/12/06 07:05:41 - Agent - INFO: Episode 667	Score: 17.00
+2021/12/06 07:05:42 - Agent - INFO: Episode 668	Score: 17.00
+2021/12/06 07:05:43 - Agent - INFO: Episode 669	Score: 14.00
+2021/12/06 07:05:44 - Agent - INFO: Episode 670	Score: 17.00
+2021/12/06 07:05:45 - Agent - INFO: Episode 671	Score: 11.00
+2021/12/06 07:05:46 - Agent - INFO: Episode 672	Score: 22.00
+2021/12/06 07:05:47 - Agent - INFO: Episode 673	Score: 9.00
+2021/12/06 07:05:48 - Agent - INFO: Episode 674	Score: 17.00
+2021/12/06 07:05:49 - Agent - INFO: Episode 675	Score: 18.00
+2021/12/06 07:05:50 - Agent - INFO: Episode 676	Score: 17.00
+2021/12/06 07:05:51 - Agent - INFO: Episode 677	Score: 11.00
+2021/12/06 07:05:52 - Agent - INFO: Episode 678	Score: 12.00
+2021/12/06 07:05:53 - Agent - INFO: Episode 679	Score: 15.00
+2021/12/06 07:05:54 - Agent - INFO: Episode 680	Score: 18.00
+2021/12/06 07:05:54 - Agent - INFO: Episode 681	Score: 17.00
+2021/12/06 07:05:54 - Agent - INFO: Environment checkpoint saved at 681 episodes	Average Score: 13.61
+2021/12/06 07:05:55 - Agent - INFO: Episode 682	Score: 10.00
+2021/12/06 07:05:56 - Agent - INFO: Episode 683	Score: 10.00
+2021/12/06 07:05:57 - Agent - INFO: Episode 684	Score: 14.00
+2021/12/06 07:05:58 - Agent - INFO: Episode 685	Score: 9.00
+2021/12/06 07:05:58 - Agent - INFO: Episode 686	Score: 12.00
+2021/12/06 07:05:59 - Agent - INFO: Episode 687	Score: 6.00
+2021/12/06 07:06:00 - Agent - INFO: Episode 688	Score: 18.00
+2021/12/06 07:06:01 - Agent - INFO: Episode 689	Score: 16.00
+2021/12/06 07:06:02 - Agent - INFO: Episode 690	Score: 14.00
+2021/12/06 07:06:03 - Agent - INFO: Episode 691	Score: 14.00
+2021/12/06 07:06:04 - Agent - INFO: Episode 692	Score: 12.00
+2021/12/06 07:06:05 - Agent - INFO: Episode 693	Score: 19.00
+2021/12/06 07:06:06 - Agent - INFO: Episode 694	Score: 19.00
+2021/12/06 07:06:07 - Agent - INFO: Episode 695	Score: 9.00
+2021/12/06 07:06:08 - Agent - INFO: Episode 696	Score: 19.00
+2021/12/06 07:06:09 - Agent - INFO: Episode 697	Score: 14.00
+2021/12/06 07:06:09 - Agent - INFO: Episode 698	Score: 11.00
+2021/12/06 07:06:10 - Agent - INFO: Episode 699	Score: 11.00
+2021/12/06 07:06:11 - Agent - INFO: Episode 700	Score: 12.00
+2021/12/06 07:06:11 - Agent - INFO: Episode 700	Average Score: 13.27
+2021/12/06 07:06:12 - Agent - INFO: Episode 701	Score: 16.00
+2021/12/06 07:06:13 - Agent - INFO: Episode 702	Score: 13.00
+2021/12/06 07:06:14 - Agent - INFO: Episode 703	Score: 16.00
+2021/12/06 07:06:15 - Agent - INFO: Episode 704	Score: 19.00
+2021/12/06 07:06:16 - Agent - INFO: Episode 705	Score: 12.00
+2021/12/06 07:06:17 - Agent - INFO: Episode 706	Score: 13.00
+2021/12/06 07:06:18 - Agent - INFO: Episode 707	Score: 21.00
+2021/12/06 07:06:19 - Agent - INFO: Episode 708	Score: 17.00
+2021/12/06 07:06:19 - Agent - INFO: Environment checkpoint saved at 708 episodes	Average Score: 13.71
+2021/12/06 07:06:20 - Agent - INFO: Episode 709	Score: 19.00
+2021/12/06 07:06:20 - Agent - INFO: Environment checkpoint saved at 709 episodes	Average Score: 13.82
+2021/12/06 07:06:21 - Agent - INFO: Episode 710	Score: 13.00
+2021/12/06 07:06:21 - Agent - INFO: Environment checkpoint saved at 710 episodes	Average Score: 13.92
+2021/12/06 07:06:22 - Agent - INFO: Episode 711	Score: 16.00
+2021/12/06 07:06:22 - Agent - INFO: Environment checkpoint saved at 711 episodes	Average Score: 14.01
+2021/12/06 07:06:23 - Agent - INFO: Episode 712	Score: 11.00
+2021/12/06 07:06:23 - Agent - INFO: Environment checkpoint saved at 712 episodes	Average Score: 14.04
+2021/12/06 07:06:24 - Agent - INFO: Episode 713	Score: 15.00
+2021/12/06 07:06:25 - Agent - INFO: Episode 714	Score: 17.00
+2021/12/06 07:06:26 - Agent - INFO: Episode 715	Score: 15.00
+2021/12/06 07:06:26 - Agent - INFO: Episode 716	Score: 16.00
+2021/12/06 07:06:27 - Agent - INFO: Episode 717	Score: 10.00
+2021/12/06 07:06:28 - Agent - INFO: Episode 718	Score: 13.00
+2021/12/06 07:06:29 - Agent - INFO: Episode 719	Score: 15.00
+2021/12/06 07:06:30 - Agent - INFO: Episode 720	Score: 22.00
+2021/12/06 07:06:30 - Agent - INFO: Environment checkpoint saved at 720 episodes	Average Score: 14.09
+2021/12/06 07:06:31 - Agent - INFO: Episode 721	Score: 10.00
+2021/12/06 07:06:31 - Agent - INFO: Episode 722	Score: 12.00
+2021/12/06 07:06:32 - Agent - INFO: Episode 723	Score: 16.00
+2021/12/06 07:06:33 - Agent - INFO: Episode 724	Score: 13.00
+2021/12/06 07:06:34 - Agent - INFO: Episode 725	Score: 13.00
+2021/12/06 07:06:34 - Agent - INFO: Environment checkpoint saved at 725 episodes	Average Score: 14.10
+2021/12/06 07:06:35 - Agent - INFO: Episode 726	Score: 19.00
+2021/12/06 07:06:35 - Agent - INFO: Environment checkpoint saved at 726 episodes	Average Score: 14.16
+2021/12/06 07:06:36 - Agent - INFO: Episode 727	Score: 7.00
+2021/12/06 07:06:37 - Agent - INFO: Episode 728	Score: 16.00
+2021/12/06 07:06:38 - Agent - INFO: Episode 729	Score: 7.00
+2021/12/06 07:06:39 - Agent - INFO: Episode 730	Score: 19.00
+2021/12/06 07:06:39 - Agent - INFO: Episode 731	Score: 17.00
+2021/12/06 07:06:40 - Agent - INFO: Episode 732	Score: 9.00
+2021/12/06 07:06:41 - Agent - INFO: Episode 733	Score: 10.00
+2021/12/06 07:06:42 - Agent - INFO: Episode 734	Score: 20.00
+2021/12/06 07:06:43 - Agent - INFO: Episode 735	Score: 15.00
+2021/12/06 07:06:44 - Agent - INFO: Episode 736	Score: 18.00
+2021/12/06 07:06:45 - Agent - INFO: Episode 737	Score: 17.00
+2021/12/06 07:06:45 - Agent - INFO: Environment checkpoint saved at 737 episodes	Average Score: 14.19
+2021/12/06 07:06:46 - Agent - INFO: Episode 738	Score: 17.00
+2021/12/06 07:06:46 - Agent - INFO: Episode 739	Score: 12.00
+2021/12/06 07:06:47 - Agent - INFO: Episode 740	Score: 10.00
+2021/12/06 07:06:48 - Agent - INFO: Episode 741	Score: 15.00
+2021/12/06 07:06:49 - Agent - INFO: Episode 742	Score: 13.00
+2021/12/06 07:06:50 - Agent - INFO: Episode 743	Score: 5.00
+2021/12/06 07:06:51 - Agent - INFO: Episode 744	Score: 14.00
+2021/12/06 07:06:51 - Agent - INFO: Episode 745	Score: 14.00
+2021/12/06 07:06:52 - Agent - INFO: Episode 746	Score: 10.00
+2021/12/06 07:06:53 - Agent - INFO: Episode 747	Score: 18.00
+2021/12/06 07:06:54 - Agent - INFO: Episode 748	Score: 10.00
+2021/12/06 07:06:55 - Agent - INFO: Episode 749	Score: 11.00
+2021/12/06 07:06:56 - Agent - INFO: Episode 750	Score: 11.00
+2021/12/06 07:06:57 - Agent - INFO: Episode 751	Score: 8.00
+2021/12/06 07:06:57 - Agent - INFO: Episode 752	Score: 14.00
+2021/12/06 07:06:58 - Agent - INFO: Episode 753	Score: 8.00
+2021/12/06 07:06:59 - Agent - INFO: Episode 754	Score: 9.00
+2021/12/06 07:07:00 - Agent - INFO: Episode 755	Score: 17.00
+2021/12/06 07:07:01 - Agent - INFO: Episode 756	Score: 9.00
+2021/12/06 07:07:02 - Agent - INFO: Episode 757	Score: 17.00
+2021/12/06 07:07:02 - Agent - INFO: Episode 758	Score: 13.00
+2021/12/06 07:07:03 - Agent - INFO: Episode 759	Score: 12.00
+2021/12/06 07:07:04 - Agent - INFO: Episode 760	Score: 15.00
+2021/12/06 07:07:05 - Agent - INFO: Episode 761	Score: 15.00
+2021/12/06 07:07:06 - Agent - INFO: Episode 762	Score: 11.00
+2021/12/06 07:07:07 - Agent - INFO: Episode 763	Score: 15.00
+2021/12/06 07:07:07 - Agent - INFO: Episode 764	Score: 6.00
+2021/12/06 07:07:08 - Agent - INFO: Episode 765	Score: 7.00
+2021/12/06 07:07:09 - Agent - INFO: Episode 766	Score: 14.00
+2021/12/06 07:07:10 - Agent - INFO: Episode 767	Score: 19.00
+2021/12/06 07:07:11 - Agent - INFO: Episode 768	Score: 13.00
+2021/12/06 07:07:12 - Agent - INFO: Episode 769	Score: 5.00
+2021/12/06 07:07:12 - Agent - INFO: Episode 770	Score: 12.00
+2021/12/06 07:07:13 - Agent - INFO: Episode 771	Score: 10.00
+2021/12/06 07:07:14 - Agent - INFO: Episode 772	Score: 12.00
+2021/12/06 07:07:15 - Agent - INFO: Episode 773	Score: 13.00
+2021/12/06 07:07:16 - Agent - INFO: Episode 774	Score: 16.00
+2021/12/06 07:07:17 - Agent - INFO: Episode 775	Score: 7.00
+2021/12/06 07:07:18 - Agent - INFO: Episode 776	Score: 8.00
+2021/12/06 07:07:18 - Agent - INFO: Episode 777	Score: 14.00
+2021/12/06 07:07:19 - Agent - INFO: Episode 778	Score: 13.00
+2021/12/06 07:07:20 - Agent - INFO: Episode 779	Score: 21.00
+2021/12/06 07:07:21 - Agent - INFO: Episode 780	Score: 13.00
+2021/12/06 07:07:22 - Agent - INFO: Episode 781	Score: 12.00
+2021/12/06 07:07:23 - Agent - INFO: Episode 782	Score: 22.00
+2021/12/06 07:07:23 - Agent - INFO: Episode 783	Score: 13.00
+2021/12/06 07:07:24 - Agent - INFO: Episode 784	Score: 9.00
+2021/12/06 07:07:25 - Agent - INFO: Episode 785	Score: 13.00
+2021/12/06 07:07:26 - Agent - INFO: Episode 786	Score: 11.00
+2021/12/06 07:07:27 - Agent - INFO: Episode 787	Score: 11.00
+2021/12/06 07:07:28 - Agent - INFO: Episode 788	Score: 13.00
+2021/12/06 07:07:28 - Agent - INFO: Episode 789	Score: 10.00
+2021/12/06 07:07:29 - Agent - INFO: Episode 790	Score: 18.00
+2021/12/06 07:07:30 - Agent - INFO: Episode 791	Score: 15.00
+2021/12/06 07:07:31 - Agent - INFO: Episode 792	Score: 18.00
+2021/12/06 07:07:32 - Agent - INFO: Episode 793	Score: 8.00
+2021/12/06 07:07:33 - Agent - INFO: Episode 794	Score: 12.00
+2021/12/06 07:07:33 - Agent - INFO: Episode 795	Score: 17.00
+2021/12/06 07:07:34 - Agent - INFO: Episode 796	Score: 16.00
+2021/12/06 07:07:35 - Agent - INFO: Episode 797	Score: 17.00
+2021/12/06 07:07:36 - Agent - INFO: Episode 798	Score: 10.00
+2021/12/06 07:07:37 - Agent - INFO: Episode 799	Score: 10.00
+2021/12/06 07:07:38 - Agent - INFO: Episode 800	Score: 25.00
+2021/12/06 07:07:38 - Agent - INFO: Episode 800	Average Score: 13.53
+2021/12/06 07:07:38 - Agent - INFO: Episode 801	Score: 17.00
+2021/12/06 07:07:39 - Agent - INFO: Episode 802	Score: 14.00
+2021/12/06 07:07:40 - Agent - INFO: Episode 803	Score: 15.00
+2021/12/06 07:07:41 - Agent - INFO: Episode 804	Score: 15.00
+2021/12/06 07:07:42 - Agent - INFO: Episode 805	Score: 11.00
+2021/12/06 07:07:43 - Agent - INFO: Episode 806	Score: 13.00
+2021/12/06 07:07:44 - Agent - INFO: Episode 807	Score: 11.00
+2021/12/06 07:07:44 - Agent - INFO: Episode 808	Score: 9.00
+2021/12/06 07:07:45 - Agent - INFO: Episode 809	Score: 16.00
+2021/12/06 07:07:46 - Agent - INFO: Episode 810	Score: 12.00
+2021/12/06 07:07:47 - Agent - INFO: Episode 811	Score: 13.00
+2021/12/06 07:07:48 - Agent - INFO: Episode 812	Score: 13.00
+2021/12/06 07:07:49 - Agent - INFO: Episode 813	Score: -1.00
+2021/12/06 07:07:49 - Agent - INFO: Episode 814	Score: 16.00
+2021/12/06 07:07:50 - Agent - INFO: Episode 815	Score: 10.00
+2021/12/06 07:07:51 - Agent - INFO: Episode 816	Score: 18.00
+2021/12/06 07:07:52 - Agent - INFO: Episode 817	Score: 10.00
+2021/12/06 07:07:53 - Agent - INFO: Episode 818	Score: 15.00
+2021/12/06 07:07:54 - Agent - INFO: Episode 819	Score: 10.00
+2021/12/06 07:07:55 - Agent - INFO: Episode 820	Score: 10.00
+2021/12/06 07:07:55 - Agent - INFO: Episode 821	Score: 18.00
+2021/12/06 07:07:56 - Agent - INFO: Episode 822	Score: 11.00
+2021/12/06 07:07:57 - Agent - INFO: Episode 823	Score: 21.00
+2021/12/06 07:07:58 - Agent - INFO: Episode 824	Score: 14.00
+2021/12/06 07:07:59 - Agent - INFO: Episode 825	Score: 17.00
+2021/12/06 07:08:00 - Agent - INFO: Episode 826	Score: 9.00
+2021/12/06 07:08:01 - Agent - INFO: Episode 827	Score: 22.00
+2021/12/06 07:08:01 - Agent - INFO: Episode 828	Score: 16.00
+2021/12/06 07:08:02 - Agent - INFO: Episode 829	Score: 7.00
+2021/12/06 07:08:03 - Agent - INFO: Episode 830	Score: 14.00
+2021/12/06 07:08:04 - Agent - INFO: Episode 831	Score: 21.00
+2021/12/06 07:08:05 - Agent - INFO: Episode 832	Score: 11.00
+2021/12/06 07:08:06 - Agent - INFO: Episode 833	Score: 14.00
+2021/12/06 07:08:06 - Agent - INFO: Episode 834	Score: 16.00
+2021/12/06 07:08:07 - Agent - INFO: Episode 835	Score: 9.00
+2021/12/06 07:08:08 - Agent - INFO: Episode 836	Score: 17.00
+2021/12/06 07:08:09 - Agent - INFO: Episode 837	Score: 11.00
+2021/12/06 07:08:10 - Agent - INFO: Episode 838	Score: 11.00
+2021/12/06 07:08:11 - Agent - INFO: Episode 839	Score: 9.00
+2021/12/06 07:08:12 - Agent - INFO: Episode 840	Score: 15.00
+2021/12/06 07:08:12 - Agent - INFO: Episode 841	Score: 13.00
+2021/12/06 07:08:13 - Agent - INFO: Episode 842	Score: 9.00
+2021/12/06 07:08:14 - Agent - INFO: Episode 843	Score: 14.00
+2021/12/06 07:08:15 - Agent - INFO: Episode 844	Score: 9.00
+2021/12/06 07:08:16 - Agent - INFO: Episode 845	Score: 14.00
+2021/12/06 07:08:17 - Agent - INFO: Episode 846	Score: 15.00
+2021/12/06 07:08:18 - Agent - INFO: Episode 847	Score: 14.00
+2021/12/06 07:08:18 - Agent - INFO: Episode 848	Score: 17.00
+2021/12/06 07:08:19 - Agent - INFO: Episode 849	Score: 18.00
+2021/12/06 07:08:20 - Agent - INFO: Episode 850	Score: 8.00
+2021/12/06 07:08:21 - Agent - INFO: Episode 851	Score: 9.00
+2021/12/06 07:08:22 - Agent - INFO: Episode 852	Score: 11.00
+2021/12/06 07:08:23 - Agent - INFO: Episode 853	Score: 10.00
+2021/12/06 07:08:23 - Agent - INFO: Episode 854	Score: 5.00
+2021/12/06 07:08:24 - Agent - INFO: Episode 855	Score: 14.00
+2021/12/06 07:08:25 - Agent - INFO: Episode 856	Score: 16.00
+2021/12/06 07:08:26 - Agent - INFO: Episode 857	Score: 14.00
+2021/12/06 07:08:27 - Agent - INFO: Episode 858	Score: 0.00
+2021/12/06 07:08:28 - Agent - INFO: Episode 859	Score: 17.00
+2021/12/06 07:08:29 - Agent - INFO: Episode 860	Score: 6.00
+2021/12/06 07:08:29 - Agent - INFO: Episode 861	Score: 18.00
+2021/12/06 07:08:30 - Agent - INFO: Episode 862	Score: 10.00
+2021/12/06 07:08:31 - Agent - INFO: Episode 863	Score: 9.00
+2021/12/06 07:08:32 - Agent - INFO: Episode 864	Score: 14.00
+2021/12/06 07:08:33 - Agent - INFO: Episode 865	Score: 16.00
+2021/12/06 07:08:34 - Agent - INFO: Episode 866	Score: 8.00
+2021/12/06 07:08:35 - Agent - INFO: Episode 867	Score: 15.00
+2021/12/06 07:08:36 - Agent - INFO: Episode 868	Score: 3.00
+2021/12/06 07:08:36 - Agent - INFO: Episode 869	Score: 12.00
+2021/12/06 07:08:37 - Agent - INFO: Episode 870	Score: 19.00
+2021/12/06 07:08:38 - Agent - INFO: Episode 871	Score: 17.00
+2021/12/06 07:08:39 - Agent - INFO: Episode 872	Score: 8.00
+2021/12/06 07:08:40 - Agent - INFO: Episode 873	Score: 19.00
+2021/12/06 07:08:41 - Agent - INFO: Episode 874	Score: 16.00
+2021/12/06 07:08:41 - Agent - INFO: Episode 875	Score: 5.00
+2021/12/06 07:08:42 - Agent - INFO: Episode 876	Score: 19.00
+2021/12/06 07:08:43 - Agent - INFO: Episode 877	Score: 16.00
+2021/12/06 07:08:44 - Agent - INFO: Episode 878	Score: 16.00
+2021/12/06 07:08:45 - Agent - INFO: Episode 879	Score: 9.00
+2021/12/06 07:08:46 - Agent - INFO: Episode 880	Score: 19.00
+2021/12/06 07:08:47 - Agent - INFO: Episode 881	Score: 8.00
+2021/12/06 07:08:47 - Agent - INFO: Episode 882	Score: 17.00
+2021/12/06 07:08:48 - Agent - INFO: Episode 883	Score: 11.00
+2021/12/06 07:08:49 - Agent - INFO: Episode 884	Score: 13.00
+2021/12/06 07:08:50 - Agent - INFO: Episode 885	Score: 8.00
+2021/12/06 07:08:51 - Agent - INFO: Episode 886	Score: 7.00
+2021/12/06 07:08:52 - Agent - INFO: Episode 887	Score: 14.00
+2021/12/06 07:08:53 - Agent - INFO: Episode 888	Score: 18.00
+2021/12/06 07:08:53 - Agent - INFO: Episode 889	Score: 4.00
+2021/12/06 07:08:54 - Agent - INFO: Episode 890	Score: 19.00
+2021/12/06 07:08:55 - Agent - INFO: Episode 891	Score: 23.00
+2021/12/06 07:08:56 - Agent - INFO: Episode 892	Score: 15.00
+2021/12/06 07:08:57 - Agent - INFO: Episode 893	Score: 16.00
+2021/12/06 07:08:58 - Agent - INFO: Episode 894	Score: 1.00
+2021/12/06 07:08:59 - Agent - INFO: Episode 895	Score: 9.00
+2021/12/06 07:09:00 - Agent - INFO: Episode 896	Score: 16.00
+2021/12/06 07:09:00 - Agent - INFO: Episode 897	Score: 19.00
+2021/12/06 07:09:01 - Agent - INFO: Episode 898	Score: 17.00
+2021/12/06 07:09:02 - Agent - INFO: Episode 899	Score: 13.00
+2021/12/06 07:09:03 - Agent - INFO: Episode 900	Score: 14.00
+2021/12/06 07:09:03 - Agent - INFO: Episode 900	Average Score: 12.93
+2021/12/06 07:09:04 - Agent - INFO: Episode 901	Score: 13.00
+2021/12/06 07:09:05 - Agent - INFO: Episode 902	Score: 16.00
+2021/12/06 07:09:06 - Agent - INFO: Episode 903	Score: 9.00
+2021/12/06 07:09:06 - Agent - INFO: Episode 904	Score: 13.00
+2021/12/06 07:09:07 - Agent - INFO: Episode 905	Score: 14.00
+2021/12/06 07:09:08 - Agent - INFO: Episode 906	Score: 19.00
+2021/12/06 07:09:09 - Agent - INFO: Episode 907	Score: 4.00
+2021/12/06 07:09:10 - Agent - INFO: Episode 908	Score: 16.00
+2021/12/06 07:09:11 - Agent - INFO: Episode 909	Score: 12.00
+2021/12/06 07:09:12 - Agent - INFO: Episode 910	Score: 20.00
+2021/12/06 07:09:12 - Agent - INFO: Episode 911	Score: 18.00
+2021/12/06 07:09:13 - Agent - INFO: Episode 912	Score: 6.00
+2021/12/06 07:09:14 - Agent - INFO: Episode 913	Score: 15.00
+2021/12/06 07:09:15 - Agent - INFO: Episode 914	Score: 14.00
+2021/12/06 07:09:16 - Agent - INFO: Episode 915	Score: 17.00
+2021/12/06 07:09:17 - Agent - INFO: Episode 916	Score: 19.00
+2021/12/06 07:09:18 - Agent - INFO: Episode 917	Score: 16.00
+2021/12/06 07:09:18 - Agent - INFO: Episode 918	Score: 18.00
+2021/12/06 07:09:19 - Agent - INFO: Episode 919	Score: 15.00
+2021/12/06 07:09:20 - Agent - INFO: Episode 920	Score: 17.00
+2021/12/06 07:09:21 - Agent - INFO: Episode 921	Score: 18.00
+2021/12/06 07:09:22 - Agent - INFO: Episode 922	Score: 16.00
+2021/12/06 07:09:23 - Agent - INFO: Episode 923	Score: 18.00
+2021/12/06 07:09:24 - Agent - INFO: Episode 924	Score: 11.00
+2021/12/06 07:09:24 - Agent - INFO: Episode 925	Score: 20.00
+2021/12/06 07:09:25 - Agent - INFO: Episode 926	Score: 10.00
+2021/12/06 07:09:26 - Agent - INFO: Episode 927	Score: 7.00
+2021/12/06 07:09:27 - Agent - INFO: Episode 928	Score: 9.00
+2021/12/06 07:09:28 - Agent - INFO: Episode 929	Score: 5.00
+2021/12/06 07:09:29 - Agent - INFO: Episode 930	Score: 16.00
+2021/12/06 07:09:30 - Agent - INFO: Episode 931	Score: 23.00
+2021/12/06 07:09:31 - Agent - INFO: Episode 932	Score: 19.00
+2021/12/06 07:09:31 - Agent - INFO: Episode 933	Score: 9.00
+2021/12/06 07:09:32 - Agent - INFO: Episode 934	Score: 17.00
+2021/12/06 07:09:33 - Agent - INFO: Episode 935	Score: 6.00
+2021/12/06 07:09:34 - Agent - INFO: Episode 936	Score: 9.00
+2021/12/06 07:09:35 - Agent - INFO: Episode 937	Score: 6.00
+2021/12/06 07:09:36 - Agent - INFO: Episode 938	Score: 17.00
+2021/12/06 07:09:37 - Agent - INFO: Episode 939	Score: 13.00
+2021/12/06 07:09:37 - Agent - INFO: Episode 940	Score: 11.00
+2021/12/06 07:09:38 - Agent - INFO: Episode 941	Score: 13.00
+2021/12/06 07:09:39 - Agent - INFO: Episode 942	Score: 19.00
+2021/12/06 07:09:40 - Agent - INFO: Episode 943	Score: 16.00
+2021/12/06 07:09:41 - Agent - INFO: Episode 944	Score: 14.00
+2021/12/06 07:09:42 - Agent - INFO: Episode 945	Score: 15.00
+2021/12/06 07:09:43 - Agent - INFO: Episode 946	Score: 10.00
+2021/12/06 07:09:43 - Agent - INFO: Episode 947	Score: 19.00
+2021/12/06 07:09:44 - Agent - INFO: Episode 948	Score: 18.00
+2021/12/06 07:09:45 - Agent - INFO: Episode 949	Score: 13.00
+2021/12/06 07:09:46 - Agent - INFO: Episode 950	Score: 20.00
+2021/12/06 07:09:47 - Agent - INFO: Episode 951	Score: 17.00
+2021/12/06 07:09:48 - Agent - INFO: Episode 952	Score: 24.00
+2021/12/06 07:09:49 - Agent - INFO: Episode 953	Score: 14.00
+2021/12/06 07:09:50 - Agent - INFO: Episode 954	Score: 17.00
+2021/12/06 07:09:50 - Agent - INFO: Episode 955	Score: 14.00
+2021/12/06 07:09:51 - Agent - INFO: Episode 956	Score: 17.00
+2021/12/06 07:09:52 - Agent - INFO: Episode 957	Score: 21.00
+2021/12/06 07:09:53 - Agent - INFO: Episode 958	Score: 19.00
+2021/12/06 07:09:54 - Agent - INFO: Episode 959	Score: 15.00
+2021/12/06 07:09:55 - Agent - INFO: Episode 960	Score: 19.00
+2021/12/06 07:09:56 - Agent - INFO: Episode 961	Score: 15.00
+2021/12/06 07:09:56 - Agent - INFO: Episode 962	Score: 21.00
+2021/12/06 07:09:56 - Agent - INFO: Environment checkpoint saved at 962 episodes	Average Score: 14.23
+2021/12/06 07:09:57 - Agent - INFO: Episode 963	Score: 12.00
+2021/12/06 07:09:57 - Agent - INFO: Environment checkpoint saved at 963 episodes	Average Score: 14.26
+2021/12/06 07:09:58 - Agent - INFO: Episode 964	Score: 14.00
+2021/12/06 07:09:59 - Agent - INFO: Episode 965	Score: 23.00
+2021/12/06 07:09:59 - Agent - INFO: Environment checkpoint saved at 965 episodes	Average Score: 14.33
+2021/12/06 07:10:00 - Agent - INFO: Episode 966	Score: 18.00
+2021/12/06 07:10:00 - Agent - INFO: Environment checkpoint saved at 966 episodes	Average Score: 14.43
+2021/12/06 07:10:01 - Agent - INFO: Episode 967	Score: 19.00
+2021/12/06 07:10:01 - Agent - INFO: Environment checkpoint saved at 967 episodes	Average Score: 14.47
+2021/12/06 07:10:02 - Agent - INFO: Episode 968	Score: 11.00
+2021/12/06 07:10:02 - Agent - INFO: Environment checkpoint saved at 968 episodes	Average Score: 14.55
+2021/12/06 07:10:03 - Agent - INFO: Episode 969	Score: 18.00
+2021/12/06 07:10:03 - Agent - INFO: Environment checkpoint saved at 969 episodes	Average Score: 14.61
+2021/12/06 07:10:04 - Agent - INFO: Episode 970	Score: 12.00
+2021/12/06 07:10:05 - Agent - INFO: Episode 971	Score: 14.00
+2021/12/06 07:10:06 - Agent - INFO: Episode 972	Score: 14.00
+2021/12/06 07:10:07 - Agent - INFO: Episode 973	Score: 16.00
+2021/12/06 07:10:07 - Agent - INFO: Episode 974	Score: 8.00
+2021/12/06 07:10:08 - Agent - INFO: Episode 975	Score: 17.00
+2021/12/06 07:10:09 - Agent - INFO: Episode 976	Score: 19.00
+2021/12/06 07:10:10 - Agent - INFO: Episode 977	Score: 18.00
+2021/12/06 07:10:11 - Agent - INFO: Episode 978	Score: 10.00
+2021/12/06 07:10:12 - Agent - INFO: Episode 979	Score: 15.00
+2021/12/06 07:10:13 - Agent - INFO: Episode 980	Score: 16.00
+2021/12/06 07:10:14 - Agent - INFO: Episode 981	Score: 10.00
+2021/12/06 07:10:14 - Agent - INFO: Episode 982	Score: 6.00
+2021/12/06 07:10:15 - Agent - INFO: Episode 983	Score: 19.00
+2021/12/06 07:10:16 - Agent - INFO: Episode 984	Score: 10.00
+2021/12/06 07:10:17 - Agent - INFO: Episode 985	Score: 10.00
+2021/12/06 07:10:18 - Agent - INFO: Episode 986	Score: 15.00
+2021/12/06 07:10:18 - Agent - INFO: Environment checkpoint saved at 986 episodes	Average Score: 14.63
+2021/12/06 07:10:19 - Agent - INFO: Episode 987	Score: 18.00
+2021/12/06 07:10:19 - Agent - INFO: Environment checkpoint saved at 987 episodes	Average Score: 14.67
+2021/12/06 07:10:20 - Agent - INFO: Episode 988	Score: 14.00
+2021/12/06 07:10:21 - Agent - INFO: Episode 989	Score: 19.00
+2021/12/06 07:10:21 - Agent - INFO: Environment checkpoint saved at 989 episodes	Average Score: 14.78
+2021/12/06 07:10:21 - Agent - INFO: Episode 990	Score: 23.00
+2021/12/06 07:10:21 - Agent - INFO: Environment checkpoint saved at 990 episodes	Average Score: 14.82
+2021/12/06 07:10:22 - Agent - INFO: Episode 991	Score: 15.00
+2021/12/06 07:10:23 - Agent - INFO: Episode 992	Score: 10.00
+2021/12/06 07:10:24 - Agent - INFO: Episode 993	Score: 22.00
+2021/12/06 07:10:25 - Agent - INFO: Episode 994	Score: 13.00
+2021/12/06 07:10:25 - Agent - INFO: Environment checkpoint saved at 994 episodes	Average Score: 14.87
+2021/12/06 07:10:26 - Agent - INFO: Episode 995	Score: 19.00
+2021/12/06 07:10:26 - Agent - INFO: Environment checkpoint saved at 995 episodes	Average Score: 14.97
+2021/12/06 07:10:27 - Agent - INFO: Episode 996	Score: 18.00
+2021/12/06 07:10:27 - Agent - INFO: Environment checkpoint saved at 996 episodes	Average Score: 14.99
+2021/12/06 07:10:28 - Agent - INFO: Episode 997	Score: 19.00
+2021/12/06 07:10:28 - Agent - INFO: Episode 998	Score: 14.00
+2021/12/06 07:10:29 - Agent - INFO: Episode 999	Score: 14.00
+2021/12/06 07:10:30 - Agent - INFO: Episode 1000	Score: 18.00
+2021/12/06 07:10:30 - Agent - INFO: Episode 1000	Average Score: 15.01
+2021/12/06 07:10:30 - Agent - INFO: Environment checkpoint saved at 1000 episodes	Average Score: 15.01
+2021/12/06 07:10:31 - Agent - INFO: Episode 1001	Score: 15.00
+2021/12/06 07:10:31 - Agent - INFO: Environment checkpoint saved at 1001 episodes	Average Score: 15.03
+2021/12/06 07:10:32 - Agent - INFO: Episode 1002	Score: 11.00
+2021/12/06 07:10:33 - Agent - INFO: Episode 1003	Score: 21.00
+2021/12/06 07:10:33 - Agent - INFO: Environment checkpoint saved at 1003 episodes	Average Score: 15.10
+2021/12/06 07:10:34 - Agent - INFO: Episode 1004	Score: 14.00
+2021/12/06 07:10:34 - Agent - INFO: Environment checkpoint saved at 1004 episodes	Average Score: 15.11
+2021/12/06 07:10:35 - Agent - INFO: Episode 1005	Score: 11.00
+2021/12/06 07:10:35 - Agent - INFO: Episode 1006	Score: 15.00
+2021/12/06 07:10:36 - Agent - INFO: Episode 1007	Score: 11.00
+2021/12/06 07:10:37 - Agent - INFO: Episode 1008	Score: 13.00
+2021/12/06 07:10:38 - Agent - INFO: Episode 1009	Score: 10.00
+2021/12/06 07:10:39 - Agent - INFO: Episode 1010	Score: 18.00
+2021/12/06 07:10:40 - Agent - INFO: Episode 1011	Score: 10.00
+2021/12/06 07:10:41 - Agent - INFO: Episode 1012	Score: 19.00
+2021/12/06 07:10:42 - Agent - INFO: Episode 1013	Score: 13.00
+2021/12/06 07:10:42 - Agent - INFO: Episode 1014	Score: 6.00
+2021/12/06 07:10:43 - Agent - INFO: Episode 1015	Score: 13.00
+2021/12/06 07:10:44 - Agent - INFO: Episode 1016	Score: 15.00
+2021/12/06 07:10:45 - Agent - INFO: Episode 1017	Score: 10.00
+2021/12/06 07:10:46 - Agent - INFO: Episode 1018	Score: 16.00
+2021/12/06 07:10:47 - Agent - INFO: Episode 1019	Score: 15.00
+2021/12/06 07:10:48 - Agent - INFO: Episode 1020	Score: 21.00
+2021/12/06 07:10:49 - Agent - INFO: Episode 1021	Score: 23.00
+2021/12/06 07:10:49 - Agent - INFO: Episode 1022	Score: 21.00
+2021/12/06 07:10:50 - Agent - INFO: Episode 1023	Score: 13.00
+2021/12/06 07:10:51 - Agent - INFO: Episode 1024	Score: 19.00
+2021/12/06 07:10:52 - Agent - INFO: Episode 1025	Score: 10.00
+2021/12/06 07:10:53 - Agent - INFO: Episode 1026	Score: 17.00
+2021/12/06 07:10:54 - Agent - INFO: Episode 1027	Score: 12.00
+2021/12/06 07:10:55 - Agent - INFO: Episode 1028	Score: 21.00
+2021/12/06 07:10:55 - Agent - INFO: Environment checkpoint saved at 1028 episodes	Average Score: 15.14
+2021/12/06 07:10:56 - Agent - INFO: Episode 1029	Score: 13.00
+2021/12/06 07:10:56 - Agent - INFO: Environment checkpoint saved at 1029 episodes	Average Score: 15.22
+2021/12/06 07:10:57 - Agent - INFO: Episode 1030	Score: 9.00
+2021/12/06 07:10:57 - Agent - INFO: Episode 1031	Score: 13.00
+2021/12/06 07:10:58 - Agent - INFO: Episode 1032	Score: 10.00
+2021/12/06 07:10:59 - Agent - INFO: Episode 1033	Score: 5.00
+2021/12/06 07:11:00 - Agent - INFO: Episode 1034	Score: 17.00
+2021/12/06 07:11:01 - Agent - INFO: Episode 1035	Score: 22.00
+2021/12/06 07:11:02 - Agent - INFO: Episode 1036	Score: 20.00
+2021/12/06 07:11:03 - Agent - INFO: Episode 1037	Score: 16.00
+2021/12/06 07:11:03 - Agent - INFO: Environment checkpoint saved at 1037 episodes	Average Score: 15.29
+2021/12/06 07:11:04 - Agent - INFO: Episode 1038	Score: 14.00
+2021/12/06 07:11:05 - Agent - INFO: Episode 1039	Score: 21.00
+2021/12/06 07:11:05 - Agent - INFO: Environment checkpoint saved at 1039 episodes	Average Score: 15.34
+2021/12/06 07:11:06 - Agent - INFO: Episode 1040	Score: 3.00
+2021/12/06 07:11:07 - Agent - INFO: Episode 1041	Score: 13.00
+2021/12/06 07:11:07 - Agent - INFO: Episode 1042	Score: 15.00
+2021/12/06 07:11:08 - Agent - INFO: Episode 1043	Score: 15.00
+2021/12/06 07:11:09 - Agent - INFO: Episode 1044	Score: 18.00
+2021/12/06 07:11:10 - Agent - INFO: Episode 1045	Score: 16.00
+2021/12/06 07:11:11 - Agent - INFO: Episode 1046	Score: 16.00
+2021/12/06 07:11:12 - Agent - INFO: Episode 1047	Score: 15.00
+2021/12/06 07:11:13 - Agent - INFO: Episode 1048	Score: 12.00
+2021/12/06 07:11:14 - Agent - INFO: Episode 1049	Score: 16.00
+2021/12/06 07:11:15 - Agent - INFO: Episode 1050	Score: 11.00
+2021/12/06 07:11:15 - Agent - INFO: Episode 1051	Score: 7.00
+2021/12/06 07:11:16 - Agent - INFO: Episode 1052	Score: 14.00
+2021/12/06 07:11:17 - Agent - INFO: Episode 1053	Score: 14.00
+2021/12/06 07:11:18 - Agent - INFO: Episode 1054	Score: 22.00
+2021/12/06 07:11:19 - Agent - INFO: Episode 1055	Score: 21.00
+2021/12/06 07:11:20 - Agent - INFO: Episode 1056	Score: 16.00
+2021/12/06 07:11:21 - Agent - INFO: Episode 1057	Score: 15.00
+2021/12/06 07:11:22 - Agent - INFO: Episode 1058	Score: 17.00
+2021/12/06 07:11:23 - Agent - INFO: Episode 1059	Score: 13.00
+2021/12/06 07:11:23 - Agent - INFO: Episode 1060	Score: 5.00
+2021/12/06 07:11:24 - Agent - INFO: Episode 1061	Score: 16.00
+2021/12/06 07:11:25 - Agent - INFO: Episode 1062	Score: 15.00
+2021/12/06 07:11:26 - Agent - INFO: Episode 1063	Score: 17.00
+2021/12/06 07:11:27 - Agent - INFO: Episode 1064	Score: 18.00
+2021/12/06 07:11:28 - Agent - INFO: Episode 1065	Score: 16.00
+2021/12/06 07:11:29 - Agent - INFO: Episode 1066	Score: 12.00
+2021/12/06 07:11:30 - Agent - INFO: Episode 1067	Score: 16.00
+2021/12/06 07:11:31 - Agent - INFO: Episode 1068	Score: 14.00
+2021/12/06 07:11:31 - Agent - INFO: Episode 1069	Score: 16.00
+2021/12/06 07:11:32 - Agent - INFO: Episode 1070	Score: 16.00
+2021/12/06 07:11:33 - Agent - INFO: Episode 1071	Score: 15.00
+2021/12/06 07:11:34 - Agent - INFO: Episode 1072	Score: 12.00
+2021/12/06 07:11:35 - Agent - INFO: Episode 1073	Score: 16.00
+2021/12/06 07:11:36 - Agent - INFO: Episode 1074	Score: 18.00
+2021/12/06 07:11:37 - Agent - INFO: Episode 1075	Score: 9.00
+2021/12/06 07:11:38 - Agent - INFO: Episode 1076	Score: 14.00
+2021/12/06 07:11:39 - Agent - INFO: Episode 1077	Score: 16.00
+2021/12/06 07:11:39 - Agent - INFO: Episode 1078	Score: 10.00
+2021/12/06 07:11:40 - Agent - INFO: Episode 1079	Score: 17.00
+2021/12/06 07:11:41 - Agent - INFO: Episode 1080	Score: 13.00
+2021/12/06 07:11:42 - Agent - INFO: Episode 1081	Score: 16.00
+2021/12/06 07:11:43 - Agent - INFO: Episode 1082	Score: 24.00
+2021/12/06 07:11:44 - Agent - INFO: Episode 1083	Score: 16.00
+2021/12/06 07:11:45 - Agent - INFO: Episode 1084	Score: 19.00
+2021/12/06 07:11:46 - Agent - INFO: Episode 1085	Score: 8.00
+2021/12/06 07:11:47 - Agent - INFO: Episode 1086	Score: 18.00
+2021/12/06 07:11:47 - Agent - INFO: Episode 1087	Score: 14.00
+2021/12/06 07:11:48 - Agent - INFO: Episode 1088	Score: 10.00
+2021/12/06 07:11:49 - Agent - INFO: Episode 1089	Score: 18.00
+2021/12/06 07:11:50 - Agent - INFO: Episode 1090	Score: 9.00
+2021/12/06 07:11:51 - Agent - INFO: Episode 1091	Score: 13.00
+2021/12/06 07:11:52 - Agent - INFO: Episode 1092	Score: 19.00
+2021/12/06 07:11:53 - Agent - INFO: Episode 1093	Score: 18.00
+2021/12/06 07:11:54 - Agent - INFO: Episode 1094	Score: 20.00
+2021/12/06 07:11:55 - Agent - INFO: Episode 1095	Score: 18.00
+2021/12/06 07:11:55 - Agent - INFO: Episode 1096	Score: 12.00
+2021/12/06 07:11:56 - Agent - INFO: Episode 1097	Score: 10.00
+2021/12/06 07:11:57 - Agent - INFO: Episode 1098	Score: 17.00
+2021/12/06 07:11:58 - Agent - INFO: Episode 1099	Score: 16.00
+2021/12/06 07:11:59 - Agent - INFO: Episode 1100	Score: 19.00
+2021/12/06 07:11:59 - Agent - INFO: Episode 1100	Average Score: 14.77
+2021/12/06 07:12:00 - Agent - INFO: Episode 1101	Score: 16.00
+2021/12/06 07:12:01 - Agent - INFO: Episode 1102	Score: 9.00
+2021/12/06 07:12:02 - Agent - INFO: Episode 1103	Score: 14.00
+2021/12/06 07:12:03 - Agent - INFO: Episode 1104	Score: 19.00
+2021/12/06 07:12:03 - Agent - INFO: Episode 1105	Score: 21.00
+2021/12/06 07:12:04 - Agent - INFO: Episode 1106	Score: 13.00
+2021/12/06 07:12:05 - Agent - INFO: Episode 1107	Score: 25.00
+2021/12/06 07:12:06 - Agent - INFO: Episode 1108	Score: 13.00
+2021/12/06 07:12:07 - Agent - INFO: Episode 1109	Score: 19.00
+2021/12/06 07:12:08 - Agent - INFO: Episode 1110	Score: 18.00
+2021/12/06 07:12:09 - Agent - INFO: Episode 1111	Score: 24.00
+2021/12/06 07:12:10 - Agent - INFO: Episode 1112	Score: 17.00
+2021/12/06 07:12:11 - Agent - INFO: Episode 1113	Score: 15.00
+2021/12/06 07:12:11 - Agent - INFO: Episode 1114	Score: 23.00
+2021/12/06 07:12:11 - Agent - INFO: Environment checkpoint saved at 1114 episodes	Average Score: 15.36
+2021/12/06 07:12:12 - Agent - INFO: Episode 1115	Score: 21.00
+2021/12/06 07:12:12 - Agent - INFO: Environment checkpoint saved at 1115 episodes	Average Score: 15.44
+2021/12/06 07:12:13 - Agent - INFO: Episode 1116	Score: 16.00
+2021/12/06 07:12:13 - Agent - INFO: Environment checkpoint saved at 1116 episodes	Average Score: 15.45
+2021/12/06 07:12:14 - Agent - INFO: Episode 1117	Score: 22.00
+2021/12/06 07:12:14 - Agent - INFO: Environment checkpoint saved at 1117 episodes	Average Score: 15.57
+2021/12/06 07:12:15 - Agent - INFO: Episode 1118	Score: 22.00
+2021/12/06 07:12:15 - Agent - INFO: Environment checkpoint saved at 1118 episodes	Average Score: 15.63
+2021/12/06 07:12:16 - Agent - INFO: Episode 1119	Score: 13.00
+2021/12/06 07:12:17 - Agent - INFO: Episode 1120	Score: 22.00
+2021/12/06 07:12:18 - Agent - INFO: Episode 1121	Score: 23.00
+2021/12/06 07:12:19 - Agent - INFO: Episode 1122	Score: 22.00
+2021/12/06 07:12:19 - Agent - INFO: Episode 1123	Score: 18.00
+2021/12/06 07:12:19 - Agent - INFO: Environment checkpoint saved at 1123 episodes	Average Score: 15.68
+2021/12/06 07:12:20 - Agent - INFO: Episode 1124	Score: 22.00
+2021/12/06 07:12:20 - Agent - INFO: Environment checkpoint saved at 1124 episodes	Average Score: 15.71
+2021/12/06 07:12:21 - Agent - INFO: Episode 1125	Score: 18.00
+2021/12/06 07:12:21 - Agent - INFO: Environment checkpoint saved at 1125 episodes	Average Score: 15.79
+2021/12/06 07:12:22 - Agent - INFO: Episode 1126	Score: 12.00
+2021/12/06 07:12:23 - Agent - INFO: Episode 1127	Score: 17.00
+2021/12/06 07:12:24 - Agent - INFO: Episode 1128	Score: 22.00
+2021/12/06 07:12:24 - Agent - INFO: Environment checkpoint saved at 1128 episodes	Average Score: 15.80
+2021/12/06 07:12:25 - Agent - INFO: Episode 1129	Score: 20.00
+2021/12/06 07:12:25 - Agent - INFO: Environment checkpoint saved at 1129 episodes	Average Score: 15.87
+2021/12/06 07:12:26 - Agent - INFO: Episode 1130	Score: 8.00
+2021/12/06 07:12:27 - Agent - INFO: Episode 1131	Score: 22.00
+2021/12/06 07:12:27 - Agent - INFO: Environment checkpoint saved at 1131 episodes	Average Score: 15.95
+2021/12/06 07:12:28 - Agent - INFO: Episode 1132	Score: 21.00
+2021/12/06 07:12:28 - Agent - INFO: Environment checkpoint saved at 1132 episodes	Average Score: 16.06
+2021/12/06 07:12:28 - Agent - INFO: Episode 1133	Score: 18.00
+2021/12/06 07:12:28 - Agent - INFO: Environment checkpoint saved at 1133 episodes	Average Score: 16.19
+2021/12/06 07:12:29 - Agent - INFO: Episode 1134	Score: 16.00
+2021/12/06 07:12:30 - Agent - INFO: Episode 1135	Score: 18.00
+2021/12/06 07:12:31 - Agent - INFO: Episode 1136	Score: 13.00
+2021/12/06 07:12:32 - Agent - INFO: Episode 1137	Score: 17.00
+2021/12/06 07:12:33 - Agent - INFO: Episode 1138	Score: 4.00
+2021/12/06 07:12:34 - Agent - INFO: Episode 1139	Score: 15.00
+2021/12/06 07:12:35 - Agent - INFO: Episode 1140	Score: 16.00
+2021/12/06 07:12:36 - Agent - INFO: Episode 1141	Score: 14.00
+2021/12/06 07:12:36 - Agent - INFO: Episode 1142	Score: 18.00
+2021/12/06 07:12:37 - Agent - INFO: Episode 1143	Score: 15.00
+2021/12/06 07:12:38 - Agent - INFO: Episode 1144	Score: 16.00
+2021/12/06 07:12:39 - Agent - INFO: Episode 1145	Score: 18.00
+2021/12/06 07:12:40 - Agent - INFO: Episode 1146	Score: 9.00
+2021/12/06 07:12:41 - Agent - INFO: Episode 1147	Score: 10.00
+2021/12/06 07:12:42 - Agent - INFO: Episode 1148	Score: 20.00
+2021/12/06 07:12:43 - Agent - INFO: Episode 1149	Score: 18.00
+2021/12/06 07:12:44 - Agent - INFO: Episode 1150	Score: 20.00
+2021/12/06 07:12:45 - Agent - INFO: Episode 1151	Score: 12.00
+2021/12/06 07:12:45 - Agent - INFO: Environment checkpoint saved at 1151 episodes	Average Score: 16.21
+2021/12/06 07:12:45 - Agent - INFO: Episode 1152	Score: 9.00
+2021/12/06 07:12:46 - Agent - INFO: Episode 1153	Score: 16.00
+2021/12/06 07:12:47 - Agent - INFO: Episode 1154	Score: 7.00
+2021/12/06 07:12:48 - Agent - INFO: Episode 1155	Score: 22.00
+2021/12/06 07:12:49 - Agent - INFO: Episode 1156	Score: 18.00
+2021/12/06 07:12:50 - Agent - INFO: Episode 1157	Score: 17.00
+2021/12/06 07:12:51 - Agent - INFO: Episode 1158	Score: 19.00
+2021/12/06 07:12:52 - Agent - INFO: Episode 1159	Score: 16.00
+2021/12/06 07:12:53 - Agent - INFO: Episode 1160	Score: 17.00
+2021/12/06 07:12:53 - Agent - INFO: Environment checkpoint saved at 1160 episodes	Average Score: 16.25
+2021/12/06 07:12:54 - Agent - INFO: Episode 1161	Score: 16.00
+2021/12/06 07:12:54 - Agent - INFO: Episode 1162	Score: 19.00
+2021/12/06 07:12:54 - Agent - INFO: Environment checkpoint saved at 1162 episodes	Average Score: 16.29
+2021/12/06 07:12:55 - Agent - INFO: Episode 1163	Score: 1.00
+2021/12/06 07:12:56 - Agent - INFO: Episode 1164	Score: 11.00
+2021/12/06 07:12:57 - Agent - INFO: Episode 1165	Score: 15.00
+2021/12/06 07:12:58 - Agent - INFO: Episode 1166	Score: 15.00
+2021/12/06 07:12:59 - Agent - INFO: Episode 1167	Score: 15.00
+2021/12/06 07:13:00 - Agent - INFO: Episode 1168	Score: 10.00
+2021/12/06 07:13:01 - Agent - INFO: Episode 1169	Score: 20.00
+2021/12/06 07:13:02 - Agent - INFO: Episode 1170	Score: 17.00
+2021/12/06 07:13:03 - Agent - INFO: Episode 1171	Score: 13.00
+2021/12/06 07:13:04 - Agent - INFO: Episode 1172	Score: 18.00
+2021/12/06 07:13:04 - Agent - INFO: Episode 1173	Score: 9.00
+2021/12/06 07:13:05 - Agent - INFO: Episode 1174	Score: 17.00
+2021/12/06 07:13:06 - Agent - INFO: Episode 1175	Score: 14.00
+2021/12/06 07:13:07 - Agent - INFO: Episode 1176	Score: 16.00
+2021/12/06 07:13:08 - Agent - INFO: Episode 1177	Score: 12.00
+2021/12/06 07:13:09 - Agent - INFO: Episode 1178	Score: 16.00
+2021/12/06 07:13:10 - Agent - INFO: Episode 1179	Score: 24.00
+2021/12/06 07:13:11 - Agent - INFO: Episode 1180	Score: 19.00
+2021/12/06 07:13:12 - Agent - INFO: Episode 1181	Score: 16.00
+2021/12/06 07:13:13 - Agent - INFO: Episode 1182	Score: 11.00
+2021/12/06 07:13:13 - Agent - INFO: Episode 1183	Score: 14.00
+2021/12/06 07:13:14 - Agent - INFO: Episode 1184	Score: 17.00
+2021/12/06 07:13:15 - Agent - INFO: Episode 1185	Score: 20.00
+2021/12/06 07:13:16 - Agent - INFO: Episode 1186	Score: 19.00
+2021/12/06 07:13:17 - Agent - INFO: Episode 1187	Score: 8.00
+2021/12/06 07:13:18 - Agent - INFO: Episode 1188	Score: 19.00
+2021/12/06 07:13:19 - Agent - INFO: Episode 1189	Score: 13.00
+2021/12/06 07:13:20 - Agent - INFO: Episode 1190	Score: 16.00
+2021/12/06 07:13:21 - Agent - INFO: Episode 1191	Score: 9.00
+2021/12/06 07:13:22 - Agent - INFO: Episode 1192	Score: 5.00
+2021/12/06 07:13:22 - Agent - INFO: Episode 1193	Score: 16.00
+2021/12/06 07:13:23 - Agent - INFO: Episode 1194	Score: 18.00
+2021/12/06 07:13:24 - Agent - INFO: Episode 1195	Score: 12.00
+2021/12/06 07:13:25 - Agent - INFO: Episode 1196	Score: 19.00
+2021/12/06 07:13:26 - Agent - INFO: Episode 1197	Score: 20.00
+2021/12/06 07:13:27 - Agent - INFO: Episode 1198	Score: 9.00
+2021/12/06 07:13:28 - Agent - INFO: Episode 1199	Score: 19.00
+2021/12/06 07:13:29 - Agent - INFO: Episode 1200	Score: 18.00
+2021/12/06 07:13:29 - Agent - INFO: Episode 1200	Average Score: 16.10
+2021/12/06 07:13:30 - Agent - INFO: Episode 1201	Score: 12.00
+2021/12/06 07:13:31 - Agent - INFO: Episode 1202	Score: 15.00
+2021/12/06 07:13:32 - Agent - INFO: Episode 1203	Score: 13.00
+2021/12/06 07:13:33 - Agent - INFO: Episode 1204	Score: 15.00
+2021/12/06 07:13:33 - Agent - INFO: Episode 1205	Score: 13.00
+2021/12/06 07:13:34 - Agent - INFO: Episode 1206	Score: 18.00
+2021/12/06 07:13:35 - Agent - INFO: Episode 1207	Score: 16.00
+2021/12/06 07:13:36 - Agent - INFO: Episode 1208	Score: 25.00
+2021/12/06 07:13:37 - Agent - INFO: Episode 1209	Score: 15.00
+2021/12/06 07:13:38 - Agent - INFO: Episode 1210	Score: 20.00
+2021/12/06 07:13:39 - Agent - INFO: Episode 1211	Score: 17.00
+2021/12/06 07:13:40 - Agent - INFO: Episode 1212	Score: 20.00
+2021/12/06 07:13:41 - Agent - INFO: Episode 1213	Score: 15.00
+2021/12/06 07:13:42 - Agent - INFO: Episode 1214	Score: 16.00
+2021/12/06 07:13:43 - Agent - INFO: Episode 1215	Score: 17.00
+2021/12/06 07:13:44 - Agent - INFO: Episode 1216	Score: 15.00
+2021/12/06 07:13:44 - Agent - INFO: Episode 1217	Score: 16.00
+2021/12/06 07:13:45 - Agent - INFO: Episode 1218	Score: 16.00
+2021/12/06 07:13:46 - Agent - INFO: Episode 1219	Score: 23.00
+2021/12/06 07:13:47 - Agent - INFO: Episode 1220	Score: 17.00
+2021/12/06 07:13:48 - Agent - INFO: Episode 1221	Score: 9.00
+2021/12/06 07:13:49 - Agent - INFO: Episode 1222	Score: 19.00
+2021/12/06 07:13:50 - Agent - INFO: Episode 1223	Score: 20.00
+2021/12/06 07:13:51 - Agent - INFO: Episode 1224	Score: 14.00
+2021/12/06 07:13:52 - Agent - INFO: Episode 1225	Score: 9.00
+2021/12/06 07:13:53 - Agent - INFO: Episode 1226	Score: 9.00
+2021/12/06 07:13:54 - Agent - INFO: Episode 1227	Score: 21.00
+2021/12/06 07:13:54 - Agent - INFO: Episode 1228	Score: 19.00
+2021/12/06 07:13:55 - Agent - INFO: Episode 1229	Score: 20.00
+2021/12/06 07:13:56 - Agent - INFO: Episode 1230	Score: 19.00
+2021/12/06 07:13:57 - Agent - INFO: Episode 1231	Score: 16.00
+2021/12/06 07:13:58 - Agent - INFO: Episode 1232	Score: 10.00
+2021/12/06 07:13:59 - Agent - INFO: Episode 1233	Score: 12.00
+2021/12/06 07:14:00 - Agent - INFO: Episode 1234	Score: 18.00
+2021/12/06 07:14:01 - Agent - INFO: Episode 1235	Score: 15.00
+2021/12/06 07:14:02 - Agent - INFO: Episode 1236	Score: 10.00
+2021/12/06 07:14:03 - Agent - INFO: Episode 1237	Score: 18.00
+2021/12/06 07:14:04 - Agent - INFO: Episode 1238	Score: 19.00
+2021/12/06 07:14:05 - Agent - INFO: Episode 1239	Score: 18.00
+2021/12/06 07:14:05 - Agent - INFO: Episode 1240	Score: 18.00
+2021/12/06 07:14:06 - Agent - INFO: Episode 1241	Score: 16.00
+2021/12/06 07:14:07 - Agent - INFO: Episode 1242	Score: 18.00
+2021/12/06 07:14:08 - Agent - INFO: Episode 1243	Score: 8.00
+2021/12/06 07:14:09 - Agent - INFO: Episode 1244	Score: 18.00
+2021/12/06 07:14:10 - Agent - INFO: Episode 1245	Score: 18.00
+2021/12/06 07:14:11 - Agent - INFO: Episode 1246	Score: 16.00
+2021/12/06 07:14:12 - Agent - INFO: Episode 1247	Score: 17.00
+2021/12/06 07:14:13 - Agent - INFO: Episode 1248	Score: 21.00
+2021/12/06 07:14:14 - Agent - INFO: Episode 1249	Score: 21.00
+2021/12/06 07:14:15 - Agent - INFO: Episode 1250	Score: 13.00
+2021/12/06 07:14:15 - Agent - INFO: Episode 1251	Score: 18.00
+2021/12/06 07:14:16 - Agent - INFO: Episode 1252	Score: 17.00
+2021/12/06 07:14:17 - Agent - INFO: Episode 1253	Score: 14.00
+2021/12/06 07:14:18 - Agent - INFO: Episode 1254	Score: 19.00
+2021/12/06 07:14:19 - Agent - INFO: Episode 1255	Score: 28.00
+2021/12/06 07:14:20 - Agent - INFO: Episode 1256	Score: 3.00
+2021/12/06 07:14:21 - Agent - INFO: Episode 1257	Score: 14.00
+2021/12/06 07:14:22 - Agent - INFO: Episode 1258	Score: 12.00
+2021/12/06 07:14:23 - Agent - INFO: Episode 1259	Score: 15.00
+2021/12/06 07:14:24 - Agent - INFO: Episode 1260	Score: 21.00
+2021/12/06 07:14:25 - Agent - INFO: Episode 1261	Score: 20.00
+2021/12/06 07:14:25 - Agent - INFO: Episode 1262	Score: 16.00
+2021/12/06 07:14:26 - Agent - INFO: Episode 1263	Score: 21.00
+2021/12/06 07:14:27 - Agent - INFO: Episode 1264	Score: 20.00
+2021/12/06 07:14:28 - Agent - INFO: Episode 1265	Score: 4.00
+2021/12/06 07:14:29 - Agent - INFO: Episode 1266	Score: 14.00
+2021/12/06 07:14:30 - Agent - INFO: Episode 1267	Score: 9.00
+2021/12/06 07:14:31 - Agent - INFO: Episode 1268	Score: 14.00
+2021/12/06 07:14:32 - Agent - INFO: Episode 1269	Score: 18.00
+2021/12/06 07:14:33 - Agent - INFO: Episode 1270	Score: 18.00
+2021/12/06 07:14:34 - Agent - INFO: Episode 1271	Score: 11.00
+2021/12/06 07:14:35 - Agent - INFO: Episode 1272	Score: 14.00
+2021/12/06 07:14:35 - Agent - INFO: Episode 1273	Score: 10.00
+2021/12/06 07:14:36 - Agent - INFO: Episode 1274	Score: 17.00
+2021/12/06 07:14:37 - Agent - INFO: Episode 1275	Score: 17.00
+2021/12/06 07:14:38 - Agent - INFO: Episode 1276	Score: 17.00
+2021/12/06 07:14:39 - Agent - INFO: Episode 1277	Score: 20.00
+2021/12/06 07:14:40 - Agent - INFO: Episode 1278	Score: 16.00
+2021/12/06 07:14:41 - Agent - INFO: Episode 1279	Score: 10.00
+2021/12/06 07:14:42 - Agent - INFO: Episode 1280	Score: 20.00
+2021/12/06 07:14:43 - Agent - INFO: Episode 1281	Score: 15.00
+2021/12/06 07:14:44 - Agent - INFO: Episode 1282	Score: 15.00
+2021/12/06 07:14:45 - Agent - INFO: Episode 1283	Score: 22.00
+2021/12/06 07:14:46 - Agent - INFO: Episode 1284	Score: 12.00
+2021/12/06 07:14:47 - Agent - INFO: Episode 1285	Score: 13.00
+2021/12/06 07:14:48 - Agent - INFO: Episode 1286	Score: 20.00
+2021/12/06 07:14:48 - Agent - INFO: Episode 1287	Score: 14.00
+2021/12/06 07:14:49 - Agent - INFO: Episode 1288	Score: 21.00
+2021/12/06 07:14:50 - Agent - INFO: Episode 1289	Score: 14.00
+2021/12/06 07:14:51 - Agent - INFO: Episode 1290	Score: 21.00
+2021/12/06 07:14:52 - Agent - INFO: Episode 1291	Score: 14.00
+2021/12/06 07:14:53 - Agent - INFO: Episode 1292	Score: 15.00
+2021/12/06 07:14:54 - Agent - INFO: Episode 1293	Score: 18.00
+2021/12/06 07:14:55 - Agent - INFO: Episode 1294	Score: 20.00
+2021/12/06 07:14:56 - Agent - INFO: Episode 1295	Score: 15.00
+2021/12/06 07:14:57 - Agent - INFO: Episode 1296	Score: 14.00
+2021/12/06 07:14:58 - Agent - INFO: Episode 1297	Score: 17.00
+2021/12/06 07:14:59 - Agent - INFO: Episode 1298	Score: 24.00
+2021/12/06 07:15:00 - Agent - INFO: Episode 1299	Score: 24.00
+2021/12/06 07:15:00 - Agent - INFO: Episode 1300	Score: 10.00
+2021/12/06 07:15:00 - Agent - INFO: Episode 1300	Average Score: 16.18
+2021/12/06 07:15:01 - Agent - INFO: Episode 1301	Score: 21.00
+2021/12/06 07:15:02 - Agent - INFO: Episode 1302	Score: 19.00
+2021/12/06 07:15:02 - Agent - INFO: Environment checkpoint saved at 1302 episodes	Average Score: 16.31
+2021/12/06 07:15:03 - Agent - INFO: Episode 1303	Score: 13.00
+2021/12/06 07:15:04 - Agent - INFO: Episode 1304	Score: 19.00
+2021/12/06 07:15:04 - Agent - INFO: Environment checkpoint saved at 1304 episodes	Average Score: 16.35
+2021/12/06 07:15:05 - Agent - INFO: Episode 1305	Score: 18.00
+2021/12/06 07:15:05 - Agent - INFO: Environment checkpoint saved at 1305 episodes	Average Score: 16.40
+2021/12/06 07:15:06 - Agent - INFO: Episode 1306	Score: 15.00
+2021/12/06 07:15:07 - Agent - INFO: Episode 1307	Score: 21.00
+2021/12/06 07:15:07 - Agent - INFO: Environment checkpoint saved at 1307 episodes	Average Score: 16.42
+2021/12/06 07:15:08 - Agent - INFO: Episode 1308	Score: 13.00
+2021/12/06 07:15:09 - Agent - INFO: Episode 1309	Score: 8.00
+2021/12/06 07:15:10 - Agent - INFO: Episode 1310	Score: 18.00
+2021/12/06 07:15:11 - Agent - INFO: Episode 1311	Score: 16.00
+2021/12/06 07:15:11 - Agent - INFO: Episode 1312	Score: 16.00
+2021/12/06 07:15:12 - Agent - INFO: Episode 1313	Score: 13.00
+2021/12/06 07:15:13 - Agent - INFO: Episode 1314	Score: 14.00
+2021/12/06 07:15:14 - Agent - INFO: Episode 1315	Score: 17.00
+2021/12/06 07:15:15 - Agent - INFO: Episode 1316	Score: 19.00
+2021/12/06 07:15:16 - Agent - INFO: Episode 1317	Score: 18.00
+2021/12/06 07:15:17 - Agent - INFO: Episode 1318	Score: 17.00
+2021/12/06 07:15:18 - Agent - INFO: Episode 1319	Score: 16.00
+2021/12/06 07:15:19 - Agent - INFO: Episode 1320	Score: 9.00
+2021/12/06 07:15:20 - Agent - INFO: Episode 1321	Score: 21.00
+2021/12/06 07:15:21 - Agent - INFO: Episode 1322	Score: 13.00
+2021/12/06 07:15:22 - Agent - INFO: Episode 1323	Score: 20.00
+2021/12/06 07:15:23 - Agent - INFO: Episode 1324	Score: 11.00
+2021/12/06 07:15:23 - Agent - INFO: Episode 1325	Score: 15.00
+2021/12/06 07:15:24 - Agent - INFO: Episode 1326	Score: 13.00
+2021/12/06 07:15:25 - Agent - INFO: Episode 1327	Score: 16.00
+2021/12/06 07:15:26 - Agent - INFO: Episode 1328	Score: 17.00
+2021/12/06 07:15:27 - Agent - INFO: Episode 1329	Score: 10.00
+2021/12/06 07:15:28 - Agent - INFO: Episode 1330	Score: 12.00
+2021/12/06 07:15:29 - Agent - INFO: Episode 1331	Score: 22.00
+2021/12/06 07:15:30 - Agent - INFO: Episode 1332	Score: 20.00
+2021/12/06 07:15:31 - Agent - INFO: Episode 1333	Score: 22.00
+2021/12/06 07:15:32 - Agent - INFO: Episode 1334	Score: 17.00
+2021/12/06 07:15:33 - Agent - INFO: Episode 1335	Score: 16.00
+2021/12/06 07:15:34 - Agent - INFO: Episode 1336	Score: 13.00
+2021/12/06 07:15:35 - Agent - INFO: Episode 1337	Score: 22.00
+2021/12/06 07:15:35 - Agent - INFO: Episode 1338	Score: 13.00
+2021/12/06 07:15:36 - Agent - INFO: Episode 1339	Score: 19.00
+2021/12/06 07:15:37 - Agent - INFO: Episode 1340	Score: 20.00
+2021/12/06 07:15:38 - Agent - INFO: Episode 1341	Score: 6.00
+2021/12/06 07:15:39 - Agent - INFO: Episode 1342	Score: 17.00
+2021/12/06 07:15:40 - Agent - INFO: Episode 1343	Score: 10.00
+2021/12/06 07:15:41 - Agent - INFO: Episode 1344	Score: 1.00
+2021/12/06 07:15:44 - Agent - INFO: Episode 1345	Score: 19.00
+2021/12/06 07:15:44 - Agent - INFO: Episode 1346	Score: 16.00
+2021/12/06 07:15:47 - Agent - INFO: Episode 1347	Score: 20.00
+2021/12/06 07:15:49 - Agent - INFO: Episode 1348	Score: 14.00
+2021/12/06 07:15:51 - Agent - INFO: Episode 1349	Score: 10.00
+2021/12/06 07:15:53 - Agent - INFO: Episode 1350	Score: 21.00
+2021/12/06 07:15:54 - Agent - INFO: Episode 1351	Score: 21.00
+2021/12/06 07:15:56 - Agent - INFO: Episode 1352	Score: 14.00
+2021/12/06 07:15:58 - Agent - INFO: Episode 1353	Score: 8.00
+2021/12/06 07:16:00 - Agent - INFO: Episode 1354	Score: 20.00
+2021/12/06 07:16:02 - Agent - INFO: Episode 1355	Score: 19.00
+2021/12/06 07:16:04 - Agent - INFO: Episode 1356	Score: 17.00
+2021/12/06 07:16:06 - Agent - INFO: Episode 1357	Score: 17.00
+2021/12/06 07:16:08 - Agent - INFO: Episode 1358	Score: 15.00
+2021/12/06 07:16:09 - Agent - INFO: Episode 1359	Score: 18.00
+2021/12/06 07:16:12 - Agent - INFO: Episode 1360	Score: 17.00
+2021/12/06 07:16:14 - Agent - INFO: Episode 1361	Score: 16.00
+2021/12/06 07:16:16 - Agent - INFO: Episode 1362	Score: 21.00
+2021/12/06 07:16:18 - Agent - INFO: Episode 1363	Score: 18.00
+2021/12/06 07:16:20 - Agent - INFO: Episode 1364	Score: 16.00
+2021/12/06 07:16:22 - Agent - INFO: Episode 1365	Score: 18.00
+2021/12/06 07:16:24 - Agent - INFO: Episode 1366	Score: 7.00
+2021/12/06 07:16:26 - Agent - INFO: Episode 1367	Score: 19.00
+2021/12/06 07:16:29 - Agent - INFO: Episode 1368	Score: 12.00
+2021/12/06 07:16:31 - Agent - INFO: Episode 1369	Score: 11.00
+2021/12/06 07:16:33 - Agent - INFO: Episode 1370	Score: 13.00
+2021/12/06 07:16:35 - Agent - INFO: Episode 1371	Score: 11.00
+2021/12/06 07:16:37 - Agent - INFO: Episode 1372	Score: 7.00
+2021/12/06 07:16:38 - Agent - INFO: Episode 1373	Score: 22.00
+2021/12/06 07:16:40 - Agent - INFO: Episode 1374	Score: 21.00
+2021/12/06 07:16:43 - Agent - INFO: Episode 1375	Score: 13.00
+2021/12/06 07:16:45 - Agent - INFO: Episode 1376	Score: 22.00
+2021/12/06 07:16:47 - Agent - INFO: Episode 1377	Score: 15.00
+2021/12/06 07:16:49 - Agent - INFO: Episode 1378	Score: 19.00
+2021/12/06 07:16:51 - Agent - INFO: Episode 1379	Score: 17.00
+2021/12/06 07:16:53 - Agent - INFO: Episode 1380	Score: 18.00
+2021/12/06 07:16:55 - Agent - INFO: Episode 1381	Score: 19.00
+2021/12/06 07:16:57 - Agent - INFO: Episode 1382	Score: 17.00
+2021/12/06 07:16:58 - Agent - INFO: Episode 1383	Score: 16.00
+2021/12/06 07:17:00 - Agent - INFO: Episode 1384	Score: 18.00
+2021/12/06 07:17:01 - Agent - INFO: Episode 1385	Score: 13.00
+2021/12/06 07:17:03 - Agent - INFO: Episode 1386	Score: 15.00
+2021/12/06 07:17:05 - Agent - INFO: Episode 1387	Score: 13.00
+2021/12/06 07:17:08 - Agent - INFO: Episode 1388	Score: 19.00
+2021/12/06 07:17:09 - Agent - INFO: Episode 1389	Score: 13.00
+2021/12/06 07:17:11 - Agent - INFO: Episode 1390	Score: 13.00
+2021/12/06 07:17:13 - Agent - INFO: Episode 1391	Score: 19.00
+2021/12/06 07:17:15 - Agent - INFO: Episode 1392	Score: 16.00
+2021/12/06 07:17:17 - Agent - INFO: Episode 1393	Score: 17.00
+2021/12/06 07:17:19 - Agent - INFO: Episode 1394	Score: 18.00
+2021/12/06 07:17:21 - Agent - INFO: Episode 1395	Score: 17.00
+2021/12/06 07:17:23 - Agent - INFO: Episode 1396	Score: 17.00
+2021/12/06 07:17:25 - Agent - INFO: Episode 1397	Score: 18.00
+2021/12/06 07:17:27 - Agent - INFO: Episode 1398	Score: 15.00
+2021/12/06 07:17:29 - Agent - INFO: Episode 1399	Score: 16.00
+2021/12/06 07:17:30 - Agent - INFO: Episode 1400	Score: 13.00
+2021/12/06 07:17:30 - Agent - INFO: Episode 1400	Average Score: 15.90
+2021/12/06 07:17:32 - Agent - INFO: Episode 1401	Score: 20.00
+2021/12/06 07:17:34 - Agent - INFO: Episode 1402	Score: 11.00
+2021/12/06 07:17:36 - Agent - INFO: Episode 1403	Score: 18.00
+2021/12/06 07:17:38 - Agent - INFO: Episode 1404	Score: 16.00
+2021/12/06 07:17:40 - Agent - INFO: Episode 1405	Score: 20.00
+2021/12/06 07:17:44 - Agent - INFO: Episode 1406	Score: 15.00
+2021/12/06 07:17:45 - Agent - INFO: Episode 1407	Score: 16.00
+2021/12/06 07:17:48 - Agent - INFO: Episode 1408	Score: 15.00
+2021/12/06 07:17:49 - Agent - INFO: Episode 1409	Score: 15.00
+2021/12/06 07:17:51 - Agent - INFO: Episode 1410	Score: 17.00
+2021/12/06 07:17:53 - Agent - INFO: Episode 1411	Score: 13.00
+2021/12/06 07:17:55 - Agent - INFO: Episode 1412	Score: 17.00
+2021/12/06 07:17:57 - Agent - INFO: Episode 1413	Score: 14.00
+2021/12/06 07:18:00 - Agent - INFO: Episode 1414	Score: 17.00
+2021/12/06 07:18:00 - Agent - INFO: Episode 1415	Score: 17.00
+2021/12/06 07:18:03 - Agent - INFO: Episode 1416	Score: 16.00
+2021/12/06 07:18:05 - Agent - INFO: Episode 1417	Score: 15.00
+2021/12/06 07:18:06 - Agent - INFO: Episode 1418	Score: 17.00
+2021/12/06 07:18:08 - Agent - INFO: Episode 1419	Score: 21.00
+2021/12/06 07:18:10 - Agent - INFO: Episode 1420	Score: 20.00
+2021/12/06 07:18:12 - Agent - INFO: Episode 1421	Score: 12.00
+2021/12/06 07:18:14 - Agent - INFO: Episode 1422	Score: 12.00
+2021/12/06 07:18:15 - Agent - INFO: Episode 1423	Score: 7.00
+2021/12/06 07:18:17 - Agent - INFO: Episode 1424	Score: 19.00
+2021/12/06 07:18:19 - Agent - INFO: Episode 1425	Score: 12.00
+2021/12/06 07:18:21 - Agent - INFO: Episode 1426	Score: 19.00
+2021/12/06 07:18:23 - Agent - INFO: Episode 1427	Score: 10.00
+2021/12/06 07:18:23 - Agent - INFO: Episode 1428	Score: 16.00
+2021/12/06 07:18:25 - Agent - INFO: Episode 1429	Score: 16.00
+2021/12/06 07:18:27 - Agent - INFO: Episode 1430	Score: 21.00
+2021/12/06 07:18:29 - Agent - INFO: Episode 1431	Score: 22.00
+2021/12/06 07:18:31 - Agent - INFO: Episode 1432	Score: 22.00
+2021/12/06 07:18:33 - Agent - INFO: Episode 1433	Score: 19.00
+2021/12/06 07:18:34 - Agent - INFO: Episode 1434	Score: 11.00
+2021/12/06 07:18:36 - Agent - INFO: Episode 1435	Score: 17.00
+2021/12/06 07:18:39 - Agent - INFO: Episode 1436	Score: 16.00
+2021/12/06 07:18:41 - Agent - INFO: Episode 1437	Score: 13.00
+2021/12/06 07:18:43 - Agent - INFO: Episode 1438	Score: 25.00
+2021/12/06 07:18:44 - Agent - INFO: Episode 1439	Score: 16.00
+2021/12/06 07:18:46 - Agent - INFO: Episode 1440	Score: 9.00
+2021/12/06 07:18:48 - Agent - INFO: Episode 1441	Score: 17.00
+2021/12/06 07:18:50 - Agent - INFO: Episode 1442	Score: 22.00
+2021/12/06 07:18:52 - Agent - INFO: Episode 1443	Score: 14.00
+2021/12/06 07:18:53 - Agent - INFO: Episode 1444	Score: 14.00
+2021/12/06 07:18:55 - Agent - INFO: Episode 1445	Score: 12.00
+2021/12/06 07:18:57 - Agent - INFO: Episode 1446	Score: 14.00
+2021/12/06 07:18:59 - Agent - INFO: Episode 1447	Score: 16.00
+2021/12/06 07:19:01 - Agent - INFO: Episode 1448	Score: 16.00
+2021/12/06 07:19:03 - Agent - INFO: Episode 1449	Score: 12.00
+2021/12/06 07:19:05 - Agent - INFO: Episode 1450	Score: 18.00
+2021/12/06 07:19:07 - Agent - INFO: Episode 1451	Score: 14.00
+2021/12/06 07:19:08 - Agent - INFO: Episode 1452	Score: 20.00
+2021/12/06 07:19:11 - Agent - INFO: Episode 1453	Score: 17.00
+2021/12/06 07:19:13 - Agent - INFO: Episode 1454	Score: 21.00
+2021/12/06 07:19:15 - Agent - INFO: Episode 1455	Score: 19.00
+2021/12/06 07:19:17 - Agent - INFO: Episode 1456	Score: 14.00
+2021/12/06 07:19:19 - Agent - INFO: Episode 1457	Score: 19.00
+2021/12/06 07:19:21 - Agent - INFO: Episode 1458	Score: 17.00
+2021/12/06 07:19:23 - Agent - INFO: Episode 1459	Score: 16.00
+2021/12/06 07:19:24 - Agent - INFO: Episode 1460	Score: 1.00
+2021/12/06 07:19:26 - Agent - INFO: Episode 1461	Score: 22.00
+2021/12/06 07:19:28 - Agent - INFO: Episode 1462	Score: 13.00
+2021/12/06 07:19:30 - Agent - INFO: Episode 1463	Score: 15.00
+2021/12/06 07:19:32 - Agent - INFO: Episode 1464	Score: 14.00
+2021/12/06 07:19:34 - Agent - INFO: Episode 1465	Score: 19.00
+2021/12/06 07:19:36 - Agent - INFO: Episode 1466	Score: 17.00
+2021/12/06 07:19:38 - Agent - INFO: Episode 1467	Score: 14.00
+2021/12/06 07:19:39 - Agent - INFO: Episode 1468	Score: 14.00
+2021/12/06 07:19:41 - Agent - INFO: Episode 1469	Score: 18.00
+2021/12/06 07:19:44 - Agent - INFO: Episode 1470	Score: 21.00
+2021/12/06 07:19:45 - Agent - INFO: Episode 1471	Score: 22.00
+2021/12/06 07:19:47 - Agent - INFO: Episode 1472	Score: 8.00
+2021/12/06 07:19:49 - Agent - INFO: Episode 1473	Score: 17.00
+2021/12/06 07:19:50 - Agent - INFO: Episode 1474	Score: 16.00
+2021/12/06 07:19:52 - Agent - INFO: Episode 1475	Score: 21.00
+2021/12/06 07:19:54 - Agent - INFO: Episode 1476	Score: 14.00
+2021/12/06 07:19:56 - Agent - INFO: Episode 1477	Score: 17.00
+2021/12/06 07:19:58 - Agent - INFO: Episode 1478	Score: 14.00
+2021/12/06 07:19:59 - Agent - INFO: Episode 1479	Score: 15.00
+2021/12/06 07:20:00 - Agent - INFO: Episode 1480	Score: 18.00
+2021/12/06 07:20:02 - Agent - INFO: Episode 1481	Score: 21.00
+2021/12/06 07:20:04 - Agent - INFO: Episode 1482	Score: 9.00
+2021/12/06 07:20:06 - Agent - INFO: Episode 1483	Score: 18.00
+2021/12/06 07:20:08 - Agent - INFO: Episode 1484	Score: 10.00
+2021/12/06 07:20:10 - Agent - INFO: Episode 1485	Score: 18.00
+2021/12/06 07:20:11 - Agent - INFO: Episode 1486	Score: 14.00
+2021/12/06 07:20:13 - Agent - INFO: Episode 1487	Score: 19.00
+2021/12/06 07:20:15 - Agent - INFO: Episode 1488	Score: 11.00
+2021/12/06 07:20:17 - Agent - INFO: Episode 1489	Score: 17.00
+2021/12/06 07:20:19 - Agent - INFO: Episode 1490	Score: 17.00
+2021/12/06 07:20:21 - Agent - INFO: Episode 1491	Score: 17.00
+2021/12/06 07:20:22 - Agent - INFO: Episode 1492	Score: 11.00
+2021/12/06 07:20:24 - Agent - INFO: Episode 1493	Score: 16.00
+2021/12/06 07:20:27 - Agent - INFO: Episode 1494	Score: 15.00
+2021/12/06 07:20:29 - Agent - INFO: Episode 1495	Score: 15.00
+2021/12/06 07:20:31 - Agent - INFO: Episode 1496	Score: 15.00
+2021/12/06 07:20:32 - Agent - INFO: Episode 1497	Score: 10.00
+2021/12/06 07:20:34 - Agent - INFO: Episode 1498	Score: 20.00
+2021/12/06 07:20:36 - Agent - INFO: Episode 1499	Score: 17.00
+2021/12/06 07:20:38 - Agent - INFO: Episode 1500	Score: 21.00
+2021/12/06 07:20:38 - Agent - INFO: Episode 1500	Average Score: 15.97
+2021/12/06 07:20:40 - Agent - INFO: Episode 1501	Score: 17.00
+2021/12/06 07:20:42 - Agent - INFO: Episode 1502	Score: 19.00
+2021/12/06 07:20:44 - Agent - INFO: Episode 1503	Score: 17.00
+2021/12/06 07:20:46 - Agent - INFO: Episode 1504	Score: 14.00
+2021/12/06 07:20:48 - Agent - INFO: Episode 1505	Score: 21.00
+2021/12/06 07:20:49 - Agent - INFO: Episode 1506	Score: 15.00
+2021/12/06 07:20:51 - Agent - INFO: Episode 1507	Score: 22.00
+2021/12/06 07:20:54 - Agent - INFO: Episode 1508	Score: 14.00
+2021/12/06 07:20:56 - Agent - INFO: Episode 1509	Score: 18.00
+2021/12/06 07:20:58 - Agent - INFO: Episode 1510	Score: 18.00
+2021/12/06 07:21:00 - Agent - INFO: Episode 1511	Score: 16.00
+2021/12/06 07:21:01 - Agent - INFO: Episode 1512	Score: 19.00
+2021/12/06 07:21:04 - Agent - INFO: Episode 1513	Score: 17.00
+2021/12/06 07:21:06 - Agent - INFO: Episode 1514	Score: 14.00
+2021/12/06 07:21:08 - Agent - INFO: Episode 1515	Score: 12.00
+2021/12/06 07:21:10 - Agent - INFO: Episode 1516	Score: 12.00
+2021/12/06 07:21:13 - Agent - INFO: Episode 1517	Score: 24.00
+2021/12/06 07:21:15 - Agent - INFO: Episode 1518	Score: 21.00
+2021/12/06 07:21:17 - Agent - INFO: Episode 1519	Score: 20.00
+2021/12/06 07:21:18 - Agent - INFO: Episode 1520	Score: 16.00
+2021/12/06 07:21:21 - Agent - INFO: Episode 1521	Score: 11.00
+2021/12/06 07:21:24 - Agent - INFO: Episode 1522	Score: 16.00
+2021/12/06 07:21:26 - Agent - INFO: Episode 1523	Score: 15.00
+2021/12/06 07:21:28 - Agent - INFO: Episode 1524	Score: 19.00
+2021/12/06 07:21:30 - Agent - INFO: Episode 1525	Score: 19.00
+2021/12/06 07:21:31 - Agent - INFO: Episode 1526	Score: 16.00
+2021/12/06 07:21:33 - Agent - INFO: Episode 1527	Score: 16.00
+2021/12/06 07:21:35 - Agent - INFO: Episode 1528	Score: 14.00
+2021/12/06 07:21:37 - Agent - INFO: Episode 1529	Score: 23.00
+2021/12/06 07:21:39 - Agent - INFO: Episode 1530	Score: 18.00
+2021/12/06 07:21:41 - Agent - INFO: Episode 1531	Score: 17.00
+2021/12/06 07:21:42 - Agent - INFO: Episode 1532	Score: 16.00
+2021/12/06 07:21:44 - Agent - INFO: Episode 1533	Score: 20.00
+2021/12/06 07:21:45 - Agent - INFO: Episode 1534	Score: 12.00
+2021/12/06 07:21:47 - Agent - INFO: Episode 1535	Score: 14.00
+2021/12/06 07:21:49 - Agent - INFO: Episode 1536	Score: 20.00
+2021/12/06 07:21:50 - Agent - INFO: Episode 1537	Score: 14.00
+2021/12/06 07:21:52 - Agent - INFO: Episode 1538	Score: 8.00
+2021/12/06 07:21:53 - Agent - INFO: Episode 1539	Score: 21.00
+2021/12/06 07:21:55 - Agent - INFO: Episode 1540	Score: 18.00
+2021/12/06 07:21:57 - Agent - INFO: Episode 1541	Score: 22.00
+2021/12/06 07:22:00 - Agent - INFO: Episode 1542	Score: 10.00
+2021/12/06 07:22:01 - Agent - INFO: Episode 1543	Score: 11.00
+2021/12/06 07:22:03 - Agent - INFO: Episode 1544	Score: 20.00
+2021/12/06 07:22:05 - Agent - INFO: Episode 1545	Score: 8.00
+2021/12/06 07:22:07 - Agent - INFO: Episode 1546	Score: 14.00
+2021/12/06 07:22:09 - Agent - INFO: Episode 1547	Score: 11.00
+2021/12/06 07:22:12 - Agent - INFO: Episode 1548	Score: 13.00
+2021/12/06 07:22:13 - Agent - INFO: Episode 1549	Score: 21.00
+2021/12/06 07:22:15 - Agent - INFO: Episode 1550	Score: 19.00
+2021/12/06 07:22:17 - Agent - INFO: Episode 1551	Score: 17.00
+2021/12/06 07:22:19 - Agent - INFO: Episode 1552	Score: 18.00
+2021/12/06 07:22:21 - Agent - INFO: Episode 1553	Score: 25.00
+2021/12/06 07:22:23 - Agent - INFO: Episode 1554	Score: 9.00
+2021/12/06 07:22:25 - Agent - INFO: Episode 1555	Score: 17.00
+2021/12/06 07:22:27 - Agent - INFO: Episode 1556	Score: 19.00
+2021/12/06 07:22:29 - Agent - INFO: Episode 1557	Score: 18.00
+2021/12/06 07:22:30 - Agent - INFO: Episode 1558	Score: 20.00
+2021/12/06 07:22:33 - Agent - INFO: Episode 1559	Score: 22.00
+2021/12/06 07:22:35 - Agent - INFO: Episode 1560	Score: 13.00
+2021/12/06 07:22:36 - Agent - INFO: Episode 1561	Score: 20.00
+2021/12/06 07:22:38 - Agent - INFO: Episode 1562	Score: 8.00
+2021/12/06 07:22:40 - Agent - INFO: Episode 1563	Score: 14.00
+2021/12/06 07:22:42 - Agent - INFO: Episode 1564	Score: 20.00
+2021/12/06 07:22:44 - Agent - INFO: Episode 1565	Score: 24.00
+2021/12/06 07:22:44 - Agent - INFO: Environment checkpoint saved at 1565 episodes	Average Score: 16.43
+2021/12/06 07:22:46 - Agent - INFO: Episode 1566	Score: 13.00
+2021/12/06 07:22:48 - Agent - INFO: Episode 1567	Score: 17.00
+2021/12/06 07:22:50 - Agent - INFO: Episode 1568	Score: 14.00
+2021/12/06 07:22:52 - Agent - INFO: Episode 1569	Score: 21.00
+2021/12/06 07:22:52 - Agent - INFO: Environment checkpoint saved at 1569 episodes	Average Score: 16.45
+2021/12/06 07:22:54 - Agent - INFO: Episode 1570	Score: 18.00
+2021/12/06 07:22:56 - Agent - INFO: Episode 1571	Score: 15.00
+2021/12/06 07:22:59 - Agent - INFO: Episode 1572	Score: 14.00
+2021/12/06 07:23:00 - Agent - INFO: Episode 1573	Score: 17.00
+2021/12/06 07:23:01 - Agent - INFO: Episode 1574	Score: 14.00
+2021/12/06 07:23:03 - Agent - INFO: Episode 1575	Score: 11.00
+2021/12/06 07:23:04 - Agent - INFO: Episode 1576	Score: 16.00
+2021/12/06 07:23:06 - Agent - INFO: Episode 1577	Score: 16.00
+2021/12/06 07:23:07 - Agent - INFO: Episode 1578	Score: 15.00
+2021/12/06 07:23:09 - Agent - INFO: Episode 1579	Score: 19.00
+2021/12/06 07:23:12 - Agent - INFO: Episode 1580	Score: 18.00
+2021/12/06 07:23:14 - Agent - INFO: Episode 1581	Score: 16.00
+2021/12/06 07:23:15 - Agent - INFO: Episode 1582	Score: 18.00
+2021/12/06 07:23:17 - Agent - INFO: Episode 1583	Score: 20.00
+2021/12/06 07:23:19 - Agent - INFO: Episode 1584	Score: 21.00
+2021/12/06 07:23:19 - Agent - INFO: Environment checkpoint saved at 1584 episodes	Average Score: 16.52
+2021/12/06 07:23:21 - Agent - INFO: Episode 1585	Score: 17.00
+2021/12/06 07:23:23 - Agent - INFO: Episode 1586	Score: 22.00
+2021/12/06 07:23:23 - Agent - INFO: Environment checkpoint saved at 1586 episodes	Average Score: 16.59
+2021/12/06 07:23:25 - Agent - INFO: Episode 1587	Score: 11.00
+2021/12/06 07:23:27 - Agent - INFO: Episode 1588	Score: 15.00
+2021/12/06 07:23:28 - Agent - INFO: Episode 1589	Score: 18.00
+2021/12/06 07:23:30 - Agent - INFO: Episode 1590	Score: 12.00
+2021/12/06 07:23:32 - Agent - INFO: Episode 1591	Score: 10.00
+2021/12/06 07:23:34 - Agent - INFO: Episode 1592	Score: 11.00
+2021/12/06 07:23:36 - Agent - INFO: Episode 1593	Score: 14.00
+2021/12/06 07:23:38 - Agent - INFO: Episode 1594	Score: 17.00
+2021/12/06 07:23:39 - Agent - INFO: Episode 1595	Score: 19.00
+2021/12/06 07:23:41 - Agent - INFO: Episode 1596	Score: 20.00
+2021/12/06 07:23:43 - Agent - INFO: Episode 1597	Score: 20.00
+2021/12/06 07:23:43 - Agent - INFO: Environment checkpoint saved at 1597 episodes	Average Score: 16.63
+2021/12/06 07:23:45 - Agent - INFO: Episode 1598	Score: 22.00
+2021/12/06 07:23:45 - Agent - INFO: Environment checkpoint saved at 1598 episodes	Average Score: 16.65
+2021/12/06 07:23:47 - Agent - INFO: Episode 1599	Score: 18.00
+2021/12/06 07:23:47 - Agent - INFO: Environment checkpoint saved at 1599 episodes	Average Score: 16.66
+2021/12/06 07:23:49 - Agent - INFO: Episode 1600	Score: 15.00
+2021/12/06 07:23:49 - Agent - INFO: Episode 1600	Average Score: 16.60
+2021/12/06 07:23:50 - Agent - INFO: Episode 1601	Score: 14.00
+2021/12/06 07:23:52 - Agent - INFO: Episode 1602	Score: 18.00
+2021/12/06 07:23:54 - Agent - INFO: Episode 1603	Score: 13.00
+2021/12/06 07:23:56 - Agent - INFO: Episode 1604	Score: 12.00
+2021/12/06 07:23:58 - Agent - INFO: Episode 1605	Score: 20.00
+2021/12/06 07:24:00 - Agent - INFO: Episode 1606	Score: 21.00
+2021/12/06 07:24:01 - Agent - INFO: Episode 1607	Score: 16.00
+2021/12/06 07:24:05 - Agent - INFO: Episode 1608	Score: 12.00
+2021/12/06 07:24:07 - Agent - INFO: Episode 1609	Score: 8.00
+2021/12/06 07:24:09 - Agent - INFO: Episode 1610	Score: 19.00
+2021/12/06 07:24:11 - Agent - INFO: Episode 1611	Score: 20.00
+2021/12/06 07:24:13 - Agent - INFO: Episode 1612	Score: 16.00
+2021/12/06 07:24:15 - Agent - INFO: Episode 1613	Score: 18.00
+2021/12/06 07:24:17 - Agent - INFO: Episode 1614	Score: 13.00
+2021/12/06 07:24:19 - Agent - INFO: Episode 1615	Score: 12.00
+2021/12/06 07:24:21 - Agent - INFO: Episode 1616	Score: 17.00
+2021/12/06 07:24:23 - Agent - INFO: Episode 1617	Score: 23.00
+2021/12/06 07:24:24 - Agent - INFO: Episode 1618	Score: 17.00
+2021/12/06 07:24:26 - Agent - INFO: Episode 1619	Score: 24.00
+2021/12/06 07:24:28 - Agent - INFO: Episode 1620	Score: 13.00
+2021/12/06 07:24:30 - Agent - INFO: Episode 1621	Score: 17.00
+2021/12/06 07:24:32 - Agent - INFO: Episode 1622	Score: 16.00
+2021/12/06 07:24:33 - Agent - INFO: Episode 1623	Score: 10.00
+2021/12/06 07:24:35 - Agent - INFO: Episode 1624	Score: 14.00
+2021/12/06 07:24:36 - Agent - INFO: Episode 1625	Score: 12.00
+2021/12/06 07:24:39 - Agent - INFO: Episode 1626	Score: 20.00
+2021/12/06 07:24:40 - Agent - INFO: Episode 1627	Score: 11.00
+2021/12/06 07:24:42 - Agent - INFO: Episode 1628	Score: 12.00
+2021/12/06 07:24:44 - Agent - INFO: Episode 1629	Score: 16.00
+2021/12/06 07:24:46 - Agent - INFO: Episode 1630	Score: 8.00
+2021/12/06 07:24:48 - Agent - INFO: Episode 1631	Score: 18.00
+2021/12/06 07:24:50 - Agent - INFO: Episode 1632	Score: 20.00
+2021/12/06 07:24:51 - Agent - INFO: Episode 1633	Score: 22.00
+2021/12/06 07:24:53 - Agent - INFO: Episode 1634	Score: 17.00
+2021/12/06 07:24:56 - Agent - INFO: Episode 1635	Score: 18.00
+2021/12/06 07:24:57 - Agent - INFO: Episode 1636	Score: 15.00
+2021/12/06 07:24:59 - Agent - INFO: Episode 1637	Score: 9.00
+2021/12/06 07:25:00 - Agent - INFO: Episode 1638	Score: 20.00
+2021/12/06 07:25:02 - Agent - INFO: Episode 1639	Score: 15.00
+2021/12/06 07:25:05 - Agent - INFO: Episode 1640	Score: 16.00
+2021/12/06 07:25:07 - Agent - INFO: Episode 1641	Score: 13.00
+2021/12/06 07:25:09 - Agent - INFO: Episode 1642	Score: 17.00
+2021/12/06 07:25:11 - Agent - INFO: Episode 1643	Score: 19.00
+2021/12/06 07:25:13 - Agent - INFO: Episode 1644	Score: 15.00
+2021/12/06 07:25:15 - Agent - INFO: Episode 1645	Score: 15.00
+2021/12/06 07:25:16 - Agent - INFO: Episode 1646	Score: 19.00
+2021/12/06 07:25:18 - Agent - INFO: Episode 1647	Score: 12.00
+2021/12/06 07:25:20 - Agent - INFO: Episode 1648	Score: 21.00
+2021/12/06 07:25:22 - Agent - INFO: Episode 1649	Score: 22.00
+2021/12/06 07:25:24 - Agent - INFO: Episode 1650	Score: 16.00
+2021/12/06 07:25:26 - Agent - INFO: Episode 1651	Score: 14.00
+2021/12/06 07:25:28 - Agent - INFO: Episode 1652	Score: 25.00
+2021/12/06 07:25:30 - Agent - INFO: Episode 1653	Score: 14.00
+2021/12/06 07:25:31 - Agent - INFO: Episode 1654	Score: 13.00
+2021/12/06 07:25:33 - Agent - INFO: Episode 1655	Score: 21.00
+2021/12/06 07:25:35 - Agent - INFO: Episode 1656	Score: 15.00
+2021/12/06 07:25:37 - Agent - INFO: Episode 1657	Score: 19.00
+2021/12/06 07:25:39 - Agent - INFO: Episode 1658	Score: 23.00
+2021/12/06 07:25:40 - Agent - INFO: Episode 1659	Score: 16.00
+2021/12/06 07:25:42 - Agent - INFO: Episode 1660	Score: 21.00
+2021/12/06 07:25:43 - Agent - INFO: Episode 1661	Score: 14.00
+2021/12/06 07:25:46 - Agent - INFO: Episode 1662	Score: 14.00
+2021/12/06 07:25:47 - Agent - INFO: Episode 1663	Score: 17.00
+2021/12/06 07:25:49 - Agent - INFO: Episode 1664	Score: 19.00
+2021/12/06 07:25:51 - Agent - INFO: Episode 1665	Score: 23.00
+2021/12/06 07:25:53 - Agent - INFO: Episode 1666	Score: 20.00
+2021/12/06 07:25:55 - Agent - INFO: Episode 1667	Score: 22.00
+2021/12/06 07:25:58 - Agent - INFO: Episode 1668	Score: 21.00
+2021/12/06 07:25:59 - Agent - INFO: Episode 1669	Score: 13.00
+2021/12/06 07:26:00 - Agent - INFO: Episode 1670	Score: 1.00
+2021/12/06 07:26:02 - Agent - INFO: Episode 1671	Score: 14.00
+2021/12/06 07:26:04 - Agent - INFO: Episode 1672	Score: 17.00
+2021/12/06 07:26:06 - Agent - INFO: Episode 1673	Score: 18.00
+2021/12/06 07:26:08 - Agent - INFO: Episode 1674	Score: 6.00
+2021/12/06 07:26:10 - Agent - INFO: Episode 1675	Score: 8.00
+2021/12/06 07:26:12 - Agent - INFO: Episode 1676	Score: 16.00
+2021/12/06 07:26:14 - Agent - INFO: Episode 1677	Score: 11.00
+2021/12/06 07:26:15 - Agent - INFO: Episode 1678	Score: 11.00
+2021/12/06 07:26:18 - Agent - INFO: Episode 1679	Score: 9.00
+2021/12/06 07:26:20 - Agent - INFO: Episode 1680	Score: 19.00
+2021/12/06 07:26:21 - Agent - INFO: Episode 1681	Score: 12.00
+2021/12/06 07:26:24 - Agent - INFO: Episode 1682	Score: 16.00
+2021/12/06 07:26:26 - Agent - INFO: Episode 1683	Score: 18.00
+2021/12/06 07:26:28 - Agent - INFO: Episode 1684	Score: 10.00
+2021/12/06 07:26:29 - Agent - INFO: Episode 1685	Score: 15.00
+2021/12/06 07:26:31 - Agent - INFO: Episode 1686	Score: 19.00
+2021/12/06 07:26:34 - Agent - INFO: Episode 1687	Score: 17.00
+2021/12/06 07:26:35 - Agent - INFO: Episode 1688	Score: 16.00
+2021/12/06 07:26:36 - Agent - INFO: Episode 1689	Score: 27.00
+2021/12/06 07:26:38 - Agent - INFO: Episode 1690	Score: 15.00
+2021/12/06 07:26:41 - Agent - INFO: Episode 1691	Score: 8.00
+2021/12/06 07:26:43 - Agent - INFO: Episode 1692	Score: 20.00
+2021/12/06 07:26:46 - Agent - INFO: Episode 1693	Score: 15.00
+2021/12/06 07:26:48 - Agent - INFO: Episode 1694	Score: 14.00
+2021/12/06 07:26:51 - Agent - INFO: Episode 1695	Score: 17.00
+2021/12/06 07:26:53 - Agent - INFO: Episode 1696	Score: 13.00
+2021/12/06 07:26:55 - Agent - INFO: Episode 1697	Score: 22.00
+2021/12/06 07:26:57 - Agent - INFO: Episode 1698	Score: 18.00
+2021/12/06 07:26:59 - Agent - INFO: Episode 1699	Score: 14.00
+2021/12/06 07:27:00 - Agent - INFO: Episode 1700	Score: 10.00
+2021/12/06 07:27:00 - Agent - INFO: Episode 1700	Average Score: 15.91
+2021/12/06 07:27:03 - Agent - INFO: Episode 1701	Score: 18.00
+2021/12/06 07:27:05 - Agent - INFO: Episode 1702	Score: 8.00
+2021/12/06 07:27:07 - Agent - INFO: Episode 1703	Score: 19.00
+2021/12/06 07:27:08 - Agent - INFO: Episode 1704	Score: 8.00
+2021/12/06 07:27:10 - Agent - INFO: Episode 1705	Score: 17.00
+2021/12/06 07:27:13 - Agent - INFO: Episode 1706	Score: 22.00
+2021/12/06 07:27:15 - Agent - INFO: Episode 1707	Score: 16.00
+2021/12/06 07:27:17 - Agent - INFO: Episode 1708	Score: 20.00
+2021/12/06 07:27:19 - Agent - INFO: Episode 1709	Score: 16.00
+2021/12/06 07:27:20 - Agent - INFO: Episode 1710	Score: 7.00
+2021/12/06 07:27:22 - Agent - INFO: Episode 1711	Score: 22.00
+2021/12/06 07:27:24 - Agent - INFO: Episode 1712	Score: 18.00
+2021/12/06 07:27:27 - Agent - INFO: Episode 1713	Score: 22.00
+2021/12/06 07:27:29 - Agent - INFO: Episode 1714	Score: 17.00
+2021/12/06 07:27:31 - Agent - INFO: Episode 1715	Score: 20.00
+2021/12/06 07:27:33 - Agent - INFO: Episode 1716	Score: 13.00
+2021/12/06 07:27:34 - Agent - INFO: Episode 1717	Score: 17.00
+2021/12/06 07:27:36 - Agent - INFO: Episode 1718	Score: 9.00
+2021/12/06 07:27:39 - Agent - INFO: Episode 1719	Score: 10.00
+2021/12/06 07:27:40 - Agent - INFO: Episode 1720	Score: 16.00
+2021/12/06 07:27:43 - Agent - INFO: Episode 1721	Score: 23.00
+2021/12/06 07:27:45 - Agent - INFO: Episode 1722	Score: 14.00
+2021/12/06 07:27:46 - Agent - INFO: Episode 1723	Score: 13.00
+2021/12/06 07:27:48 - Agent - INFO: Episode 1724	Score: 17.00
+2021/12/06 07:27:50 - Agent - INFO: Episode 1725	Score: 12.00
+2021/12/06 07:27:52 - Agent - INFO: Episode 1726	Score: 15.00
+2021/12/06 07:27:54 - Agent - INFO: Episode 1727	Score: 23.00
+2021/12/06 07:27:56 - Agent - INFO: Episode 1728	Score: 14.00
+2021/12/06 07:27:58 - Agent - INFO: Episode 1729	Score: 18.00
+2021/12/06 07:28:00 - Agent - INFO: Episode 1730	Score: 18.00
+2021/12/06 07:28:02 - Agent - INFO: Episode 1731	Score: 24.00
+2021/12/06 07:28:04 - Agent - INFO: Episode 1732	Score: 20.00
+2021/12/06 07:28:05 - Agent - INFO: Episode 1733	Score: 16.00
+2021/12/06 07:28:07 - Agent - INFO: Episode 1734	Score: 11.00
+2021/12/06 07:28:09 - Agent - INFO: Episode 1735	Score: 23.00
+2021/12/06 07:28:11 - Agent - INFO: Episode 1736	Score: 20.00
+2021/12/06 07:28:13 - Agent - INFO: Episode 1737	Score: 13.00
+2021/12/06 07:28:15 - Agent - INFO: Episode 1738	Score: 18.00
+2021/12/06 07:28:17 - Agent - INFO: Episode 1739	Score: 17.00
+2021/12/06 07:28:18 - Agent - INFO: Episode 1740	Score: 16.00
+2021/12/06 07:28:20 - Agent - INFO: Episode 1741	Score: 15.00
+2021/12/06 07:28:23 - Agent - INFO: Episode 1742	Score: 18.00
+2021/12/06 07:28:24 - Agent - INFO: Episode 1743	Score: 12.00
+2021/12/06 07:28:26 - Agent - INFO: Episode 1744	Score: 19.00
+2021/12/06 07:28:27 - Agent - INFO: Episode 1745	Score: 4.00
+2021/12/06 07:28:30 - Agent - INFO: Episode 1746	Score: 13.00
+2021/12/06 07:28:32 - Agent - INFO: Episode 1747	Score: 18.00
+2021/12/06 07:28:33 - Agent - INFO: Episode 1748	Score: 12.00
+2021/12/06 07:28:35 - Agent - INFO: Episode 1749	Score: 18.00
+2021/12/06 07:28:37 - Agent - INFO: Episode 1750	Score: 17.00
+2021/12/06 07:28:39 - Agent - INFO: Episode 1751	Score: 16.00
+2021/12/06 07:28:41 - Agent - INFO: Episode 1752	Score: 21.00
+2021/12/06 07:28:43 - Agent - INFO: Episode 1753	Score: 18.00
+2021/12/06 07:28:45 - Agent - INFO: Episode 1754	Score: 9.00
+2021/12/06 07:28:47 - Agent - INFO: Episode 1755	Score: 16.00
+2021/12/06 07:28:49 - Agent - INFO: Episode 1756	Score: 16.00
+2021/12/06 07:28:52 - Agent - INFO: Episode 1757	Score: 10.00
+2021/12/06 07:28:54 - Agent - INFO: Episode 1758	Score: 11.00
+2021/12/06 07:28:56 - Agent - INFO: Episode 1759	Score: 9.00
+2021/12/06 07:28:58 - Agent - INFO: Episode 1760	Score: 16.00
+2021/12/06 07:29:00 - Agent - INFO: Episode 1761	Score: 17.00
+2021/12/06 07:29:01 - Agent - INFO: Episode 1762	Score: 19.00
+2021/12/06 07:29:03 - Agent - INFO: Episode 1763	Score: 17.00
+2021/12/06 07:29:05 - Agent - INFO: Episode 1764	Score: 17.00
+2021/12/06 07:29:08 - Agent - INFO: Episode 1765	Score: 15.00
+2021/12/06 07:29:10 - Agent - INFO: Episode 1766	Score: 17.00
+2021/12/06 07:29:12 - Agent - INFO: Episode 1767	Score: 18.00
+2021/12/06 07:29:15 - Agent - INFO: Episode 1768	Score: 22.00
+2021/12/06 07:29:17 - Agent - INFO: Episode 1769	Score: 9.00
+2021/12/06 07:29:19 - Agent - INFO: Episode 1770	Score: 18.00
+2021/12/06 07:29:21 - Agent - INFO: Episode 1771	Score: 22.00
+2021/12/06 07:29:23 - Agent - INFO: Episode 1772	Score: 6.00
+2021/12/06 07:29:25 - Agent - INFO: Episode 1773	Score: 20.00
+2021/12/06 07:29:27 - Agent - INFO: Episode 1774	Score: 17.00
+2021/12/06 07:29:29 - Agent - INFO: Episode 1775	Score: 17.00
+2021/12/06 07:29:30 - Agent - INFO: Episode 1776	Score: 16.00
+2021/12/06 07:29:32 - Agent - INFO: Episode 1777	Score: 16.00
+2021/12/06 07:29:34 - Agent - INFO: Episode 1778	Score: 18.00
+2021/12/06 07:29:36 - Agent - INFO: Episode 1779	Score: 19.00
+2021/12/06 07:29:40 - Agent - INFO: Episode 1780	Score: 8.00
+2021/12/06 07:29:42 - Agent - INFO: Episode 1781	Score: 11.00
+2021/12/06 07:29:43 - Agent - INFO: Episode 1782	Score: 17.00
+2021/12/06 07:29:45 - Agent - INFO: Episode 1783	Score: 22.00
+2021/12/06 07:29:47 - Agent - INFO: Episode 1784	Score: 17.00
+2021/12/06 07:29:49 - Agent - INFO: Episode 1785	Score: 16.00
+2021/12/06 07:29:52 - Agent - INFO: Episode 1786	Score: 15.00
+2021/12/06 07:29:54 - Agent - INFO: Episode 1787	Score: 17.00
+2021/12/06 07:29:55 - Agent - INFO: Episode 1788	Score: 5.00
+2021/12/06 07:29:57 - Agent - INFO: Episode 1789	Score: 21.00
+2021/12/06 07:29:59 - Agent - INFO: Episode 1790	Score: 11.00
+2021/12/06 07:30:01 - Agent - INFO: Episode 1791	Score: 19.00
+2021/12/06 07:30:03 - Agent - INFO: Episode 1792	Score: 23.00
+2021/12/06 07:30:05 - Agent - INFO: Episode 1793	Score: 19.00
+2021/12/06 07:30:07 - Agent - INFO: Episode 1794	Score: 19.00
+2021/12/06 07:30:09 - Agent - INFO: Episode 1795	Score: 17.00
+2021/12/06 07:30:11 - Agent - INFO: Episode 1796	Score: 21.00
+2021/12/06 07:30:13 - Agent - INFO: Episode 1797	Score: 13.00
+2021/12/06 07:30:15 - Agent - INFO: Episode 1798	Score: 21.00
+2021/12/06 07:30:17 - Agent - INFO: Episode 1799	Score: 23.00
+2021/12/06 07:30:19 - Agent - INFO: Episode 1800	Score: 16.00
+2021/12/06 07:30:19 - Agent - INFO: Episode 1800	Average Score: 16.19
+2021/12/06 07:30:21 - Agent - INFO: Episode 1801	Score: 17.00
+2021/12/06 07:30:24 - Agent - INFO: Episode 1802	Score: 14.00
+2021/12/06 07:30:25 - Agent - INFO: Episode 1803	Score: 16.00
+2021/12/06 07:30:27 - Agent - INFO: Episode 1804	Score: 10.00
+2021/12/06 07:30:29 - Agent - INFO: Episode 1805	Score: 20.00
+2021/12/06 07:30:31 - Agent - INFO: Episode 1806	Score: 18.00
+2021/12/06 07:30:33 - Agent - INFO: Episode 1807	Score: 13.00
+2021/12/06 07:30:35 - Agent - INFO: Episode 1808	Score: 17.00
+2021/12/06 07:30:37 - Agent - INFO: Episode 1809	Score: 14.00
+2021/12/06 07:30:39 - Agent - INFO: Episode 1810	Score: 22.00
+2021/12/06 07:30:40 - Agent - INFO: Episode 1811	Score: 13.00
+2021/12/06 07:30:42 - Agent - INFO: Episode 1812	Score: 13.00
+2021/12/06 07:30:44 - Agent - INFO: Episode 1813	Score: 19.00
+2021/12/06 07:30:46 - Agent - INFO: Episode 1814	Score: 12.00
+2021/12/06 07:30:47 - Agent - INFO: Episode 1815	Score: 8.00
+2021/12/06 07:30:49 - Agent - INFO: Episode 1816	Score: 20.00
+2021/12/06 07:30:51 - Agent - INFO: Episode 1817	Score: 24.00
+2021/12/06 07:30:53 - Agent - INFO: Episode 1818	Score: 22.00
+2021/12/06 07:30:55 - Agent - INFO: Episode 1819	Score: 21.00
+2021/12/06 07:30:56 - Agent - INFO: Episode 1820	Score: 15.00
+2021/12/06 07:30:58 - Agent - INFO: Episode 1821	Score: 13.00
+2021/12/06 07:31:00 - Agent - INFO: Episode 1822	Score: 19.00
+2021/12/06 07:31:01 - Agent - INFO: Episode 1823	Score: 19.00
+2021/12/06 07:31:04 - Agent - INFO: Episode 1824	Score: 7.00
+2021/12/06 07:31:06 - Agent - INFO: Episode 1825	Score: 12.00
+2021/12/06 07:31:08 - Agent - INFO: Episode 1826	Score: 19.00
+2021/12/06 07:31:10 - Agent - INFO: Episode 1827	Score: 15.00
+2021/12/06 07:31:11 - Agent - INFO: Episode 1828	Score: 11.00
+2021/12/06 07:31:14 - Agent - INFO: Episode 1829	Score: 20.00
+2021/12/06 07:31:16 - Agent - INFO: Episode 1830	Score: 16.00
+2021/12/06 07:31:18 - Agent - INFO: Episode 1831	Score: 11.00
+2021/12/06 07:31:19 - Agent - INFO: Episode 1832	Score: 21.00
+2021/12/06 07:31:21 - Agent - INFO: Episode 1833	Score: 14.00
+2021/12/06 07:31:24 - Agent - INFO: Episode 1834	Score: 14.00
+2021/12/06 07:31:26 - Agent - INFO: Episode 1835	Score: 17.00
+2021/12/06 07:31:27 - Agent - INFO: Episode 1836	Score: 7.00
+2021/12/06 07:31:29 - Agent - INFO: Episode 1837	Score: 22.00
+2021/12/06 07:31:32 - Agent - INFO: Episode 1838	Score: 23.00
+2021/12/06 07:31:34 - Agent - INFO: Episode 1839	Score: 17.00
+2021/12/06 07:31:35 - Agent - INFO: Episode 1840	Score: 18.00
+2021/12/06 07:31:37 - Agent - INFO: Episode 1841	Score: 20.00
+2021/12/06 07:31:40 - Agent - INFO: Episode 1842	Score: 22.00
+2021/12/06 07:31:41 - Agent - INFO: Episode 1843	Score: 17.00
+2021/12/06 07:31:44 - Agent - INFO: Episode 1844	Score: 20.00
+2021/12/06 07:31:45 - Agent - INFO: Episode 1845	Score: 12.00
+2021/12/06 07:31:47 - Agent - INFO: Episode 1846	Score: 11.00
+2021/12/06 07:31:49 - Agent - INFO: Episode 1847	Score: 14.00
+2021/12/06 07:31:50 - Agent - INFO: Episode 1848	Score: 18.00
+2021/12/06 07:31:52 - Agent - INFO: Episode 1849	Score: 13.00
+2021/12/06 07:31:54 - Agent - INFO: Episode 1850	Score: 12.00
+2021/12/06 07:31:56 - Agent - INFO: Episode 1851	Score: 17.00
+2021/12/06 07:31:58 - Agent - INFO: Episode 1852	Score: 19.00
+2021/12/06 07:32:00 - Agent - INFO: Episode 1853	Score: 19.00
+2021/12/06 07:32:01 - Agent - INFO: Episode 1854	Score: 21.00
+2021/12/06 07:32:04 - Agent - INFO: Episode 1855	Score: 9.00
+2021/12/06 07:32:05 - Agent - INFO: Episode 1856	Score: 18.00
+2021/12/06 07:32:07 - Agent - INFO: Episode 1857	Score: 20.00
+2021/12/06 07:32:10 - Agent - INFO: Episode 1858	Score: 18.00
+2021/12/06 07:32:12 - Agent - INFO: Episode 1859	Score: 18.00
+2021/12/06 07:32:13 - Agent - INFO: Episode 1860	Score: 12.00
+2021/12/06 07:32:16 - Agent - INFO: Episode 1861	Score: 16.00
+2021/12/06 07:32:18 - Agent - INFO: Episode 1862	Score: 14.00
+2021/12/06 07:32:20 - Agent - INFO: Episode 1863	Score: 8.00
+2021/12/06 07:32:21 - Agent - INFO: Episode 1864	Score: 20.00
+2021/12/06 07:32:23 - Agent - INFO: Episode 1865	Score: 19.00
+2021/12/06 07:32:26 - Agent - INFO: Episode 1866	Score: 19.00
+2021/12/06 07:32:28 - Agent - INFO: Episode 1867	Score: 12.00
+2021/12/06 07:32:28 - Agent - INFO: Episode 1868	Score: 17.00
+2021/12/06 07:32:30 - Agent - INFO: Episode 1869	Score: 18.00
+2021/12/06 07:32:32 - Agent - INFO: Episode 1870	Score: 22.00
+2021/12/06 07:32:34 - Agent - INFO: Episode 1871	Score: 17.00
+2021/12/06 07:32:36 - Agent - INFO: Episode 1872	Score: 21.00
+2021/12/06 07:32:38 - Agent - INFO: Episode 1873	Score: 21.00
+2021/12/06 07:32:40 - Agent - INFO: Episode 1874	Score: 20.00
+2021/12/06 07:32:42 - Agent - INFO: Episode 1875	Score: 15.00
+2021/12/06 07:32:44 - Agent - INFO: Episode 1876	Score: 13.00
+2021/12/06 07:32:45 - Agent - INFO: Episode 1877	Score: 15.00
+2021/12/06 07:32:47 - Agent - INFO: Episode 1878	Score: 17.00
+2021/12/06 07:32:49 - Agent - INFO: Episode 1879	Score: 16.00
+2021/12/06 07:32:50 - Agent - INFO: Episode 1880	Score: 21.00
+2021/12/06 07:32:52 - Agent - INFO: Episode 1881	Score: 20.00
+2021/12/06 07:32:54 - Agent - INFO: Episode 1882	Score: 15.00
+2021/12/06 07:32:56 - Agent - INFO: Episode 1883	Score: 15.00
+2021/12/06 07:32:59 - Agent - INFO: Episode 1884	Score: 16.00
+2021/12/06 07:33:00 - Agent - INFO: Episode 1885	Score: 13.00
+2021/12/06 07:33:02 - Agent - INFO: Episode 1886	Score: 15.00
+2021/12/06 07:33:05 - Agent - INFO: Episode 1887	Score: 14.00
+2021/12/06 07:33:07 - Agent - INFO: Episode 1888	Score: 12.00
+2021/12/06 07:33:09 - Agent - INFO: Episode 1889	Score: 16.00
+2021/12/06 07:33:11 - Agent - INFO: Episode 1890	Score: 17.00
+2021/12/06 07:33:13 - Agent - INFO: Episode 1891	Score: 14.00
+2021/12/06 07:33:15 - Agent - INFO: Episode 1892	Score: 13.00
+2021/12/06 07:33:17 - Agent - INFO: Episode 1893	Score: 18.00
+2021/12/06 07:33:18 - Agent - INFO: Episode 1894	Score: 14.00
+2021/12/06 07:33:20 - Agent - INFO: Episode 1895	Score: 17.00
+2021/12/06 07:33:22 - Agent - INFO: Episode 1896	Score: 17.00
+2021/12/06 07:33:24 - Agent - INFO: Episode 1897	Score: 21.00
+2021/12/06 07:33:26 - Agent - INFO: Episode 1898	Score: 17.00
+2021/12/06 07:33:28 - Agent - INFO: Episode 1899	Score: 18.00
+2021/12/06 07:33:30 - Agent - INFO: Episode 1900	Score: 13.00
+2021/12/06 07:33:30 - Agent - INFO: Episode 1900	Average Score: 16.29
+2021/12/06 07:33:32 - Agent - INFO: Episode 1901	Score: 16.00
+2021/12/06 07:33:34 - Agent - INFO: Episode 1902	Score: 20.00
+2021/12/06 07:33:35 - Agent - INFO: Episode 1903	Score: 13.00
+2021/12/06 07:33:37 - Agent - INFO: Episode 1904	Score: 20.00
+2021/12/06 07:33:39 - Agent - INFO: Episode 1905	Score: 13.00
+2021/12/06 07:33:42 - Agent - INFO: Episode 1906	Score: 13.00
+2021/12/06 07:33:42 - Agent - INFO: Episode 1907	Score: 18.00
+2021/12/06 07:33:44 - Agent - INFO: Episode 1908	Score: 21.00
+2021/12/06 07:33:46 - Agent - INFO: Episode 1909	Score: 19.00
+2021/12/06 07:33:49 - Agent - INFO: Episode 1910	Score: 10.00
+2021/12/06 07:33:50 - Agent - INFO: Episode 1911	Score: 13.00
+2021/12/06 07:33:52 - Agent - INFO: Episode 1912	Score: 14.00
+2021/12/06 07:33:54 - Agent - INFO: Episode 1913	Score: 21.00
+2021/12/06 07:33:56 - Agent - INFO: Episode 1914	Score: 17.00
+2021/12/06 07:33:58 - Agent - INFO: Episode 1915	Score: 14.00
+2021/12/06 07:34:00 - Agent - INFO: Episode 1916	Score: 16.00
+2021/12/06 07:34:01 - Agent - INFO: Episode 1917	Score: 13.00
+2021/12/06 07:34:03 - Agent - INFO: Episode 1918	Score: 17.00
+2021/12/06 07:34:05 - Agent - INFO: Episode 1919	Score: 23.00
+2021/12/06 07:34:07 - Agent - INFO: Episode 1920	Score: 18.00
+2021/12/06 07:34:09 - Agent - INFO: Episode 1921	Score: 16.00
+2021/12/06 07:34:11 - Agent - INFO: Episode 1922	Score: 17.00
+2021/12/06 07:34:13 - Agent - INFO: Episode 1923	Score: 15.00
+2021/12/06 07:34:15 - Agent - INFO: Episode 1924	Score: 20.00
+2021/12/06 07:34:17 - Agent - INFO: Episode 1925	Score: 17.00
+2021/12/06 07:34:19 - Agent - INFO: Episode 1926	Score: 17.00
+2021/12/06 07:34:22 - Agent - INFO: Episode 1927	Score: 14.00
+2021/12/06 07:34:23 - Agent - INFO: Episode 1928	Score: 20.00
+2021/12/06 07:34:25 - Agent - INFO: Episode 1929	Score: 14.00
+2021/12/06 07:34:27 - Agent - INFO: Episode 1930	Score: 15.00

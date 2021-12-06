@@ -7,7 +7,8 @@ Version: 1.0.0
 from collections import deque
 
 from UnityEnv import UnityEnv
-from DQN import Agent, QNNetwork
+from DQN import Agent
+from DQN.QNNetwork_m3 import QNNetwork
 
 from argparse import ArgumentParser
 import logging as log
@@ -90,7 +91,7 @@ def train(model_file):
         qnn.load(model_file)
     # train the agent
     agn = Agent(qnn, log_handler=logHandler)
-    scores = agn.training(u_env)
+    scores = agn.training(u_env, n_episodes=30000)
     save_scores(scores)
 
 
@@ -178,10 +179,12 @@ if __name__ == '__main__':
     elif sys.platform.startswith('darwin'):
         OS_ = 'darwin'
     if OS_ == 'linux':
-        loggPath = '/var/log/DNav'
+        #loggPath = '/var/log/DNav'
+        loggPath = './log'
         LogFileName = loggPath + '/' + 'DNav.log'
     elif OS_ == 'win32':
-        loggPath = os.getenv('LOCALAPPDATA') + '\\DNav'
+        #loggPath = os.getenv('LOCALAPPDATA') + '\\DNav'
+        loggPath = '.\\log'
         LogFileName = loggPath + '\\' + 'DNav.log'
 
     # Configure the logger
