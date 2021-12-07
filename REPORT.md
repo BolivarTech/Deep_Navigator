@@ -67,12 +67,12 @@ The model takes around 3222 episodes to complete the training, but the
 implemented algorithms wait for 20000 more episodes to verify if is not
 more improves occurs on the last 100 episodes average.
 
-![](C:\Users\jbolivarg\PycharmProjects\Deep_Navigator\docs\img/media/image1.png)
+![](./docs/img/media/image1.png)
 
 Using the trained model, 100 episodes were executed on play mode in
 order to verify the model's performance.
 
-![](C:\Users\jbolivarg\PycharmProjects\Deep_Navigator\docs\img/media/image2.png)
+![](./docs/img/media/image2.png)
 
 On the previous plot is possible view tha agent have a average score
 near to 15 over 100 episodes
