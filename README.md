@@ -82,3 +82,8 @@ The -p option is used to play the agent on the environment using the
 model specified on the -m flag.
 
 The -h option shows the command's flags help
+
+To run the model used on this try:
+
+> python -p -m ./models/m3-18.9.pth
+
