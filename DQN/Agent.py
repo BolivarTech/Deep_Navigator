@@ -140,8 +140,11 @@ class Agent:
         self.__optimizer.step()
 
         # ------------------- update target network ------------------- #
-        self.__soft_update(self.__qnnetwork_policy, self.__qnnetwork_target)
-        self.__logger.debug(f"Learn Step Performed (002)")
+        # Learn every self.__update_target time steps.
+        self.__time_step = (self.__time_step + 1) % self.__update_target
+        if self.__time_step == 0:
+            self.__soft_update(self.__qnnetwork_policy, self.__qnnetwork_target)
+            self.__logger.debug(f"Learn Step Performed (002)")
 
     def __soft_update(self, local_model, target_model):
         """
@@ -168,13 +171,10 @@ class Agent:
         # Save experience in replay memory
         self.__buffer.add(state, action, reward, next_state, done)
 
-        # Learn every self.__update_target time steps.
-        self.__time_step = (self.__time_step + 1) % self.__update_target
-        if self.__time_step == 0:
-            # If enough samples are available in memory, get random subset and learn
-            if len(self.__buffer) >= self.__batch_size:
-                experiences = self.__buffer.sample()
-                self.__learn(experiences)
+        # If enough samples are available in memory, get random subset and learn
+        if len(self.__buffer) >= self.__batch_size:
+            experiences = self.__buffer.sample()
+            self.__learn(experiences)
 
     def actions(self, state):
         """
